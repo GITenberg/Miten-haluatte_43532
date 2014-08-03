@@ -1,0 +1,4991 @@
+The Project Gutenberg EBook of Miten haluatte, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Miten haluatte
+
+Author: William Shakespeare
+
+Translator: Paavo Cajander
+
+Release Date: August 22, 2013 [EBook #43532]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MITEN HALUATTE ***
+
+
+
+
+Produced by Tapio Riikonen
+
+
+
+
+
+
+MITEN HALUATTE
+
+Kirj.
+
+William Shakespeare
+
+
+Paavo Cajanderin suomennos ilmestyi 1910.
+
+
+
+N‰ytelm‰n henkilˆt:
+
+HERTTUA, maastaan karkoitettu.
+FREDRIK, h‰nen veljens‰ ja h‰nen maansa anastaja.
+AMIENS,  |  karkoitetun herttuan seuralaisia.
+JAQUES,  |
+LE BEAU, hovimies Fredrikin palveluksessa.
+CHARLES, painiskelija.
+OLIVER,   |
+JAQUES,   |  Ritari Roland de Bois'n poikia.
+ORLANDO,  |
+AADAM,  |  Oliverin palvelijoita.
+DENNIS, |
+SIERA, narri.
+OLIVARIUS VƒƒRƒLƒINEN, pappi.
+CORINNUS,  |  paimenia.
+SILVIUS,   |
+WILLIAM, nuori talonpoika, Kaisaan rakastunut.
+HYMEN.
+ROSALINDA, karkoitetun herttuan tyt‰r.
+CELIA, Fredrikin tyt‰r.
+PHEBE, paimentyttˆ.
+KAISA, talonpoikaistyttˆ.
+Hovimiehi‰, kantapoikia, mets‰st‰ji‰ ja seuralaisia.
+
+Tapahtumapaikkana: alussa Oliverin talon seutu, sittemmin
+osaksi anastaja-herttuan hovilinna, osaksi Ardennien mets‰.
+
+
+
+
+ENSIMMƒINEN NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Oliverin puutarha.
+    (Orlando ja Aadam tulevat.)
+
+ORLANDO.
+Mik‰li muistan, Aadam, oli asia n‰in: h‰n m‰‰r‰si testamentissaan
+minulle vain tuhannen vaivaista kruunua, ja, niinkuin sanoit,
+siunauksensa nimess‰ velvoitti veljeni kasvattamaan minua hyvin; ja
+siit‰ alkaa surkeuteni. Jaques-velje‰ni h‰n pit‰‰ koulussa, ja huhu
+kertoo vallan ihmeit‰ h‰nen edistymisest‰‰n; mutta minua h‰n kasvattaa
+t‰‰ll‰ kotona kuin moukkaa, tai, oikeammin puhuen, antaa minun el‰‰
+t‰‰ll‰ kotona ilman kasvatusta. Sill‰ sanotteko minun-sukuiselleni
+aatelismiehelle sopivaksi t‰mmˆist‰ kasvatusta, joka ei v‰h‰‰k‰‰n eroa
+h‰r‰n ruokosta? H‰nen hevosistaan pidet‰‰n parempaa huolta; paitsi ett‰
+niit‰ hyvin ruokitaan, saavat ne myˆskin koulutusta, ja sit‰ varten
+palkataan kalliita ratsunopettajia; mutta minua, omaa velje‰ns‰, h‰n ei
+muuta kuin pit‰‰ lihassa, josta hyv‰st‰ elukat tunkiolla ovat h‰nelle
+yht‰ kiitolliset kuin min‰kin. Paitsi tuota tyhj‰‰, jota h‰n niin
+ylenm‰‰rin minulle suo, n‰ytt‰‰ h‰nen menettelyns‰ ottavan minulta pois
+senkin v‰h‰n, mit‰ luonto on minulle antanut; h‰n panee minut syˆm‰‰n
+palvelijainsa kanssa, ep‰‰ minulta veljen paikan ja turmelee, mik‰li
+h‰nen vallassaan on, kasvatuksellaan minun synnynn‰isen jalouteni. Se
+se, Aadam, minua surettaa; ja is‰ni henki, jonka tunnen itsess‰ni
+asuvan, alkaa kapinoida t‰t‰ orjuutta vastaan. En aio kauemmin sit‰
+k‰rsi‰, vaikka en viel‰ tied‰, mill‰ viisaalla keinolla siit‰ p‰‰sisin.
+
+AADAM.
+Tuossa tulee is‰nt‰ni, teid‰n veljenne.
+
+ORLANDO.
+Mene syrj‰‰n, Aadam, niin saat kuulla, kuinka h‰n minulle tiuskii.
+
+    (Oliver tulee.)
+
+OLIVER.
+Mit‰, herraseni? Mit‰ te t‰‰ll‰ toimitatte?
+
+ORLANDO.
+En mit‰‰n; en ole oppinut mit‰‰n toimittamaan.
+
+OLIVER.
+Mit‰ sitten t‰‰ll‰ tyhj‰ilette?
+
+ORLANDO.
+Niin, herraseni, autan teit‰ turmelemaan Jumalan tekoa, mit‰tˆnt‰
+veli-raukkaanne, tyhj‰ntoimituksella.
+
+OLIVER.
+Jatka paremmin, ja ole kerrassaan epatto.
+
+ORLANDO.
+Pit‰‰kˆ minun paimentaa sikojanne ja syˆd‰ rapaa niiden kanssa? Mink‰
+tuhlaajapojan osan olen min‰ h‰vitt‰nyt, ett‰ minun piti t‰llaiseen
+kurjuuteen joutua?
+
+OLIVER.
+Tied‰ttekˆ, herraseni, miss‰ olette?
+
+ORLANDO.
+Oh, varsin hyvin; t‰‰ll‰ teid‰n puutarhassanne.
+
+OLIVER.
+Tunnetteko, kuka on edess‰nne?
+
+ORLANDO.
+Paremmin kuin edess‰ni-olija tuntee, kuka min‰ olen. Tunnen teid‰t
+vanhimmaksi veljekseni, ja veriheimolaisuuden nimess‰ pit‰isi teid‰nkin
+samoin tuntea minut. Kansakuntain hyv‰ tapa sallii teille etusijan
+siksi, ett‰ olette esikoinen, mutta sama perint‰tapa ei ota minulta
+vertani, vaikka olisi kaksikymment‰ velje‰ v‰lill‰mme. Minussa on is‰‰ni
+yht‰ paljon kuin teiss‰; vaikka, sen myˆnn‰n, te, aikaisempana, olette
+l‰hemp‰n‰ h‰nelle tulevaa kunnioitusta.
+
+OLIVER.
+Mit‰, poika?
+
+ORLANDO.
+Hiljaa, hiljaa, vanhin veli! Siihen olette liian nuori.
+
+OLIVER.
+K‰ytkˆ minuun k‰siksi, konna?
+
+ORLANDO.
+En ole mik‰‰n konna; olen ritari Roland de Bois'n nuorin poika. H‰n oli
+is‰ni, ja se on kolmin kerroin konna, joka sanoo, ett‰ sellaisen is‰n
+lapset ovat konnia. Jos et olisi veljeni, en hellitt‰isi kurkustasi t‰t‰
+k‰tt‰, ennenkuin toisella olisin nyht‰nyt kielen suustasi tuon sanan
+t‰hden. Olet itse‰si herjannut.
+
+AADAM (tulee esiin).
+Hyv‰t herrat, rauhoittukaa! Is‰nne muiston t‰hden, sopikaa!
+
+OLIVER.
+P‰‰st‰, sanon min‰!
+
+ORLANDO.
+En, ennenkuin hyv‰ksi n‰en: teid‰n pit‰‰ kuulla minua. Is‰ni velvoitti
+testamentissaan teit‰ antamaan minulle hyv‰n kasvatuksen. Te olette
+pit‰nyt minua kuin talonpoikaa, pid‰tt‰en ja peitellen minulta kaikki
+ylh‰issukuisen avut. Is‰ni henki el‰‰ valtavana minussa, ja min‰ en t‰t‰
+kauemmin k‰rsi. Siis suokaa minulle sellaisia harjoituksia, jotka
+sopivat s‰‰dylleni, tai antakaa pois se vaivainen perintˆosa, jonka is‰
+minulle testamentissaan s‰‰si; menen sill‰ onneani ostamaan.
+
+OLIVER.
+Ja mit‰ aiot tehd‰? Kerj‰t‰kˆ, kun se on tuhlattu? Pois sis‰‰n,
+herraseni; en tahdo ett‰ kauemmin minua vaivaatte; saatte osaksi
+tahtonne t‰ytetyksi. Pyyd‰n, menk‰‰.
+
+ORLANDO.
+En tahdo teit‰ vaivata enemp‰‰ kuin mit‰ oma etuni vaatii.
+
+OLIVER.
+Pois samaa tiet‰ tekin, vanha koira!
+
+AADAM. "Vanha koira", sekˆ palkkani? Niin oikein: olen hampaani
+menett‰nyt teid‰n palveluksessanne. -- Jumala siunatkoon vanhaa
+herraani! H‰n ei olisi koskaan tuommoista sanaa sanonut.
+
+    (Orlando ja Aadam menev‰t.)
+
+OLIVER.
+Niinkˆ on laita? Aiotko vied‰ minusta voiton? Uhkamielisyytesi aion
+parantaa, enk‰ kuitenkaan koskaan antaa tuota tuhatta kruunua. Hoilaa,
+Dennis!
+
+    (Dennis tulee.)
+
+DENNIS.
+Kutsutteko, armo?
+
+OLIVER.
+Eikˆ Charles, herttuan painiskelija, ole pyrkinyt puheilleni?
+
+DENNIS.
+Jos suvaitsette, on h‰n t‰‰ll‰ ulkona ja pyyt‰‰ kiihke‰sti p‰‰st‰
+pateille.
+
+OLIVER.
+K‰ske h‰net sis‰‰n. (Dennis menee.) -- Oiva keino: huomenna on
+kilpapainit.
+
+    (Charles tulee.)
+
+CHARLES.
+Hyv‰‰ huomenta, teid‰n armonne!
+
+OLIVER.
+Hyv‰ monsieur Charles, mit‰ uusinta uutta kuuluu uuteen hoviin?
+
+CHARLES.
+Ei muuta uutta, kuin ne vanhat uutiset, ett‰ vanhan herttuan on
+karkoittanut h‰nen veljens‰, se uusi herttua; ja kolme tai nelj‰
+uskollista ylimyst‰ on mennyt h‰nen kanssaan vapaaehtoiseen maanpakoon;
+n‰iden maista ja tuloista uusi herttua rikastuu, senvuoksi h‰n antaa
+heille t‰yden vallan jaloitella.
+
+OLIVER.
+Voitteko sanoa, onko Rosalinda, herttuan tyt‰r, karkoitettu yhdess‰
+is‰ns‰ kanssa?
+
+CHARLES.
+Oh, ei; sill‰ herttuan tyt‰r, h‰nen serkkunsa, rakastaa niin h‰nt‰, --
+he ovat kehdosta asti yhdess‰ kasvaneet, -- ett‰ olisi seurannut h‰nt‰
+maanpakoon tai kuollut, jos olisi h‰nest‰ j‰‰nyt. H‰n on hovissa, ja
+set‰ ei rakasta h‰nt‰ v‰hemm‰n kuin omaakaan tyt‰rt‰‰n. Milloinkaan ei
+ole kaksi naista niin pit‰nyt toisistaan kuin he.
+
+OLIVER.
+Miss‰ aikoo vanha herttua oleskella?
+
+CHARLES.
+Sanovat, ett‰ h‰n jo on Ardennien mets‰ss‰[1] ja monta iloista
+velikultaa h‰nen kanssaan, ja siell‰ he elostelevat kuin vanha Robin
+Hood[2] Englannissa. Hoetaan paljon nuoria aatelismiehi‰ joka p‰iv‰
+virtaavan h‰nen luokseen ja viett‰v‰n siell‰ huoletonta el‰m‰‰, niinkuin
+ennen kultaisena aikakautena.
+
+OLIVER.
+Sanokaa, painiskeletteko huomenna uuden herttuan n‰hden?
+
+CHARLES.
+Tietystikin; ja tulin puhumaan teille er‰‰st‰ asiasta. Minulle on
+salavihkaa ilmoitettu, ett‰ nuorin veljenne, Orlando, aikoo valepuvussa
+k‰yd‰ ottelemaan kanssani. Huomenna, herra, min‰ painiskelen maineeni
+puolesta, ja joka silloin p‰‰see k‰sist‰ni ruhjomattomin j‰senin,
+kiitt‰kˆˆn onneaan. Veljenne on nuori ja hento; ja teid‰n t‰htenne minun
+olisi s‰‰li niin pahoin h‰nt‰ pidell‰, kuin minun kunniani t‰hden
+t‰ytyy, jos h‰n saapuu. Sen vuoksi tulin yst‰v‰n‰ teille t‰t‰
+ilmoittamaan, jotta joko ehk‰isette h‰nen hankkeensa tai kest‰tte
+tyynen‰ sen h‰pe‰n, mihin h‰n joutuu, koska t‰m‰ tapahtuu h‰nen omasta
+halustaan ja kokonaan vastoin minun tahtoani.
+
+OLIVER.
+Charles, kiit‰n sinua yst‰vyydest‰si, ja saat n‰hd‰, ett‰ sen viel‰ mit‰
+suopeimmin palkitsen. Olen itse saanut vihjauksen veljeni hankkeesta ja
+olen salaa koettanut saada h‰nt‰ luopumaan siit‰; mutta h‰n on
+j‰rk‰ht‰m‰tˆn. Tied‰pp‰, Charles, h‰n on itsep‰isin nuori mies koko
+Ranskassa, t‰ynn‰ kunnianhimoa, kaikkien kykyjen kateellinen kaunailija,
+kavala ja ilke‰ juonittelija minua, omaa velje‰ns‰, vastaan. Siis tee
+miten haluat; minulle on yht‰ mieluista, taitatko h‰nelt‰ niskan vai
+sormen; mutta sinun on paras varoa; sill‰ jos h‰nelle vain pienenkin
+h‰pe‰n tuotat, tai jos h‰n ei saa sinusta suurimaineista voittoa, niin
+h‰n v‰ijyy sinua myrkyll‰, kietoo sinut jollakin viekkaalla juonella,
+eik‰ hellit‰ ennenkuin on toista tai toista salatiet‰ saanut sinut
+hengilt‰; sill‰ vakuutan, sanonpa sen melkein kyyneleet silmiss‰, ettei
+ole maan p‰‰ll‰ toista ihmist‰ niin nuorta ja niin halpamielist‰. Puhun
+nyt vain h‰nest‰ niinkuin veli; mutta jos rupeaisin sinulle paloitellen
+kuvaamaan, millainen h‰n on, niin saisin min‰ punastua ja itke‰, ja sin‰
+kalveta ja h‰mm‰sty‰.
+
+CHARLES.
+Oikein olen syd‰mmest‰ni iloinen, ett‰ t‰nne tulin. Jos h‰n huomenna
+saapuu, niin kyll‰ h‰n minulta tarpeensa saa. Jos h‰n siit‰ pit‰en
+pystyy omin neuvoin liikkumaan, niin min‰ en ikin‰ en‰‰ tahdo
+palkinnosta kilpailla. Ja nyt Jumalan haltuun, teid‰n armonne!
+
+    (Menee.)
+
+OLIVER.
+Hyv‰sti, hyv‰ Charles! -- Nyt tuota tuulihattua usuttamaan! Toivon ett‰
+vihdoinkin p‰‰sen h‰nest‰; sill‰ syd‰mmeni ei mit‰‰n vihaa niinkuin
+h‰nt‰, en tied‰ miksi. Kuitenkin on h‰n hyv‰ns‰vyinen; koulunk‰ym‰tˆn,
+mutta sittenkin tiedokas; jalo harrastuksiltaan; kaikkien kansanluokkain
+rakastama, jopa jumaloima, ja niin kaikkien syd‰mmiin syˆpynyt,
+eritt‰inkin talonv‰keni, joka paraiten h‰net tuntee, ett‰ min‰
+olen kokonaan polkuarvossa. Mutta n‰in ei tule kauan olemaan; tuo
+painiskelija saattaa kaikki selv‰ksi. Nyt ei muuta, kuin usuttelen
+poikaa sinne, ja toimeen ryhdyn heti.
+
+    (Menee.)
+
+
+Toinen kohtaus.
+
+    Aukea ala herttuan lumilinnan edustalla.
+    (Rosalinda ja Celia tulevat.)
+
+CELIA.
+Rosalinda, pyyd‰n, rakas serkku, ole iloinen.
+
+ROSALINDA.
+Rakas Celia, osoitan enemm‰n iloisuutta kuin voinkaan, ja kuitenkin
+tahdot ett‰ olisin iloisempi. Jos et voi opettaa minua mielest‰ni
+unohtamaan maanpakolaista is‰‰, niin et voi pyyt‰‰, ett‰ mik‰‰n tavaton
+iloisuus mieleeni johtuisi.
+
+CELIA.
+Tuosta n‰en, ettet sin‰ rakasta minua yht‰ suuresti kuin min‰ rakastan
+sinua. Jos minun set‰ni, sinun karkoitettu is‰si, olisi karkoittanut
+sinun set‰si, herttuan, minun is‰ni, ja sin‰ olisit yh‰ j‰‰nyt minun
+luokseni, niin olisin min‰ voinut opettaa rakkauttani pit‰m‰‰n sinun
+is‰‰si minun is‰n‰ni. Niin voisit sin‰kin tehd‰, jos sinun rakkautesi
+minuun todellakin olisi niin vilpitˆnt‰ laatua kuin minun on sinuun.
+
+ROSALINDA.
+No niin, tahdon siis unhottaa oman kohtaloni iloitakseni sinun
+kohtalostasi.
+
+CELIA.
+Tied‰t, ett‰ is‰ll‰ni ei ole muuta lasta kuin min‰, eik‰ useamman
+toivoakaan; ja, toden totta, kun h‰n kuolee, olet sin‰ h‰net periv‰;
+sill‰ mit‰ h‰n on ottanut is‰lt‰si v‰kivallalla, sen annan min‰ sinulle
+takaisin rakkaudesta; kunniani kautta, sen teen, ja tulkoon minusta
+ep‰luoma, jos sen valan rikon. Siis rakas Rosa, armas Rosa, ole iloinen.
+
+ROSALINDA.
+T‰st‰ puolin, serkku, tahdon olla iloinen, ja mietti‰ jotakin pilaa.
+Annas olla, mit‰ pid‰t rakastumisesta?
+
+CELIA.
+Olkoon menneeksi, jos teet sit‰ vain pilan vuoksi. Mutta ‰l‰ rakasta
+ket‰‰n miest‰ toden per‰st‰, ‰l‰k‰ piloillasikaan enemp‰‰ kuin ett‰
+kainolla punastumisella p‰‰set kunniallisesti asiasta.
+
+ROSALINDA.
+No, mit‰ pilaa sitten keksitt‰isiin?
+
+CELIA.
+Istukaamme ja naurakaamme tuo toimellinen talonem‰nt‰ Onnetar pois
+pyˆr‰lt‰‰n, niin ett‰ h‰nen antimensa tulisivat t‰st‰ puolin tasan
+jaetuiksi.
+
+ROSALINDA.
+Oi, jospa voisimmekin! H‰n todellakin sijoittelee hyvyyksi‰‰n
+taitamattoman huonosti, ja enimmin tuo sokea antivaimo hairahtuu
+lahjojensa jakamisessa naisille.
+
+CELIA.
+Niin kyll‰: ne, jotka h‰n kauniiksi tekee, ne h‰n harvoin tekee
+siveiksi, ja jotka h‰n siveiksi tekee, ne h‰n tekee perin rumiksi.
+
+ROSALINDA.
+Ei, nyt sin‰ poikkeat onnettaren teht‰vist‰ luonnottaren teht‰viin;
+onnetar hallitsee maallisia lahjoja eik‰ luonnon muodostumia.
+
+CELIA.
+Eikˆ? Kun luonnotar on tehnyt kauniin luoman, eikˆ onnetar voi antaa sen
+tuleen sytty‰? -- Vaikka luonnotar onkin antanut meille ‰ly‰ pilkata
+onnetarta, niin eikˆs nyt onnetar l‰het‰ t‰nne tuota narria katkaisemaan
+puheeltamme p‰‰n?
+
+    (Siera tulee.)
+
+ROSALINDA.
+Niin, todellakin, siin‰ onni vie luonnosta voiton, kun onni antaa tyhm‰n
+luonnonluoman katkaista luonnon ‰lylt‰ p‰‰n.
+
+CELIA.
+Kuka tiet‰‰, ehk‰ se ei olekaan onnen tyˆt‰, vaan luonnon, joka katsoo
+meid‰n luonnon ‰ly‰mme liian tyls‰ksi arvostelemaan moisia jumalattaria,
+ja sen vuoksi on l‰hett‰nyt meille teroittimeksi tuon ep‰luoman, sill‰
+tyhm‰n tylsyys on aina ‰lyn teroitin. -- No, ‰ly, mihin matka?
+
+SIERA.
+Neiti, teid‰n pit‰‰ tulla is‰nne luo.
+
+CELIA.
+Onko teid‰t pantu sanansaattajaksi?
+
+SIERA.
+Ei, kautta kunniani! Minua vain k‰skettiin teit‰ noutamaan.
+
+ROSALINDA.
+Mist‰, narri, olet tuon valan oppinut?
+
+SIERA.
+Er‰‰lt‰ ritarilta, joka vannoi kautta kunniansa, ett‰ pannukakku oli
+hyv‰‰, ja vannoi kautta kunniansa, ett‰ sinappi oli kelvotonta. Nyt
+v‰it‰n min‰, ett‰ pannukakku oli kelvotonta ja sinappi hyv‰‰, eik‰
+kuitenkaan ritari vannonut v‰‰rin.
+
+CELIA.
+Miten sen todistatte suurella tietom‰‰r‰ll‰nne?
+
+ROSALINDA.
+Kas niin, riisukaa vain pois kuonokoppa ‰lylt‰nne.
+
+SIERA.
+Asettukaa nyt t‰h‰n molemmat; pyyhk‰isk‰‰ leukaanne ja vannokaa partanne
+kautta, ett‰ min‰ olen konna.
+
+CELIA.
+Partamme kautta, jos meill‰ sit‰ olisi, olet konna.
+
+SIERA.
+Konnuuteni kautta, jos mulla sit‰ olisi, olisin se. Mutta jos te
+vannotte sen kautta, jota ei ole, niin ette vanno v‰‰rin, enemp‰‰ kuin
+tuo ritarikaan, joka vannoi kunniansa kautta, kun h‰nell‰ ei sit‰ ollut;
+tai jos olikin, niin oli h‰n sen jo vannonut pois, ennenkuin n‰kik‰‰n
+nuo pannukakut tai tuon sinapin.
+
+CELIA.
+Sano meille, ket‰ tarkoitat?
+
+SIERA.
+Er‰st‰, jota vanha Fredrik, teid‰n is‰nne, suosi.
+
+CELIA.
+Is‰ni suosio on kyll‰ksi antamaan h‰nelle kyllin kunniaa. Mutta olkaa
+nyt h‰nest‰ vaiti; saatte ennen pitk‰‰ viel‰ ruoskaa tuosta
+suulaudestanne.
+
+SIERA.
+Sit‰ surkeampaa, ett‰ narrit eiv‰t en‰‰ saa puhua viisaasti siit‰, mit‰
+viisaat tekev‰t narrimaista.
+
+CELIA.
+Totisesti, oikeassa olet; sill‰ sitten kuin se v‰h‰ ‰ly, mik‰ narreilla
+on, on saatu vaikenemaan, tulee se v‰h‰ narrimaisuus, mik‰ viisaissa on,
+r‰ike‰mmin n‰kyviin. Tuossahan tulee monsieur le Beau.
+
+    (Le Beau tulee.)
+
+ROSALINDA.
+Suu t‰ynn‰ uutisia.
+
+CELIA.
+Joilla meit‰ syˆtt‰‰ niinkuin kyyhkynen poikasiaan.
+
+ROSALINDA.
+Silloin meist‰ tulee hyvi‰ uutis-syˆttil‰it‰.
+
+CELIA.
+Hyv‰ vain, paremmin k‰ymme kaupaksi. Bon jour, Monsieur le Beau! Mit‰
+uutta?
+
+LE BEAU.
+Ihana prinsessa, teilt‰ on mennyt hukkaan oiva lysti.
+
+CELIA.
+Lysti? Mink‰ karvainen?
+
+LE BEAU.
+Mink‰kˆ karvainen? Kuinka siihen vastaisin?
+
+ROSALINDA.
+Niinkuin ‰ly ja onni suvaitsee.
+
+SIERA.
+Tai niinkuin sallimus m‰‰r‰‰.
+
+CELIA.
+Oikein! Niinkuin kauhalla m‰tetty!
+
+SIERA.
+Niin, minun pit‰‰ noudattaa ajuani.
+
+ROSALINDA.
+Muuten menet‰t vanhan hajusi.
+
+LE BEAU.
+Panette minut ymm‰lle, hyv‰t neidet. Aioin kertoa teille uhkapainista,
+joka on j‰‰nyt teilt‰ n‰kem‰tt‰.
+
+ROSALINDA.
+Kertokaa kuitenkin, kuinka siin‰ k‰vi.
+
+LE BEAU.
+Kerron teille alun, ja jos suvaitsette, hyv‰t armot, niin voitte itse
+n‰hd‰ lopun; sill‰ paras osa on viel‰ j‰ljell‰, ja he tulevat juuri
+t‰h‰n paikkaan sit‰ jatkamaan.
+
+CELIA.
+No, ent‰ alku, joka jo on kuollut ja haudattu?
+
+LE BEAU.
+Oli er‰s vanhus ja h‰nen kolme poikaansa, --
+
+CELIA.
+Tunnen vanhan sadun, joka alkaa samoin.
+
+LE BEAU.
+Kolme siev‰‰ nuorta miest‰, erinomainen vartalo ja ryhti
+itsekullakin, --
+
+ROSALINDA.
+Ja lappu kaulassa: "Joka t‰ten itsekullekin tiedoksi annetaan."
+
+LE BEAU.
+Vanhin n‰ist‰ kolmesta meni otteluun Charlesin, herttuan painiskelijan,
+kanssa. Charles paiskasi h‰net heti paikalla maahan ja taittoi h‰nelt‰
+kolme kylkiluuta, niin ettei ole suuria toiveita h‰nen henkiin
+j‰‰misest‰‰n; samoin h‰n piteli toista, ja samoin kolmatta. Siell‰ he
+nyt viruvat, ja vanhus-parka, heid‰n is‰ns‰, vaikeroi niin surkeasti,
+ett‰ kaikki katsojatkin auttavat h‰nt‰ kyynelill‰‰n.
+
+ROSALINDA.
+Ah!
+
+SIERA.
+Mutta mik‰ se lysti on, joka armoilta on hukkaan mennyt, monsieur?
+
+LE BEAU.
+Se tietenkin, josta kerron.
+
+SIERA.
+Oppia ik‰ kaikki. Ensi kerran el‰iss‰ni kuulen, ett‰ kylkiluiden katko
+on lysti‰ naisille.
+
+CELIA.
+Niin min‰kin, sen vakuutan.
+
+ROSALINDA.
+Mutta onko t‰‰ll‰ ket‰‰n muuta, jota huvittaa t‰llainen katkonainen
+luu-musiikki? Onko ket‰‰n toista, joka on kylkiluiden katkoon ihastunut?
+-- Katsommekohan, serkku, tuota painiskelua?
+
+LE BEAU.
+Teid‰n t‰ytyy, jos t‰h‰n j‰‰tte, sill‰ t‰m‰ on painiskelupaikaksi
+m‰‰r‰tty; ja he k‰yv‰t heti kohta toimeen.
+
+CELIA.
+Tuossa he jo todellakin tulevat. J‰‰d‰‰n nyt katsomaan.
+
+    (Torventoitauksia. Herttua Fredrik, hoviherroja,
+    Orlando, Charles ja seuralaisia tulee.)
+
+HERTTUA FREDRIK.
+Olkoon menneeksi! Koska tuo nuori mies ei tahdo neuvoa kuulla, niin
+maksakoon itse tyhm‰nrohkeutensa.
+
+ROSALINDA.
+Tuoko se mies?
+
+LE BEAU:
+H‰n se on, neiti.
+
+CELIA.
+Ah, h‰n on liian nuori! Kuitenkin on katse h‰nell‰ voitonvarma.
+
+HERTTUA FREDRIK.
+Mit‰? Tyt‰r ja serkku! Oletteko hiipineet t‰nne painia katsomaan?
+
+ROSALINDA.
+Olemme, prinssi, jos suvaitsette sallia.
+
+HERTTUA FREDRIK.
+V‰h‰n teill‰ on siit‰ huvia, sen voin sanoa: painijat ovat liian
+erivoimaiset. S‰‰lien tuon haastajan nuoruutta, olisin mielell‰ni h‰nt‰
+siit‰ estellyt, mutta h‰n ei tahdo neuvoa kuulla. Puhutelkaa te h‰nt‰,
+tytˆt; koettakaa, saatteko h‰nt‰ taipumaan.
+
+CELIA.
+Kutsukaa h‰net t‰nne, hyv‰ monsieur le Beau.
+
+HERTTUA FREDRIK.
+Tehk‰‰ se; min‰ poistun.
+
+    (Herttua vet‰ytyy syrj‰‰n.)
+
+LE BEAU.
+Herra haastaja, prinsessat tahtovat teit‰ puhutella.
+
+ORLANDO.
+Odotan heid‰n k‰sky‰‰n suurimmalla kunnioituksella.
+
+ROSALINDA.
+Nuori mies, tekˆ olette vaatinut Charles-painijan otteluun?
+
+ORLANDO.
+En, kaunis prinsessa; h‰n on itse yleinen haastaja; tulen vain, niinkuin
+muutkin, koettelemaan nuoruuteni voimia h‰nen kanssaan.
+
+CELIA.
+Nuori mies, intonne on liian rohkea ik‰‰nne n‰hden. Olette n‰hnyt
+hirveit‰ n‰ytteit‰ sen miehen voimasta; jos voisitte omin silmin n‰hd‰
+itse‰nne tai tasapuolisesti itse‰nne arvostella, niin onnistumisen pelko
+neuvoisi teit‰ tasavoimaisempaan yritykseen. Pyyd‰mme, itsenne t‰hden,
+teit‰ ajattelemaan omaa turvallisuuttanne ja luopumaan t‰st‰
+koetuksesta.
+
+ROSALINDA.
+Tehk‰‰ se, nuori mies; maineenne ei siit‰ tule k‰rsim‰‰n. Me teemme
+omassa nimess‰mme pyynnˆn herttualle, ett‰ paini peruutetaan.
+
+ORLANDO.
+Rukoilen, ‰lk‰‰ minua ankarasti tuomiten rangaisko; myˆnn‰n ett‰ olen
+suuresti rikollinen, kun niin kauniilta ja jaloilta naisilta mit‰‰n
+ep‰‰n. Suokaa vain kauniit silm‰nne ja suopeat toivomuksenne seuraksi
+minulle t‰h‰n koetukseeni. Jos siin‰ joudun tappiolle, niin tulee vain
+h‰pe‰ sille, joka ei milloinkaan ole arvossa ollut; jos kaadun, niin
+kuolee vain se, joka ei mit‰‰n muuta toivo. En tuota surua yst‰villeni,
+sill‰ minulla ei ole ket‰‰n, joka minua itkisi; enk‰ maailmalle
+vahinkoa, sill‰ minulla ei ole mit‰‰n maailmassa; anastan vain siin‰
+paikan, joka voi tulla paremmin t‰ytetyksi, kun min‰ sen j‰t‰n.
+
+ROSALINDA.
+Soisin ett‰ se voiman rahtunen, mik‰ minussa on, tulisi teille osaksi.
+
+CELIA.
+Samoin minun, pieneksi t‰ytteeksi.
+
+ROSALINDA.
+Hyv‰sti j‰‰k‰‰! Suokoon taivas, ett‰ olisin teist‰ erehtynyt!
+
+CELIA.
+Syd‰mmenne toivomus teit‰ auttakoon!
+
+CHARLES.
+No, miss‰ on se nuori sankari, joka on niin halukas lep‰‰m‰‰n maa-emonsa
+povella?
+
+ORLANDO.
+T‰ss‰, herraseni, mutta h‰nell‰ on h‰veli‰‰mpi aikomus mieless‰.
+
+HERTTUA FREDRIK.
+Teid‰n tulee tehd‰ vain yksi koetus.
+
+CHARLES.
+Takaan, ett‰ teid‰n armonne ei saa h‰nt‰ toiseen pakoitetuksi, kun
+olette niin kaikin voimin koettanut h‰nt‰ ensimm‰isest‰kin estell‰.
+
+ORLANDO.
+Aiotte minua j‰ljest‰p‰in pilkata; siis ei teid‰n olisi pit‰nyt sit‰
+ennakolta tehd‰. Mut toimeen!
+
+ROSALINDA.
+Nyt Herkules sua auttakoon, nuori mies!
+
+CELIA.
+Soisin olevani n‰kym‰tˆn, ett‰ voisin tuon koljon jalan lyˆd‰ kamppiin.
+
+    (Charles ja Orlando painivat.)
+
+ROSALINDA.
+Oi, reima nuorukainen!
+
+CELIA.
+Jos olisi minulla ukonnuoli silm‰ss‰ni, kyll‰ tiet‰isin, kuka maahan
+suistuisi.
+
+    (Charles sortuu maahan. Ihastushuutoja.)
+
+HERTTUA FREDRIK.
+Jo riitt‰‰, jo riitt‰‰!
+
+ORLANDO.
+Ei, teid‰n armonne, en ole viel‰ p‰‰ssyt oikein vauhtiin.
+
+HERTTUA FREDRIK.
+Kuinka on laitasi, Charles?
+
+LE BEAU.
+H‰n ei voi puhua, prinssi hyv‰.
+
+HERTTUA FREDRIK.
+Kantakaa h‰net pois.
+
+    (Charles kannetaan pois.)
+
+Mik‰ on nimesi, nuori mies?
+
+ORLANDO.
+Orlando, teid‰n armonne, ritari Roland de Bois'n nuorin poika.
+
+HERTTUA FREDRIK.
+Oi, ett‰ oisit jonkun toisen poika!
+Is‰‰si kunnioitti maailma,
+Mut mulle aina vihamies h‰n oli.
+Tuo tekos enemm‰n mua miellytt‰isi,
+Jos toista sukuper‰‰ olisit.
+Hyv‰sti! Reipas olet nuorukainen.
+Jos maininnut vain oisit toisen is‰n!
+
+    (Herttua Fredrik seurueineen ja le Beau menev‰t.)
+
+CELIA.
+Min‰ noinko oisin is‰n‰ni tehnyt?
+
+ORLANDO.
+Ylpeilen, Rolandin ett' olen poika,
+Niin, nuorin poika; -- nime‰ en vaihtais,
+Vaikk' ottais Fredrik minut lapsekseen.
+
+ROSALINDA.
+Ol' is‰lle kuin henki Roland rakas,
+Ja koko maailma ol' is‰n mielt‰.
+Jos oisin ennen tiennyt, ken h‰n on,
+Niin kyynelt' oisin pyynnˆn hˆysteeks pannut,
+Noin ett'ei oisi vaaraan syˆssyt.
+
+CELIA.
+                                  Serkku,
+Nyt kiit‰mme ja rohkaisemme h‰nt‰:
+Is‰ni raaka, tyly kohtelu
+Mua syd‰nnytt‰‰. -- (Orlandolle.) Kiitost' ansaitsette;
+Jos lemmess' ootte yht‰ uskottava,
+Kuin uskomaton oli tekonne,
+Niin tyttˆsenne kelpaa.
+
+ROSALINDA.
+Nuori mies,
+    (Antaa h‰nelle vitjat kaulastaan.)
+Tuo onnen hylk‰‰m‰tt‰ ottakaa;
+Enemm‰n antais h‰n, jos h‰ll‰ oisi. --
+Tule, serkku!
+
+CELIA.
+              Hyv‰st', ylv‰ ylimys!
+
+ORLANDO.
+Miks en voi kiitt‰‰? Paremp' osani
+On maahan lyˆty; pystyss‰ on en‰‰
+Vain pilkkataulu, pˆlkky eloton.
+
+ROSALINDA.
+H‰n kutsuu. Ylpeys laski onnen kanssa;
+Kysynp‰, mit‰ tahtoo. -- Kutsuitteko?
+Te hyvin painitte, ja muitakin
+Te voititte kuin vihamiehi‰nne.
+
+CELIA.
+Tuletko, serkku?
+
+ROSALINDA.
+                 Tulen. -- Hyv‰sti!
+
+    (Rosalinda ja Celia menev‰t.)
+
+ORLANDO.
+Mik' into kielt‰ni nyt kahlehtii?
+En puhua ma voi, ja h‰n kun pyysi!
+Orlando-parka, olet kukistettu!
+Niin, Charles tai joku heikompi sun voitti.
+
+    (Le Beau palajaa.)
+
+LE BEAU.
+Teit' yst‰v‰n‰ neuvon, hyv‰ herra:
+T‰‰ paikka j‰tt‰k‰‰. Vaikk' ylistyst‰
+Ja suosiot', yst‰vyytt‰ ansaitsette,
+Niin on nyt sill‰ p‰‰ll‰ herttua,
+Ett' tekonne h‰n kaikki pahaks k‰‰nt‰‰.
+H‰ll' oikkuns' on. Mik' on h‰n, teid‰n n‰hd‰
+On sopivampi kuin mun kertoa.
+
+ORLANDO.
+Suur' kiitos, herra! Pyyd‰n, sanokaa:
+Ken herttuan tyt‰r noista kahdest' oli,
+Jotk' ottelua t‰ss‰ katselivat?
+
+LE BEAU.
+Ei kumpikaan, jos luontoon katsotaan;
+Mut hoikempi on h‰nen tytt‰rens‰,
+Ja karkoitetun herttuan on toinen,
+Jot' anastaja-set‰ t‰‰ll‰ pit‰‰
+Seuraksi tytt‰relleen: n‰iden rakkaus
+On hellempi kuin koskaan sisarusten.
+Mut herttua, tiet‰k‰‰, on hiljan saanut
+Ihanaan veljentytt‰reens‰ inhon,
+Ja muut' ei syyt‰ siihen lie kuin se,
+Ett' avuistansa h‰nt‰ kansa kiitt‰‰
+Ja hyv‰n is‰n t‰hden h‰nt‰ s‰‰lii!
+Ja, kautta henkeni, h‰n salavihans'
+ƒkisti h‰neen purkaa. -- Hyv‰sti!
+Maailmass' ehommassa toivon teilt‰
+Vastedes lis‰‰ rakkautta ja seuraa.
+
+ORLANDO.
+Hyv‰sti! Suurest' olen kiitollinen.
+
+    (Le Beau menee.)
+
+Nyt joudun peijakkaasta itse peikkoon:
+Tylyst‰ herttuasta tylyyn veikkoon. --
+Mut taivaallinen Rosalinda!
+
+                   (Menee.)
+
+
+Kolmas kohtaus.
+
+    Huone hovilinnassa.
+    (Celia ja Rosalinda tulevat.)
+
+CELIA.
+No, serkku! No, Rosalinda! -- Cupido armahtakoon! -- Ei sanaakaan?
+
+ROSALINDA.
+Ei edes koiralle viskattavaa.
+
+CELIA.
+Sinun sanasi ovat liian kalliit koirille viskattaviksi, mutta paiskaa
+edes jokunen minulle. Kas niin, halvaa minut j‰rkisyill‰.
+
+ROSALINDA.
+Silloin olisi kahden serkun loppu, jos toinen halvaantuisi j‰rkisyist‰,
+ja toinen hullaantuisi ilman j‰rkisyit‰.
+
+CELIA.
+Mut tuoko kaikki sinun is‰si t‰hden?
+
+ROSALINDA.
+Ei, osaksi myˆskin lapseni is‰n t‰hden. Oi, kuinka on ohdakkeita t‰ynn‰
+t‰m‰ arkimaailma!
+
+CELIA.
+Ne on vain takkiaisia, serkku, joita on viskattu sinuun pyh‰nvietoksi;
+jos emme kulje raivatulla tiell‰, niin omat hameemme niit‰ kokoavat.
+
+ROSALINDA.
+Hameestani ne voisin ravistaa pois; mutta n‰m‰ takkiaiset istuvat kiinni
+rinnassa.
+
+CELIA.
+Ysk‰ise ne pois.
+
+ROSALINDA.
+Yskisin, jos ysk‰ll‰ saisin yst‰v‰n t‰nne.
+
+CELIA.
+No, mit‰! Lyˆ painia halujesi kanssa.
+
+ROSALINDA.
+Oi, ne pit‰v‰t paremman painijan puolta kuin mit‰ min‰ olen.
+
+CELIA.
+Taivas sinua auttakoon! Kyll‰ viel‰ kerran h‰nen kanssaan rynnistelet,
+vaikka siin‰ allekin joutuisit. -- Mutta pannaanpa nyt n‰m‰ pilapuheet
+viralta ja puhutaan vakavasti. Onko mahdollista, ett‰ sin‰ noin
+‰kkipikaa olisit niin kiihke‰sti kiintynyt vanhan ritari Rolandin
+nuorimpaan poikaan?
+
+ROSALINDA.
+Herttua, is‰ni, rakasti syd‰mmest‰‰n h‰nen is‰‰ns‰.
+
+CELIA.
+Johtuuko siit‰, ett‰ sinun pit‰‰ syd‰mmest‰si rakastaa h‰nen poikaansa?
+Niin ollen pit‰isi minun h‰nt‰ vihata, sill‰ minun is‰ni vihasi
+syd‰mmest‰‰n h‰nen is‰‰ns‰; ja kuitenkaan min‰ en vihaa Orlandoa.
+
+ROSALINDA.
+ƒl‰ vihaakaan h‰nt‰! Minun t‰hteni, ‰l‰!
+
+CELIA.
+Miksi h‰nt‰ vihaisin? Eikˆ h‰n ansaitse parempaakin?
+
+ROSALINDA.
+Sen t‰hden anna minun h‰nt‰ rakastaa; ja rakasta sin‰kin h‰nt‰, kun
+min‰kin rakastan. -- Kas, tuossa tulee herttua.
+
+CELIA.
+Silm‰t vihaa suitsevina.
+
+    (Herttua Fredrik hoviherroineen tulee.)
+
+HERTTUA FREDRIK.
+Tulisin kiirein, neiti, valmistukaa hovista l‰htˆˆn.
+
+ROSALINDA.
+Min‰kˆ?
+
+FREDRIK.
+        Niin, te.
+Jos kymmeness‰ p‰iv‰ss‰ et t‰‰lt‰
+Jo kahtakymment' ole peninkulmaa,
+Niin vie sun surma.
+
+ROSALINDA.
+                    Set‰, rukoilen,
+Mun suokaa tiet‰‰, mik' on rikokseni.
+Jos omaa itse‰ni ymm‰rr‰n,
+Jos omat toivomukseni ma tunnen,
+Jos unt' en n‰e, enk‰ j‰rjilt' ole --
+Jot' en ma luulisi -- niin teit' en koskaan,
+En ajatuksin syntym‰ttˆmink‰‰n,
+Ma loukannut.
+
+HERTTUA FREDRIK.
+              Tuo petturein on tapaa;
+Jos sanat voisi heit‰ puhdistaa,
+Niin puhtait' oisivat kuin itse armo.
+Se riitt‰‰, ett' en min‰ sinuun luota.
+
+ROSALINDA.
+Mua petturiks ei ep‰ilynne tee.
+Sanokaa, mist‰ johtuu moinen luulo.
+
+HERTTUA FREDRIK.
+Is‰si tyt‰r olet, siin‰ kyllin.
+
+ROSALINDA.
+Se olin, kun te veitte h‰nen maansa,
+Se olin, kun te h‰net karkoititte.
+Ei, prinssi, petosta ei perit‰;
+Tai suvussa jos onkin, mit‰ koskee
+Se minuun? Is‰ni ei pettur' ollut.
+Siis suurest' erehdytte, kˆyhyytt‰ni
+Jos, prinssi, pettuudeksi luulette.
+
+CELIA.
+Mua kuulkaa, armollinen valtias!
+
+HERTTUA FREDRIK.
+Niin, Celia, sun t‰htes sai h‰n j‰‰d‰;
+Is‰ns‰ kanssa muuten harhailisi.
+
+CELIA.
+En min‰ silloin pyynnyt h‰nt‰ j‰‰m‰‰n;
+Tahtonne vaati sen, ja tuntonne.
+H‰nt' arvomaan min' olin silloin nuori,
+Nyt h‰net tunnen: petturi jos h‰n on,
+Niin min‰ myˆs; me yhdess' aina maattiin,
+Kisailtiin, syˆtiin, yhdess' opiskeltiin;
+Jos miss‰ k‰ytiin, rinnan aina k‰ytiin
+Ja yhten‰ kuin Junon joutsenpari.
+
+HERTTUA FREDRIK.
+H‰n liian suka sulle on; tuo lempeys,
+Tuo hiljaisuus, tuo k‰rsiv‰llisyys
+Hivelt‰‰ kansaa, ja se h‰nt‰ s‰‰lii.
+Sa hupsu! Nimesi h‰n sulta ryˆst‰‰;
+Sa kirkkaammalta n‰yt‰t, puhtaammalta,
+Kun h‰n on poissa. Suutas ‰l‰ avaa;
+Luja on tuomio ja j‰rkkym‰tˆn:
+H‰n karkoitettu on.
+
+CELIA.
+                    Siis julistakaa
+Minulle, is‰, sama tuomio;
+En h‰nest' erill‰‰n ma el‰‰ voi.
+
+HERTTUA FREDRIK.
+Sin' olet hupsu. -- Serkku, kavahda:
+Jos aikailet, niin, kautta kunniani
+Ja valtasanani, sun surma perii.
+
+    (Herttua Fredrik hoviherroineen menee.)
+
+CELIA.
+Oi, Rosalinda-parka, mihin menet?
+Isi‰ vaihdetaanko? Ota minun.
+Oi, armas, suret enemm‰n kuin min‰.
+
+ROSALINDA.
+Mull' enemm‰n on syyt‰.
+
+CELIA.
+                        Eik‰, serkku.
+Iloitse! Etkˆ tied‰, ett‰ herttua
+Mun, tytt‰rens', on karkoittanut?
+
+ROSALINDA.
+Ei.
+
+CELIA.
+Vai ei? Vai ei? Siis Rosalindalta
+Se rakkaus puuttuu, joka sanois sulle,
+Ett' yht‰ sin‰ olemme ja min‰.
+Eroko? Ero meille, armas? Ei!
+Hakekoon is‰ toisen perillisen.
+Siis, tuumailkaamme, miten paeta
+Ja mihin menn‰, mit‰ ottaa mukaan.
+ƒl' yksin kohtaloas kantaa pyyd‰
+Ja huolistas mua osattomaks tehd‰.
+Tuon taivaan kautta, murheistamme valjun,
+Sano mit‰ sanot, min‰ mukaan k‰yn!
+
+ROSALINDA.
+Mut mihin sitten menn‰‰n?
+
+CELIA.
+Set‰ni luokse, Ardennien mets‰‰n.
+
+ROSALINDA.
+Ah, kuinka vaarallista meille on,
+Naisille meille, matkustaa niin kauas!
+Voroille kauneus mielemp' on kuin kulta.
+
+CELIA.
+Pukeun itse kˆyh‰‰n, halpaan pukuun
+Ja umbralla ma keltaan kasvoni.
+Tee sin‰ samoin, niin ei rosvoili' ole
+Halua meihin.
+
+ROSALINDA.
+              Eikˆ paremp' oisi,
+Kun tavallista suuremp' olen min‰,
+Ett' ihan pukeutuisin mieheksi?
+Sorea lyhyt miekka lanteilla,
+K‰dess‰ mets‰keih‰s; syd‰mmess‰
+Vaikk' oiskin hiukan naisen pelkoa,
+Ois ulkomuoto sotainen ja karski,
+Niinkuin ne monet muutkin akkamiehet
+N‰ˆll‰‰n uhka-uljuutt' osoittavat.
+
+CELIA.
+Ja mik‰ nimesi, kun olet mies?
+
+ROSALINDA.
+Ei huonompi kuin Jupiterin paashin:
+Sanoa saat mua Ganymedeeksi.
+Mut mit‰ nime‰ s‰ itse k‰yt‰t?
+
+CELIA.
+Jotakin joka sopii tilaani:
+Ei en‰‰ Celian, vaan Alienan.
+
+ROSALINDA.
+Mut mit‰, jospa mukaan vietelt‰isi
+Is‰mme hovista tuo narrinparta?
+H‰n eikˆ ratoks oisi matkalla?
+
+CELIA.
+Avaraan maailmaan h‰n mua seuraa;
+Kyll' yksin h‰nt‰ kosin. Pois nyt vain
+Korumme kokoomaan ja kalleutemme,
+Ja parast' aikaa miettim‰‰n ja tiet‰,
+Kuink' etsijˆilt‰ turvaan p‰‰semme.
+Siis k‰yk‰‰mme nyt ilman arvelutta
+Ei maanpakoon, vaan kohti vapautta.
+
+                         (Menev‰t.)
+
+
+
+
+TOINEN NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Ardennien mets‰.
+    (Karkoitettu herttua, Amiens ja muita ylimyksi‰ mets‰styspuvussa.)
+
+HERTTUA.
+Maanpako-kumppanit ja yst‰v‰t,
+T‰‰ el‰m‰, kun siihen tottuu, hauskemp'
+On loiston kiiltoa. N‰‰ mets‰t eikˆ
+Vapaammat vaarasta kuin viekas hovi?
+T‰‰ll' Aatamin vain rangaistuksen tuntee,
+Vuos'aikain vaihteet: talven j‰iset kourat
+Ja myrskyn vonkunan ja ulvonnan,
+Mut kun se puree, ett‰ vihloo vilu
+Ja karmii pintaa, hymyilen ja sanon:
+Ei immarrusta tuo; nuo neuvosherrat
+Suun sis‰‰n mulle sanovat, mik' olen.
+Suloinen vastoink‰ymisen on hyˆty:
+Kuin h‰ijy, myrkyllinen rupikonna[3]
+Se kalliin kiven p‰‰ss‰‰n tallettaa.
+N‰in meille, mailman melust' erill‰‰n,
+Puut puhelee ja l‰hteet kirjans avaa,
+Kivetkin saarnaa; hyv‰‰ t‰‰ll' on kaikki.
+
+AMIENS.
+Pois t‰t' en vaihtais. Onnellinen te,
+Kun onnen kommellukset voitte k‰‰nt‰‰
+Noin lempe‰ksi sulokieleksi.
+
+HERTTUA.
+Pois tulkaa, menn‰‰n riistaa kaatamaan;
+Vaikk' onkin s‰‰li, ett‰ kailot raukat,
+T‰‰n er‰kyl‰n kotoasukkaat,
+Omalla maallaan v‰k‰nuolistamme
+H‰p‰‰ns‰ veriin saavat.
+
+1 YLIMYS.
+                        Toden totta,
+Se synk‰n Jaques'nkin k‰y syd‰mmelle.
+H‰n vannoo, ett‰ pahemp' olette
+Kuin veljenne, jok' ajoi teid‰t maasta.
+Amiens ja min‰ t‰n‰‰n h‰nen taakseen
+Hiivimme, kun h‰n lojui tammen alla,
+Jok' ik‰juuriansa kurkoittaa
+Purosta, joka mets‰n kautta soljuu.
+Nyt siihen peloteltu hirvi-parka,
+Ajajan nuolen haavoittamana,
+Tul' l‰‰hˆtt‰m‰‰n; ja tuo el‰in-parka
+Niin syv‰‰n toden totta huokailikin,
+Ett' ihan katketakseen pingoittui
+Sen nahkaturkki; suuret kyynelherneet
+Sen viatonta turpaa pitkin ajoi
+Toistansa takaa; n‰in tuo karva-narri,
+Jot' yhten‰ns‰ tarkkas synkk‰ Jaques,
+Ripe‰n puron seisoi reunall' aivan,
+Lis‰ten sit‰ kyynelin.
+
+HERTTUA.
+                       Ja Jaques
+Tuost' eikˆ n‰ytelm‰st‰ saarnaa tehnyt?
+
+1 YLIMYS.
+Tuhansin vertauksin. Ensin siit‰,
+Ett' el‰in t‰ysin‰iseen virtaan itki:
+"Teet, el‰in-parka, testamenttis", sanoi,
+"Kuin mailman lapset: sille lis‰‰ annat,
+Joll' on jo kyllin". Sitten, kun se j‰‰nyt
+Ol' yksin silkkisist‰ yst‰vist‰‰n:
+"Niin oikein", sanoi h‰n, "noin seuraparven
+Hajoittaa kurjuus!" Lauma huoleton
+Juoks ohi kyll‰isen‰, mut ei kukaan
+Silm‰nnyt kumppaniin: "Niin", sanoi Jaques,
+"Pois juoskaa porvarit, te ihramahat!
+Niin' tapa vaatii; miksi katsoisitte
+Te tuohon kˆyh‰‰n h‰verikkˆ-raukkaan?"
+N‰in parjaten h‰n penkoi ytimilt‰‰n
+Maat, kaupungit ja hovit, jopa kaiken
+T‰‰n el‰m‰nkin; vannoi ett‰ ollaan
+Voroja, tyranneja, pahempaakin,
+Kun s‰ikyt‰mme elukat, ja lis‰ks
+Ne oman kodin helmaan tapamme.
+
+HERTTUA.
+H‰n sinne j‰ikˆ noihin mietteisiins‰?
+
+2 YLIMYS.
+J‰i, itkem‰‰n ja tutkistelemaan
+Tuot' oihkivata raukkaa.
+
+HERTTUA.
+                         N‰yt‰ paikka;
+H‰n tuossa mielentilass' otollisin
+On seuramies: h‰n ‰lyk‰s on silloin.
+
+2 YLIMYS.
+Ma heti teid‰t saatan h‰nen luokseen.
+
+    (Menev‰t.)
+
+
+Toinen kohtaus.
+
+    Huone hovilinnassa.
+    (Herttua Fredrik tulee hoviherroineen ja seuralaisineen.)
+
+HERTTUA FREDRIK.
+Niin onko, ettei kukaan heit‰ n‰hnyt?
+Se mahdotont' on: konnat t‰‰ll‰ hoviss'
+On juoness' olleet heit‰ auttamassa.
+
+1 HOVIHERRA.
+En tied‰ ket‰‰n, jok' ois h‰nt‰ n‰hnyt;
+Kamarineitsyens‰ vuoteelle
+Saattoivat h‰net, mutta huomenissa
+On vuode tyhj‰, poissa haltija.
+
+2 HOVIHERRA.
+Tuo narri-ryˆtys, jolle teill‰ usein
+On tapa nauraa, h‰n on myˆskin poissa.
+Prinsessan sis‰neitsyt, Hesperia,
+On tunnustanut salaa kuunnelleensa,
+Kuink' ylisteli neiti serkkuineen
+Tuon paininlyˆj‰n suloa ja voimaa,
+Jok' ‰sken voitti vankan Charlesin;
+Ja luulee ett‰, miss‰ lienev‰tkin,
+Tuo nuori mies on heid‰n seurassaan.
+
+HERTTUA FREDRIK.
+Sana veljelle! Se teiska tuokaa t‰nne;
+Jos h‰n on poissa, tuokaa t‰nne veli,
+H‰n selv‰n h‰nest' ottaa saa. Mut joutuin!
+Ja urkintaanne ‰lk‰‰ hellitt‰kˆ,
+Vaan kotiin tuokaa hupsut karkurit.
+
+                         (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    Oliverin talon edusta.
+    (Orlando ja Aadam tulevat vastatuksin.)
+
+ORLANDO.
+Ken siell‰?
+
+AADAM.
+Te, nuori herraniko? -- Jalo herra!
+Oi, rakas herra! Vanhan Rolandin
+Ihana muisto! Mit‰ teette t‰‰ll‰?
+Miks teill' on hyveet? Miksi kansan lemmet?
+Miks ylv‰, vahva, uljas olette?
+Miks olitte niin k‰rk‰s voittamaan
+Tuon k‰rtyn herttuan vahvaa taistelijaa?
+Miks maine h‰ti kotiin ennen teit‰?
+Kuink' ette tied‰, ett‰ muutamille
+On vihamiehiks omat avutkin?
+Niin teid‰nkin: hyveenne, rakas herra,
+Pyhi‰ pettureit' on teit‰ kohtaan.
+Oi, t‰t‰ mailmaa, miss‰ jalouskin
+On omistajallensa myrkky‰!
+
+ORLANDO.
+Mik‰ h‰t‰n‰?
+
+AADAM.
+Voi, onnetonta teit‰!
+Ovia n‰it‰ karttakaa: t‰‰ll' asuu
+Hyveenne vihamies t‰‰n katon alla.
+Veljenne -- ei, ei veli, sent‰‰n poika --
+Ei poikakaan: tuot' en sen pojaks sano,
+Jot' olin jo tuon is‰ks sanoa --
+On kuullut maineenne, ja aikoo polttaa
+T‰n' yˆn‰ talon, jossa nukutte,
+Ja teid‰t samassa. Jos pett‰‰ t‰‰,
+Niin koittaa toisin keinoin teid‰t tappaa.
+Ma kuuntelin, ja kuulin hankkeensa.
+Ei ihmismaja t‰‰, vaan teurashuone;
+Varokaa sit‰, peloll' inhokaa.
+
+ORLANDO.
+Mut mihin sitten menn‰, Aadam, mihin?
+
+AADAM.
+Mihink‰ vain, mut milloinkaan ei t‰nne.
+
+ORLANDO.
+Kuin? Ruokaniko kerj‰t‰ mun pit‰‰,
+Vai kehnon v‰kivallan miekallako
+Kuin rosvo maantiell' elantoni ryˆst‰‰?
+Se tehd‰ t‰ytyisi, en tied‰ muuta;
+Mut sit' en tee, en, k‰ykˆˆn kuinka k‰y.
+Ma ennen k‰rsin luonnottoman veren
+Ja verisenkin veljen ilkityˆt.
+
+AADAM.
+Ei, ei! Viissataa kruunua on mulla,
+Is‰nne palvelussa palkastani
+Ne s‰‰stin vanhuuteni vaalijaks,
+Kun heikot raajat herpoo virassa
+Ja ukko tarpeetonna nurkkaan syˆst‰‰n.
+Ne ottakaa! H‰n, joka kaarneet ruokkii
+Ja varpusille hankkii elannon,
+H‰n vanhuuteni turvaa. Tuossa kulta!
+Kaikk' ottakaa, ja minut k‰skyl‰‰ksi.
+Vire‰, vahva olen, vaikka vanha;
+En nuoruudessa ole vereeni
+Seannut kuumaa, kiihoittavaa juomaa,
+En, otsa julkeana, kulkenut
+Ma heikkouden ja veltostuksen teill‰;
+Siks vanhuuteni kylm‰ on, mut raitis,
+Kuin vankka talvi. Minut ottakaa!
+Jos mit‰ toimitte ja tarvitsette,
+Kuin nuorukainen teit‰ palvelen.
+
+ORLANDO.
+Oi, hyv‰ vanhus, sinuss' ihan kuultaa
+Tuo vanhan ajan harras virkainto,
+Kun aherrettiin tyˆn, ei palkan vuoksi!
+Et ole sin‰ nykyajan laps;
+Nyt hikoillaan vain oman edun t‰hden,
+Ja se kun saavutetaan, kuolee into
+Sen saavutukseen: niin et ole sin‰.
+Mut, vanhus-parka, kuivaa rankaa vaalit,
+Jok' ei voi sulle edes kukkaa antaa
+Sun vaivasi ja hoitos palkaksi.
+Mut tule, yhdess‰ siis menk‰‰mme.
+Ennenkuin kuluu nuoruutesi s‰‰stˆ,
+On meille tullut pulast' ehk‰ p‰‰stˆ.
+
+AADAM.
+Siis matkaan! Viime hengenvetoon asti
+Ma teit‰ seuraan luopumattomasti.
+Kuustoistiaast' oon t‰‰ll‰ el‰nyt,
+Kahdeksankymment' olen milten nyt.
+Kuustoistias se onnetarta kyˆh‰‰,
+Kahdeksankymmeniss‰ se on myˆh‰‰.
+Muut' onnelta en pyyd‰, kunhan vaan
+Rauhassa velatonna kuolla saan.
+
+
+Nelj‰s kohtaus.
+
+    Ardennien mets‰.
+
+    (Rosalinda, pojaksi puettuna, Celia, paimentytˆksi
+    puettuna, ja Siera tulevat.)
+
+ROSALINDA.
+Oo, Zeus! Mult' elonhenget ihan uupuu!
+
+SIERA.
+Min‰ en v‰lit‰ elonhengist‰, kun ei vain koipeni uupuisi.
+
+ROSALINDA.
+Jos syd‰nt‰ni noudattaisin, niin voisin saattaa miehenpukuni h‰pe‰‰n ja
+itke‰ kuin nainen. Mutta minun pit‰‰ lohduttaa heikompaa astiaa, sill‰
+takin ja housujen pit‰‰ osottaa uljuutta hameen rinnalla. Siis
+rohkeutta, hyv‰ Aliena!
+
+CELIA.
+ƒl‰ vihaa kanna; mutta min‰ en jaksa edemm‰ksi k‰yd‰.
+
+SIERA.
+Min‰ puolestani kantaisin ennen vihaanne kuin teit‰; vaikk'en tosin
+raskasta kantaisi, jos teit‰ kantaisin, sill‰ luulenpa ett‰ kukkaronne
+on jotenkin kevyt.
+
+ROSALINDA.
+Niin, t‰m‰ on se Ardennien mets‰.
+
+SIERA.
+Niin, nyt olen min‰ Ardenneissa; sit‰ suurempi olen narri. Kun olin
+kotona, niin olin paremmassa paikassa; mutta matkamiehen t‰ytyy tyyty‰.
+
+ROSALINDA.
+Niin, paras tyyty‰, hyv‰ Siera. -- Kas, keit‰ tulee tuossa? Nuori mies
+ja vanha vakavasti keskustellen.
+
+    (Corinnus ja Silvius tulevat.)
+
+CORINUS.
+Jos niin teet, niin h‰n i‰ksi sun hylk‰‰.
+
+SILVIUS.
+Jos tiet‰isit vain, kuinka h‰nt‰ lemmin!
+
+CORINUS.
+Sen arvaan: kerran lemmin min‰kin.
+
+SILVIUS.
+Ei, vanha olet, sin' et sit‰ arvaa,
+Vaikk' olitkin niin lempiharras nuorra,
+Kuin konsa pieluksella oihkija.
+Mut jos sa lemmit niinkuin min‰, -- vaikka
+Niin lempinyt ei varmaan ole kukaan, --
+Niin kuinka moneen naurettavaan tekoon
+T‰‰ intohimo sinut vietteli?
+
+CORINUS.
+Tuhansiin, joita nyt en en‰‰ muista.
+
+SILVINUS.
+Siis hartaast' oikein lempinyt et ole.
+Jos pienint‰ et muista tyhmyytt‰,
+Mihink‰ lempes on sua houkutellut,
+Niin lempinyt et ole;
+Jos, niinkuin min‰ nyt, et kuulijaa
+Sa kultas kehull' ole v‰sytt‰nyt,
+Niin lempinyt et ole;
+Jos seuraasi et ole heitt‰nyt
+ƒkisti, niinkuin nyt mua kiihka k‰skee,
+Niin lempinyt et ole. -- Phebe, Phebe!
+
+    (Menee.)
+
+ROSALINDA.
+Oi, paimen-parka! Haavaasi kun hain,
+Niin kovaks onneks omani ma lˆysin.
+
+SIERA.
+Ja min‰ omani. Muistan, kun olin rakastunut, kuinka silloin lˆin
+pamppuni rikki kiveen ja sanoin, ett‰ pit‰kˆˆn sen hyv‰n‰‰n siit‰, ett‰
+oli yˆll‰ hiipinyt Hymysen Jaanan tykˆ; ja muistan, kuinka suutelin
+h‰nen karttuaan ja sen lehm‰n utaria, jota h‰nen siev‰t sierottuneet
+k‰tens‰ olivat lyps‰neet; ja muistan, kuinka hyv‰ilin herneenpalkoa[4]
+h‰nen‰, ja otin kaksi hernett‰ ja annoin ne h‰nelle takaisin ja sanoin
+itkevin kyynelin: "pid‰ n‰m‰ minun t‰hteni". Me uskolliset rakastajat
+teemme usein kummallisia keikahduksia; mutta niinkuin kaikki luonnostaan
+on kuolevaista, niin ovat kaikki kuollakseen rakastuneet luonnostaan
+hassahtaneita.
+
+ROSALINDA.
+Sin‰ puhut ‰lykk‰‰mmin kuin mit‰ itse hoksaat.
+
+SIERA.
+Min‰ en koskaan hoksaa omaa ‰ly‰ni, ennenkuin olen siihen koipeni
+taittanut.
+
+ROSALINDA.
+Zeus, Zeus! Tuon pojan lempi suuri
+Mun lempeni on tapaan juuri.
+
+SIERA.
+Niin minunkin; mutta, minussa se vain on v‰h‰n v‰lj‰ht‰nyt.
+
+CELIA.
+Kysyk‰‰ joku tuolta miehelt‰,
+H‰n eikˆ kullast' antais meille ruokaa;
+Mult' ihan hiutuu henki.
+
+SIERA.
+                         Kuules, moukka!
+
+ROSALINDA.
+Vait, narri! Ei sun sukujasi h‰n.
+
+CORINUS.
+Ken kutsuu?
+
+SIERA.
+            Parempasi.
+
+CORINUS.
+                       Kovin halvat
+Ne muuten oisivatkin.
+
+ROSALINDA.
+                      Vaiti, sanon! --
+Hyv' iltaa, yst‰v‰ni!
+
+CORINUS.
+                      Hyv‰‰ iltaa,
+Ylev‰ herra! Hyv‰‰ iltaa kaikki!
+
+ROSALINDA.
+Jos, paimen, hyv‰ll' eik‰ rahalla
+T‰ss' er‰maassa mit‰‰n saa, niin sano,
+T‰‰ll' onko miss‰ lev‰t‰ ja syˆd‰;
+T‰‰ nuori neito, matkast' uupuneena,
+Jo n‰‰ntyy.
+
+CORINUS.
+            Kaunis herra, s‰‰lin h‰nt‰,
+Ja soisin, h‰nen t‰htens' enemm‰n
+Kuin itseni, ett' auttaa h‰nt‰ voisin.
+Mut min‰ olen toisen miehen paimen,
+En keritse m‰ villaa, jota kaitsen,
+On is‰nt‰ni saita luonteeltaan,
+Ja vieraanvaraisuuden tˆill' ei koita
+H‰n uivaan valtakuntaa saavuttaa.
+Lis‰ksi tˆllit, laitumet ja karjat
+On kaupan nyt; ja tarhassa ei ole --
+Kun itse poiss' on -- mit‰‰n syˆd‰ksenne.
+Mut mit' on t‰‰ll‰, sit‰ katsahtakaa,
+Ma terveeks sanon teid‰t omastakaa.
+
+ROSALINDA.
+Ken aikoo laitumet ja karjat ostaa?
+
+CORINUS.
+Se nuori paimen, jok' ol' ‰sken t‰ss‰;
+Mut h‰nen mielens' ei nyt kaupoiss' ole.
+
+ROSALINDA.
+Ma pyyd‰n, jos ei v‰‰rin lie, ett' ostat
+Nuo tˆllit, laitumet ja karjat sin‰;
+Rahoja meilt‰ kauppahinnaks saat.
+
+CELIA.
+Ja lis‰‰ palkkaa. Miellyn t‰h‰n paikkaan:
+T‰‰ll' el‰m‰ni viett‰‰ tahtoisin.
+
+CORINUS.
+T‰‰ kaikk' on kaupan, se on varma vissi.
+Mua seuratkaa; jos sitten miellytt‰‰
+Maat, tuottehet ja elintavat t‰‰ll‰,
+Niin rupeen rengiksenne suoraa k‰tt‰
+Ja teen rahoillanne kaupat empim‰tt‰.
+
+(Menev‰t.)
+
+
+Viides kohtaus.
+
+    Toinen kulma samaa mets‰‰.
+    (Amiens, Jaques ja muita.)
+
+AMIENS (laulaa):
+
+    Jos alla lehmuksen
+    Lev‰t‰ mielii ken
+    Ja kilpaa linnun kanssa
+    Livert‰‰ laulujansa,
+    Niin t‰nne tervehdin h‰nt‰:
+    T‰‰ll' ainoat
+    On vainoojat
+    Vain talvi ja lumir‰nt‰.
+
+JAQUES.
+Lis‰‰, lis‰‰! Lis‰‰, olkaa hyv‰!
+
+AMIENS.
+Se tekee teid‰t vain raskasmieliseksi, herra Jaques.
+
+JAQUES.
+Olen siit‰ kiitollinen. Lis‰‰! Lis‰‰, olkaa hyv‰! Min‰ voin imeksi‰
+laulusta raskasmielisyytt‰ niinkuin k‰rpp‰ imeksii munia. Lis‰‰, lis‰‰,
+olkaa hyv‰!
+
+AMIENS.
+ƒ‰neni on sorruksissa; en voi sill‰ teit‰ miellytt‰‰.
+
+JAQUES.
+En pyyd‰k‰‰n, ett‰ minua miellytt‰isitte; pyyd‰n vain ett‰ laulatte.
+Jatkakaa, jatkakaa: toinen stroofi! Stroofeiksihan niit‰ sanotte, vai
+mit‰?
+
+AMIENS.
+Niinkuin tahdotte, herra Jaques.
+
+JAQUES.
+Min‰ niiden nimist‰ viisi: eiv‰t ole minulle mit‰‰n velkaa. Laulatteko?
+
+AMIENS.
+Enemm‰n teid‰n pyynnˆst‰nne kuin omaksi huvikseni.
+
+JAQUES.
+Hyv‰! Jos koskaan kiit‰n ket‰‰n ihmist‰, niin teit‰ kiit‰n. Se, mit‰
+komplimangiksi sanotaan, on niinkuin kahden marakatin imartelua; ja kun
+joku minua syd‰mmest‰‰n kiitt‰‰, on niinkuin olisin viskannut h‰nelle
+rovon ja h‰n siit‰ antaisi minulle kerjurin kost'jumalan. Kas niin,
+lauletaan nyt; ja joka ei tahdo, pit‰kˆˆn suunsa!
+
+AMIENS.
+No niin, laulan laulun loppuun. -- Miehet, kattakaa sill'aikaa pˆyt‰:
+herttua haluaa juoda t‰m‰n puun alla. -- H‰n on koko p‰iv‰n ollut teit‰
+etsim‰ss‰.
+
+JAQUES.
+Ja min‰ olen koko p‰iv‰n ollut h‰nt‰ paossa. H‰n on liian viisasteleva
+minun seurakseni. Min‰ ajattelen yht‰ paljon asioita kuin h‰nkin; mutta
+min‰ kiit‰n Jumalaa, enk‰ nosta niist‰ mit‰‰n melua. -- Noh,
+liirutellaan, kaikki yhten‰!
+
+KAIKKI (laulavat):
+
+    Ken kaihtaa kunniaa
+    Ja rauhaa rakastaa
+    Ja itse kynt‰‰, kaivaa
+    Ja leip‰ns' irti vaivaa,
+    M‰ t‰nne tervehdin h‰nt‰:
+    T‰‰ll' ainoat
+    On vainoojat
+    Vain talvi ja lumir‰nt‰.
+
+JAQUES.
+Min‰ annan teille samalle nuotille v‰rssy‰, jonka eilen tekaisin
+runollisen taipumukseni uhalla.
+
+AMIENS.
+Ja min‰ sen laulan.
+
+JAQUES.
+Se kuuluu n‰in:
+
+    Jos miss‰ tˆllˆtt‰‰
+    Mokoma aasinp‰‰,
+    Jok' ‰lliens‰ vuoksi
+    Pois onnenmailtaan juoksi,
+    _Duc ad me, duc ad me, duc ad me!_
+    Niit' enemm‰n
+    T‰‰ll' on kuin h‰n,
+    H‰nt' ‰lliˆjoukkohon tervehd‰n.
+
+AMIENS.
+_Duc ad me_, mit‰ se on?
+
+JAQUES.
+Se on kreikkalainen loihtusana, jolla narreja manataan piiriin. Nyt
+menen nukkumaan, jos voin; jos en voi, niin sadattelen kaikkia Egyptin
+esikoisia.[5]
+
+AMIENS.
+Ja min‰ menen etsim‰‰n herttuaa; ruoka on valmis.
+
+    (Menev‰t eri taholle.)
+
+
+Kuudes kohtaus.
+
+    Toinen kulma samaa mets‰‰.
+    (Orlando ja Aadam tulevat.)
+
+AADAM.
+Rakas herra, edemm‰ksi en jaksa kulkea. Ah, kuolen n‰lk‰‰n! Tuohon
+heitt‰ydyn maahan ja otan hautani mittaa. Hyv‰sti, hyv‰ herra!
+
+ORLANDO.
+Mit‰ nyt, Aadam? Eikˆ enemp‰‰ miehuutta sinussa? El‰ viel‰ hetkinen;
+virkisty hetkeksi; hilvisty hetkeksi. Jos t‰ss‰ jylh‰ss‰ mets‰ss‰ on
+mit‰‰n otusta, niin tulen joko itse sen ruoaksi tai tuon sen ruoaksi
+sinulle. Luulosi on l‰hemp‰n‰ kuolemaa kuin voimasi. Minun t‰hteni
+rohkaise mielt‰si; pid‰ kuolema matkan p‰‰ss‰ viel‰ hetkinen; tulen heti
+paikalla takaisin, ja jos en tuo mukanani sulle jotakin syˆt‰v‰‰, niin
+annan sulle luvan kuolla; mutta jos kuolet ennenkuin tulen, niin pid‰t
+pilkkanasi vaivojani. Kas niin, nyt n‰yt‰t iloiselta; ja min‰ tulen
+heti paikalla takaisin. -- Mutta t‰ss‰h‰n makaat ihan tuulen suussa:
+annahan, niin kannan sinut suojaisempaan paikkaan, ja sin‰ et tule
+kuolemaan ruoan puutteesta, jos vain on el‰v‰‰ olentoa t‰ss‰ er‰maassa.
+Rohkeutta, hyv‰ Aadam!
+
+    (Menev‰t.)
+
+
+Seitsem‰s kohtaus.
+
+    Toinen kulma samaa mets‰‰.
+
+    (Pˆyt‰ katettuna. Herttua, Amiens, hoviherroja ja
+    palvelijoita tulee.)
+
+HERTTUA.
+Pedoksi varmaankin on muuttunut,
+H‰nt' ihmishahmossa ei lˆyd‰ mist‰‰n.
+
+1 HOVIHERRA.
+Vastik‰‰n oli t‰‰ll‰, iloissaan,
+Kun kuuli laulua.
+
+HERTTUA.
+                  Jos lauluhartaaks
+Mokoma r‰‰kylintu rupeaa,
+Niin pian syntyy sfeereiss' ep‰sointaa. --
+Tavata tahdon h‰nt‰; hakuun menk‰‰.
+
+1 HOVIHERRA.
+H‰n s‰‰st‰‰ multa vaivat, tulee itse.
+
+    (Jaques tulee.)
+
+HERTTUA.
+No, herraseni? Onko t‰m‰ laitaa,
+Teit' etsi‰ ett' t‰ytyy yst‰v‰inne?
+Mik' on? Te iloiselta n‰yt‰tte.
+
+JAQUES.
+Oi, narri, narri! -- Mets‰ss' yhdyin narriin
+Niin, kirjonarriin, -- kurjaa maailmaa! --
+Niin totta kuin ma el‰n, yhdyin narriin!
+H‰n loikoi lekotellen auringossa
+Ja s‰tti onnetarta kelpo sanoin,
+Valituin sanoin, -- niin, tuo kirjonarri.
+"Huomenta, narri", sanoin. "Ei", h‰n sanoi,
+"En ole narri, kunnes onni siunaa."
+Sitt' otti p‰iv‰kellon taskustaan,
+Sit' ulein silmin katseli ja sanoi
+Juur' ‰lykk‰‰sti: "Kymmenen on kello;
+N‰in n‰emme", sanoi, "kuinka aika luistaa:
+Se oli tunti sitten yhdeks‰n,
+Ja tunnin p‰‰st‰ on se yksitoista;
+N‰in hetki hetkelt' yh‰ kypsymme,
+N‰in hetki hetkelt' yh‰ m‰t‰nemme;
+Ja se sen virren loppu." N‰in kun kuulin
+Tuon kirjonarrin aikaa arvioivan,
+Niin keuhkon' alkoi laulaa kukkokiikaa,
+Siit' ett‰ narrit noin on syv‰lliset;
+Ja narrin kellon j‰lkeen tunnin siin‰
+Ma nauroin yhten‰‰n. -- Oi, kelpo narri!
+Ylev‰ narri! Narrin puku paras!
+
+HERTTUA.
+Ken on se narri?
+
+JAQUES.
+                 Jalo, kunnon narri!
+Hovimies on ollut; sanoo, ett‰ naisill'
+On lahja ymm‰rt‰‰ se, jos vain kauniit'
+Ovat ja nuoria. H‰n aivonsa,
+Jotk' ovat kuivat niinkuin kyrs‰n t‰hteet
+On matkan j‰lkeen, kummaa mietekamaa
+On t‰yteen sullonut, ja sit‰ sitten
+Muruittain jakaa. -- Oi, ett' oisin narri!
+Himoitsen kirjopuvun kunniaa.
+
+HERTTUA.
+Sen saat.
+
+JAQUES.
+          Se ainoa on toivoni;
+Kun te vain tiedostanne kitkette
+Sen v‰‰r‰n luulon, joka siin‰ versoo:
+Ett' olen viisas. Vapauden vain tahdon,
+Niin t‰yden vallan puhaltaa kuin tuuli,
+Kehenk‰ tahdon: se on narrin oikeus;
+Ja jota enin hulluuteni ruoskii,
+Sen t‰ytyy enin nauraa. Miksi niin?
+Se "miksi" selv‰ on kuin kirkkotie:
+Se, jota narri viisaudellaan vitsoo,
+On perin narri, jos on iskusta
+H‰n tiet‰vin‰‰n, vaikka kirvelt‰iskin;
+N‰et, muuten narrin summaletkaukset
+Vois viisaan pˆhkˆyden paljastaa.
+Hoi, narrin puku mulle! Jos saan luvan
+Puhua vapaasti, niin mailman ruumiin
+Rumasta saastasta ma perin perkaan,
+Jos vaan se kiltist' ottaa rohtoni.
+
+HERTTUA.
+Hyi suas! Tied‰n mit‰ tekisit.
+
+JAQUES.
+No, pahus, mit‰ parempaa kuin hyv‰‰?
+
+HERTTUA.
+Pahimman synnin, synti‰ kun moitit.
+Sin' olet itse ollut irstainen,
+Niin hillitˆn kuin itse pedon kiima.
+Ja kaikki paisumat ja m‰t‰haavat,
+Joit' olet vapaudessas hankkinut,
+Ne koko maailmaan nyt levitt‰isit.
+
+JAQUES.
+Haa! Kuka saarnaa ylpeytt‰ vastaan
+Ja sill‰ hosuu yksityist‰ vain?
+Se eikˆ nouse, paisu niinkuin meri,
+Siks kunnes viimein lamaantuu ja laskee?
+Ket' yksityist‰ porvar'rouvaa s‰tin.
+Jos sanon ett‰ porvar'rouvan halvoill'
+On hartioilla valtain prameus?
+Ken sanoo minun h‰nt‰ tarkoittaneen,
+Jos naapurin on vaimo niinkuin h‰n?
+Tai alhaisinkin palkkamies jos sanoo:
+"En sinun varoillasi komeile",
+Mun luullen h‰nt‰ s‰ttineen, sill' eikˆ
+Vain n‰yt‰ ett' on, niinkuin sanoin, narri?
+Vai eikˆ? Mit‰! N‰ytt‰k‰‰ siis, miss‰
+H‰nt' olen loukannut; jos oikein puhuin,
+Niin loukkaa itse itse‰‰n; jos v‰‰rin,
+Niin lent‰‰ moitteeni kuin mets‰hanhi
+Ja kehenk‰‰n ei koske. -- Kuka tuo?
+
+    (Orlando tulee miekka paljastettuna.)
+
+ORLANDO.
+Seis! Heit‰ syˆnti!
+
+JAQUES.
+                    Viel' en ole syˆnyt.
+
+ORLANDO.
+Et saakaan, kunnes puutteen ensin t‰yt‰t.
+
+JAQUES.
+Mit‰p‰ rotua tuo kukko lie?
+
+HERTTUA.
+Mies, puutteesiko noin sua rohkaisee?
+Vai niinkˆ hyv‰‰ tapaa ylenkatsot,
+Ett' olet hˆyliydest‰kin kˆyh‰?
+
+ORLANDO.
+Ens' arvelunne sopii. Kovan onnen
+Okainen tutkain hˆyliyden verhon
+Minulta riisti; ihmisist‰ tulen
+Ja tunnen tapoja. Seis, sanon min‰!
+Ken koskee noihin hedelmiin, ma kunnes
+Tydyt‰n tarpeeni, on kuolon oma.
+
+JAQUES.
+Jos teit' ei tydytt‰‰ voi j‰rjell‰,
+Niin kuolla t‰ytyy mun.
+
+HERTTUA.
+                        Mit' aiotte?
+Enemm‰n yst‰v‰llisyys kuin pakko
+Meit' yst‰v‰llisyyteen pakottaa.
+
+ORLANDO.
+Min' olen kuolla n‰lk‰‰n, tahdon ruokaa.
+
+HERTTUA.
+No, tervetullut! Istukaa ja syˆk‰‰!
+
+ORLANDO.
+Noin yst‰v‰llinenkˆ? Anteeks suokaa:
+Ma luulin kaikki t‰‰ll‰ raakalaisiks,
+Ja siksi jyrk‰n k‰skev‰n‰ n‰in
+T‰ss' esiinnyin. Mut kuka lienettekin,
+Jok' er‰maassa t‰ss‰ autiossa
+Ja synkk‰in aarnipuiden varjossa
+Hitaillen verkat hetket kulutatte;
+Jos ootte paremmilla p‰ivill' ollut,
+Siell' ollut, miss‰ kellot kirkkoon kutsuu,
+Pidoissa ollut hyv‰in ihmisten,
+Pyhinnyt kyyneleit‰ silmist‰nne
+Ja saanut sek‰ suonut s‰‰li‰,
+Niin lempeys t‰ss' olkoon ainut pakko;
+Punastun vain ja k‰tken miekkani.
+
+HERTTUA.
+Niin totta paremmill' on p‰ivill' oltu,
+On kirkkoon pyh‰t kellot kutsuneet,
+Pidoissa hyv‰in ihmisten on oltu
+Ja vedet kuivattu, joit' armon s‰‰li
+On silmist‰mme irti herutellut.
+Siis kaikess' yst‰vyydess' istukaa
+Ja mielist' ottakaa, mit' antaa voimme,
+Jos sill‰ t‰ytt‰‰ voitte puutteenne.
+
+ORLANDO.
+Vaan hetkeks ruokailunne j‰tt‰k‰‰;
+Kuin hirvi ensin vasikkani haen
+Ja sit‰ ruokin. Tuoll' on vanhus-raukka,
+Mi j‰ljess‰ni monta raskast' askelt'
+On ratki-rakkaudesta vaapertanut;
+H‰n kunnes ravittu on, jota painaa
+Ik‰ ja n‰lk‰, kaksi kovaa vaivaa,
+Min' en syˆ palaakaan.
+
+HERTTUA.
+                       Mies tuokaa t‰nne;
+Me odotamme, kunnes palaatte.
+
+ORLANDO.
+Suur' kiitos; siunaus teille lohdustanne!
+
+    (Menee.)
+
+HERTTUA.
+N‰et, ett'ei meit‰ yksin turma kohtaa:
+Isolla mailman n‰ytt‰mˆll' on paljon
+Surullisempaa n‰ht‰v‰‰ kuin t‰ll‰
+On meid‰n lavallamme.
+
+JAQUES.
+                      Koko mailma
+On n‰ytt‰mˆ, ja miehet, naiset, kaikki
+Siin' esiintyv‰t; kukin tulee, menee;
+Jokaisell' el‰iss‰‰n on monta osaa
+T‰ss' seitsenosaisessa n‰ytelm‰ss‰.
+Ensinn‰ lapsi syliss' imett‰j‰n
+Inuu ja ‰hkyy; sitten koulupoika,
+Suu irviss‰ ja kirjat kainalossa,
+Ja silm‰t aamupuhtaat, hitaast' astuu
+Kuin raakku kouluun; sitten rakastaja
+Kuin uuni hohkaa kaihovirsi‰
+Henttunsa n‰kˆp‰ist‰; sitten solttu,
+Sadatus suussa, pˆrrˆinen kuin karhu,
+Halukas riitaan, arka arvostaan,
+Tavoittain mainetta, tuot' ilmakuplaa,
+Kanuunain suusta; sitten tuomari,
+Kukoilla lihotettu pullovatsa,
+Katsanto tuima, siev‰ leikkoparta,
+P‰‰ t‰ynn‰ s‰‰ntˆj‰ ja pyk‰li‰.
+H‰n poistuu; kuudes ik‰kausi tulee:
+Sukissa, halatissa, laiha raukka,
+Nen‰ll‰ lasit, laukku kupeella,
+Jalassa nuorten p‰iv‰in s‰‰stˆhousut,
+Juur' laajat lanteille jo kuihtuneille;
+Matala basso-‰‰ni, muuttuneena
+Taas lapsen diskantiks, soi piipitt‰en
+Ja v‰r‰hdellen. Viime-n‰ytˆs vihdoin
+Ja t‰m‰n vaiherikkaan jutun loppu,
+On toinen lapsuus, muisto mennytt‰.
+Ja samoin n‰kˆ, maku, hampaat, kaikki.
+
+    (Orlando palaa, mukanaan Aadam.)
+
+HERTTUA.
+Terveeksi! Pˆyt‰‰n arvon taakkanne
+Nyt tuokaa.
+
+ORLANDO.
+            Kiit‰n h‰nen puolestaan.
+
+AADAM.
+Se onkin tarpeen: min‰ itse tuskin
+Puhua voin ja kiitt‰‰ puolestani.
+
+HERTTUA.
+Terveydeksenne syˆk‰‰! Viel' en teit‰
+Ma h‰iri kysym‰ll‰ vaiheitanne. --
+Nyt musiikkia! Laula, hyv‰ serkku!
+
+AMIENS (laulaa):
+
+        Riehu, talvi, ja myrsky, soi,
+        Niin kylm' et olla voi
+        Kuin kiitt‰m‰ttˆmyys;
+        Sun tuima viimas niin
+        Ei vihlo ytimiin
+        Kuin viekas yst‰vyys.
+    Hei, laula, heleijaa, kun tuuli se heijaa,
+    Vaikk' unta on lempi ja yst‰v‰t peijaa!
+        Hei, tuuli se heijaa,
+        Hei, laula, heleijaa!
+
+        Pure, pure, sa pakkass‰‰,
+        Niin siit' ei haavaa j‰‰,
+        Kuin yst‰v‰ jos lyˆ;
+        On iskus lievemm‰t,
+        Sun viimas j‰‰t‰v‰t
+        Niin syd‰nt‰ ei syˆ.
+    Hei, laula, heleijaa, kun tuuli se heijaa,
+    Vaikk' unta on lempi ja yst‰v‰t peijaa!
+        Hei, tuuli se heijaa,
+        Hei, laula, heleijaa!
+
+HERTTUA.
+Jos poika liette kelpo Rolandin,
+Niinkuin vastik‰‰n mulle kuiskasitte,
+Ja niinkuin silm‰nikin todistaa,
+Kun kuvansa n‰en teiss‰ el‰v‰n‰,
+Niin, tervetullut! Min‰ herttua olen,
+Is‰nne yst‰v‰. Mut lis‰‰ halaan
+Ma kuulla luolassani. -- Vanhus hyv‰,
+Niin tervetullut kuin sun herrasikin! --
+Varoen taluttakaa. -- K‰si t‰nne,
+Ja kertokaa nyt vaiheet el‰m‰nne.
+
+                       (Menev‰t.)
+
+
+
+
+KOLMAS NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Huone hetttuan hovissa
+    (Herttua Fredrik, Oliver ja seuralaisia tulee.)
+
+HERTTUA FREDRIK.
+Sen j‰lkeen h‰nt' et n‰hnyt? Mahdotonta!
+Jos suurin hyveeni ei olis armo,
+Niin kaukaa koston esinett' en etsis,
+Kun sin‰ paikall' olet. Mutta varo!
+Hae veljesi, vaikk' oisi miss‰ h‰n,
+Hae kynttil‰ll‰, vuoden kuluessa
+Tuo h‰net kuolleena tai el‰v‰n‰,
+Tai n‰ille maille ‰l‰ koskaan palaa
+T‰‰lt' elantoas etsim‰‰n. Sun maasi
+Ja mit' on muuta omaa sinulla
+Ja arvokasta, meid‰n omaks joutuu,
+Siks kunnes veljes suu sun vapauttaa
+Kaikesta, mist‰ ep‰illyt sua olen.
+
+OLIVER.
+Oi, mieleni jos t‰ss‰ tiet‰isitte!
+En velje‰ni rakastanut koskaan.
+
+HERTTUA FREDRIK.
+Sen suuremp' olet konna. -- Ovest' ulos!
+Ja k‰skek‰‰tte ryˆstˆmiesten h‰lt‰
+Maat, konnut ottaa takavarikkoon;
+Se tehk‰‰ joutuin. Viek‰‰ h‰net pois!
+
+    (Menev‰t.)
+
+
+Toinen kohtaus.
+
+    Ardennien mets‰.
+    (Orlando tulee, paperi k‰dess‰.)
+
+ORLANDO.
+Tuoss' olkoon lemmen viesti, v‰rssyt nuo!
+Kolmasti kruunattu yˆn kuningatar,
+Kalpeilta mailtas kaino katse luo
+Nimeen, jok' eloni on haltijatar.
+Rosalinda! Kirjani on n‰m‰ puut,
+Ma niiden kuoreen syd‰mmeni uurran,
+Niin ett‰ tajuisivat kaikki muut
+Sun suloutes, jost' onneni ma juurran.
+Nyt toimeen! Joka puu tuon nimen soman
+Saa omakseen, tuon kainon, verrattoman.
+
+    (Menee.)
+    (Corinnus ja Siera tulevat.)
+
+CORINUS.
+No, kuinka teit‰ t‰m‰ paimenel‰m‰ miellytt‰‰, herra Siera?
+
+SIERA.
+Totta puhuen, paimen hyv‰, siihen itseens‰ katsoen, on se el‰m‰ kyll‰kin
+hyv‰, mutta siihen katsoen, ett‰ se on paimenel‰m‰‰, on se joutavaa.
+Siihen katsoen, ett‰ se on yksin‰ist‰, on se mukiin menev‰‰, mutta
+siihen katsoen, ett‰ se on eristetty‰, on se el‰m‰ sangen kurjaa. No
+niin, siihen n‰hden, ett‰ se on maalla, se minua miellytt‰‰, mutta
+siihen n‰hden, ett‰ se ei ole hovissa, on se ik‰v‰‰. Mik‰li se on
+s‰‰steli‰st‰, on se hyvin minun mieleni mukaista; mutta mik‰li se on
+v‰h‰n niinkuin niukanpuoleista, on se minulle sangen vastenluontoista.
+Onko sinussa, paimen, filosohvin vikaa?
+
+CORINUS.
+Eip‰ juuri; sen vain tied‰n, ett‰ jota sairaampi ihminen on, sit‰
+pahemmin h‰n voi, ja kell‰ ei ole rahaa, tavaraa ja tyytyv‰isyytt‰,
+silt‰ puuttuu kolme hyv‰‰ yst‰v‰‰; ett‰ veden on tapa kastella, ja tulen
+polttaa; ett‰ hyvill‰ syˆttˆmailla tulee lampaat lihavia, ja ett‰ yˆ
+p‰‰asiassa johtuu p‰iv‰n puutteesta; ett‰ se, joka luonnon tai taidon
+kautta ei ole ymm‰rrykseen tullut, saa p‰ivitell‰ kasvatustaan, taikka
+on h‰n perin tuhmaa sukujuurta.
+
+SIERA.
+Siin‰p‰ oikein luonnon filosohvi! Oletko, paimen, koskaan ollut hovissa?
+
+CORINUS.
+En tosiaankaan.
+
+SIERA.
+Silloin sin‰ joudut kadotukseen.
+
+CORINUS.
+En toki, toivon, --
+
+SIERA.
+Totisesti, kadotukseen, niinkuin huonosti k‰ristetty muna, toinen kylki
+k‰rventynyt.
+
+CORINUS.
+Siit‰kˆ, etten ole hovissa ollut? Sanokaa syy.
+
+SIERA.
+No, jos et koskaan ole hovissa ollut, niin et koskaan ole n‰hnyt hyvi‰
+tapoja; jos et koskaan ole hyvi‰ tapoja n‰hnyt, niin ovat sinun tapasi
+pahoja, ja kaikki paha on synti‰, ja synti vie kadotukseen. Sin‰ olet
+arveluttavassa tilassa, paimen.
+
+CORINUS.
+En v‰h‰‰k‰‰n, Siera. Ne, mitk‰ ovat hyvi‰ tapoja hovissa, ne ovat
+naurettavia maalla, niinkuin maalaistavat ovat hovissa pilkanalaiset.
+Sanottehan ett‰ hovissa ette kumarra, vaan suutelette omaa k‰tt‰nne;
+semmoinen kohteliaisuus olisi ep‰siisti‰, jos hovilaiset olisivat
+paimenia.
+
+SIERA.
+Todista se, lyhyk‰isesti; todista.
+
+CORINUS.
+No, meh‰n aina pitelemme uuhiamme, ja niiden villa on rasvainen,
+niinkuin tied‰tte.
+
+SIERA.
+No, eikˆ sitten hovilaisen k‰det hikoile? Ja eikˆ se uuhen rasva ole
+yht‰ terveellist‰ kuin ihmisen hiki? Typer‰‰, typer‰‰! Parempia
+todisteita, parempia!
+
+CORINUS.
+Sit‰ paitsi, k‰temme ovat karkeat.
+
+SIERA.
+Sit‰ paremmin huulenne ne tuntevat. Taaskin typer‰‰! Tepsiv‰mpi‰
+todisteita! Noh!
+
+CORINUS.
+Ja ne ovat usein tervassa lammasten laastaroimisesta; ja tahtoisitteko
+ett‰ suutelisimme tervaa? Hovilaisten k‰det hajahtavat myskilt‰.
+
+SIERA.
+Perin typer‰ mies! Sin‰ matojen ruoka, hyv‰‰n lihakappaleeseen
+verrattuna! -- Ota viisailta oppia ja ajattele: myski on huonompaa
+sukuper‰‰ kuin terva, vain kissan ruokotonta vuotoa. Parempia
+todisteita, paimen!
+
+CORINUS.
+Teid‰n ‰lynne on liian hovimaista minulle; siin‰ min‰ pysyn.
+
+SIERA.
+Niin kadotuksessako? Jumala auttakoon sinua, tyhmeliini! Jumala
+ymm‰rryksesi avatkoon! Sin‰ olet heikko.
+
+CORINUS.
+Hyv‰ herra, min‰ olen kunniallinen tyˆmies; ansaitsen itse ruokani ja
+vaatteeni; en vihaa ket‰‰n, en kadehdi kenenk‰‰n onnea, iloitsen muiden
+menestyksest‰ ja tyydyn omiin huoliini; ja suurin ylpeyteni on n‰hd‰
+lammasteni syˆv‰n ja karitsaini imev‰n.
+
+SIERA.
+Taaskin typer‰ synti, kun viette uuhet ja j‰‰r‰t yhteen, ettek‰ h‰pe‰
+hankkia elatustanne elukkain parittelulla; rupeatte parinhankkijaksi
+kellokas-p‰ssille ja heit‰tte suvikuntaisen uuhen vanhan sarvip‰‰n,
+v‰‰r‰s‰‰risen j‰‰r‰n valtaan, vastoin kaikkia avioliiton lakeja. Jos et
+sin‰ siit‰ joudu kadotukseen, niin ei itse paholainenkaan huoli
+paimenista; en tied‰ muuten, kuinka siit‰ p‰‰sisit.
+
+CORINUS.
+Tuossa tulee nuori herra Ganymedes, uuden em‰nt‰ni veli.
+
+    (Rosalinda tulee, lukien paperilehte‰.)
+
+ROSALINDA.
+"Jos helmist' etsit kallihinta,
+On kalliin helmi Rosalinda.
+Kautt' ilmain Zephyr sulorinta
+Nime‰s kantaa, Rosalinda.
+Mit‰ ihaat ihaninta.
+Kaikki voittaa Rosalinda.
+Halpa kauniimmankin hinta,
+Kallis vain on Rosalinda."
+
+SIERA.
+Tuommoisia riimej‰ min‰ voisin teille ladella kahdeksan vuotta
+yht‰mittaa, p‰iv‰llis-, illallis- ja makuuaikaa lukuun ottamatta:
+niinh‰n ne hˆlkk‰‰v‰t per‰toukuria kuin voimuijat torille.
+
+ROSALINDA.
+Mene, narri!
+
+SIERA.
+             Niinkuin esimerkiksi:
+
+    Tevanaan on tarvaan inta,
+    Miest‰ halaa Rosalinda.
+    Orhin sitoo marhaminta,
+    Pojat kiehtoo Rosalinda.
+    Huumaava on p‰iv‰nrinta,
+    Huumaavampi Rosalinda.
+    Hein‰‰ kootaan tuoksuvinta,
+    Rukoon lyˆd‰‰n Rosalinda.
+    P‰hkin‰ss' on kova pinta,
+    Kovempi on Rosalinda.
+    Kallis kauniin ruusun hinta,
+    Kalliimpi on Rosalinda.
+
+T‰m‰ on oikein sit‰ v‰‰r‰‰ runolaukkaa. Miksi te mokomalla ratsastatte?
+
+ROSALINDA.
+Vaiti, sin‰ tyhm‰ narri! Lˆysin ne puusta.
+
+SIERA.
+Totisesti, se puu kasvaa huonoja hedelmi‰.
+
+ROSALINDA.
+Panen siihen teist‰ oksan, niin silloin se kasvaa koiranpuuta, ja
+silloin saadaan aikaisia hedelmi‰; sill‰ teid‰n kompanne m‰tenev‰t,
+ennenkuin ovat puolikypsi‰, ja se on se koiranpuun oikea ominaisuus.
+
+SIERA.
+Te sen sanoitte; mutta oliko se viisasta vai ei, sen p‰‰tt‰kˆˆn mets‰.
+
+ROSALINDA.
+Vait! Tuossa tulee sisareni, lukien h‰nkin. Pois syrj‰‰n!
+
+    (Celia tulee, lukien paperilehte‰.)
+
+
+CELIA.
+
+    "Miks ei mets‰ll' oisi kielt‰,
+    Vaikk' on t‰m‰ er‰maa?
+    Joka puulle annan mielt‰
+    Sanojani julistaa.
+    Toiset kertoo, kuink' on vaan
+    Ihmis-elo lyhyt hetki,
+    Tuskin ehtii vaaksaakaan,
+    Kun jo p‰‰ttyy elonretki.
+    Toiset kertoo, kuinka hoppuun
+    Valat rikkuu yst‰v‰in.
+    Mutta joka s‰keen loppuun,
+    Kaunihimpaan oksaan n‰in
+    Rosalindan nimen kaivan,
+    Lukija ett' oivaltaa,
+    Kuinka kaikki lahjat taivaan
+    Pienoiskuva tallettaa.
+    Siksi taivas luonnon luoda
+    K‰ski yhden olennon,
+    Sille kaikki sulot suoda.
+    Kohta kuva valmis on:
+    Helenan on poski vieno.
+    Cleopatran ylpeys,
+    Atalantan ‰ly hieno,
+    Ja Lucretian siveys.
+    N‰in on saanut Rosalinda,
+    Mit‰ muill' on kaunihinta,
+    Silm‰t, syd‰mmen ja suun
+    Ynn‰ monen sulon muun.
+    Niin taivas neuvoissansa p‰‰tti,
+    Ja minut h‰lle orjaks saatti."
+
+ROSALINDA.
+Oi, hyv‰ Jupiter! -- Kuinka pitk‰piim‰isell‰ lemmensaarnalla olet
+seurakuntaasi v‰sytt‰nyt, etk‰ edes huutanut: "k‰rsiv‰llisyytt‰, hyv‰t
+ihmiset!"
+
+CELIA.
+Mit‰? Sel‰ntakaisiako? -- Paimen hyv‰, poistu hetkeksi. -- Sin‰ myˆskin,
+poika.
+
+SIERA.
+Tule pois, paimen; per‰ytyk‰‰mme kunnialla, vaikkei juuri pillinemme ja
+pussinemme, niin ainakin kiluinemme ja kaluinemme.
+
+    (Corinnus ja Siera menev‰t.)
+
+CELIA.
+Kuulitko sin‰ nuo runos‰keet?
+
+ROSALINDA.
+Oi, kyll‰ kuulin kaikki ja v‰h‰n lis‰‰kin; sill‰ toisilla niist‰ oli
+enemm‰n jalkoja, kuin mit‰ runo voi kannattaa.
+
+CELIA.
+Ei sill‰ v‰li‰; jalat kyll‰ kannattavat runon.
+
+ROSALINDA.
+Niin, mutta jalat ontuivat eiv‰tk‰ voineet liikkua ilman runoa, ja niin
+ne panivat runonkin ontumaan.
+
+CELIA.
+Mutta saatoitko ihmettelem‰tt‰ kuulla, ett‰ nimesi on ripustettu ja
+uurrettu n‰ihin puihin?
+
+ROSALINDA.
+Olin jo ehtinyt ihmetell‰ seitsem‰n p‰iv‰‰ yhdeks‰st‰,[6] ennenkuin sin‰
+tulit; sill‰ katsos t‰ss‰, mit‰ min‰ lˆysin palmupuusta. Ei minua ole
+n‰in riimitelty Pythagoraan ajoista asti, jolloin olin irlantilainen
+rotta,[7] niinkuin olen h‰m‰r‰sti muistavinani.
+
+CELIA.
+Voitko arvata, kuka sen on tehnyt?
+
+ROSALINDA.
+Mieskˆ, vai?
+
+CELIA.
+Mies, ja kaulassa vitjat, jotka kerran ovat olleet sinun kaulassasi.
+Muutatko v‰ri‰? Mit‰?
+
+ROSALINDA.
+Sano, serkku, kuka?
+
+CELIA.
+Oi, hyv‰, hyv‰ Jumala! Vaikea on yst‰v‰in tavata toisiaan; mutta
+maanj‰ristyksess‰ voivat vuoretkin siirty‰ ja yhty‰.
+
+ROSALINDA.
+Ei, mutta sano, kuka?
+
+CELIA.
+Onko se mahdollista?
+
+ROSALINDA.
+Pyyd‰n kaikkein kiihkeimm‰ll‰ malttamattomuudella, sano, kuka se on.
+
+CELIA.
+Oi, ihme, ihme, ja ihmeitten ihme, ja viel‰kin ihme, niin ettei m‰‰r‰‰
+eik‰ rajaa!
+
+ROSALINDA.
+Voi sit‰ k‰rsim‰ttˆmyytt‰! Luuletko, vaikka n‰in olenkin mieheksi
+sonnustettu, ett‰ syd‰mmenikin on nuttuun ja housuihin puettuna?
+Tuumankin viivytys on pitempi kuin lˆytˆretki etel‰n merille. Rukoilen,
+sano, kuka h‰n on, joutuin ja sukkelaan. Oi, jos olisit ankka, jotta tuo
+salattu mies pulpahtaisi suustasi niinkuin viini ahdaskaulaisesta
+pullosta, joko liian paljo kerrallaan taikka ei niin mit‰‰n. Pyyd‰n, ota
+suullinen suultasi, jotta saisin juoda uutisesi.
+
+CELIA.
+N‰in voisit pian saada miehen vatsaasi.
+
+ROSALINDA.
+Onko h‰n Jumalan tekoa? Mink‰ laatuinen mies? Onko p‰‰ hatun arvoinen
+tai poski parran arvoinen?
+
+CELIA.
+Ei, h‰nell‰ on niukanlaisesti partaa.
+
+ROSALINDA.
+No niin, Jumala antaa enemm‰n, jos vain on oikein kiitollinen. Kyll‰
+min‰ odotan h‰nen partansa kasvamista, jos sin‰ et kauemmin est‰ minua
+tutustumasta h‰nen poskip‰ihins‰.
+
+CELIA.
+Se on se nuori Orlando, joka lˆi kamppiin painijan jalat ja sinun
+syd‰mmesi samassa silm‰nr‰p‰yksess‰.
+
+ROSALINDA.
+Mene, houkka, piloinesi! Puhu vakavasti, niinkuin kunniallisen tytˆn
+sopii.
+
+CELIA.
+Totta totisesti, serkku, h‰n se on.
+
+ROSALINDA.
+Orlandoko?
+
+CELIA.
+Orlando.
+
+ROSALINDA.
+Voi p‰ivi‰ni! Mit‰ nyt teen takilla ja housuilla? -- Mit‰ teki h‰n, kun
+h‰net n‰it? Mit‰ sanoi? Milt‰ n‰ytti? Kuinka oli puettuna? Mit‰
+toimittaa h‰n t‰‰ll‰? Kysyikˆ minua? Mihin h‰n j‰i? Kuinka erosi
+sinusta, ja milloin saat h‰net j‰lleen n‰hd‰? Vastaa yhdell‰ sanalla.
+
+CELIA.
+Anna minulle ensin Gargantuan[8] suu; se sana olisi liian suuri
+millek‰‰n nykyaikaiselle suulle. Vastata n‰ihin pyk‰liin "jaa" tai "ei"
+on tyˆl‰‰mp‰‰ kuin vastata katkismuksen mukaan.
+
+ROSALINDA.
+Mutta tiet‰‰kˆ h‰n, ett‰ min‰ olen t‰‰ll‰ mets‰ss‰ ja miehen puvussa?
+N‰yttikˆ h‰n yht‰ pulskalta kuin silloin painiskelup‰iv‰n‰?
+
+CELIA.
+On yht‰ helppo lukea p‰iv‰n hiteit‰, kuin selvitell‰ rakastajan
+arvoituksia. T‰ss‰ annan sinulle lˆydˆst‰ni v‰h‰n maistimiksi, mutta
+maistele hyvin tarkkaavasti. Lˆysin h‰net puun alta niinkuin pudonneen
+terhon.
+
+ROSALINDA.
+Sit‰ voisi sanoa Jupiterin puuksi, kun siit‰ sellaisia hedelmi‰
+putoilee.
+
+CELIA.
+Kuulkaa minua, hyv‰ neiti.
+
+ROSALINDA.
+Jatka!
+
+CELIA.
+Siin‰ h‰n makasi maassa pitk‰n‰‰n kuin haavoitettu ritari.
+
+ROSALINDA.
+Vaikka onkin surkea semmoinen n‰ky, niin on se kuitenkin maalle
+kaunistus.
+
+CELIA.
+Huuda kielellesi: ptruu! ole hyv‰: se hyp‰htelee ennen aikojaan. H‰n
+oli mets‰miehen puvussa.
+
+ROSALINDA.
+Oo, mik‰ enne! H‰n tulee syd‰nt‰ni murhaamaan.
+
+CELIA.
+Tahtoisin laulaa lauluni ilman kuoroa; sin‰ sekoitat minut pois
+nuotista.
+
+ROSALINDA.
+Etkˆ tied‰, ett‰ olen nainen? Kun ajattelen, niin t‰ytyy minun puhua.
+Jatka, kultaseni!
+
+CELIA.
+Vallanhan minut tyhmist‰t. -- Vait! Eikˆ h‰n tulekin tuossa?
+
+    (Orlando ja Jaques tulevat.)
+
+ROSALINDA.
+H‰n se on. Pois piiloon, ja tarkatkaamme h‰nt‰.
+
+    (Rosalinda ja Celia vet‰ytyv‰t syrj‰‰n)
+
+JACQUES.
+Kiit‰n teit‰ seurastanne; mutta, totta puhuen, olisin yht‰ mielell‰ni
+ollut yksin.
+
+ORLANDO.
+Niinik‰‰n min‰; kuitenkin tavan vuoksi kiit‰n min‰kin teit‰ seurasta.
+
+JAQUES.
+Jumalan haltuun! Yhtyk‰‰mme niin harvoin kuin suinkin.
+
+ORLANDO.
+Toivon, ett‰ yh‰ enemm‰n vieraantuisimme.
+
+JAQUES.
+Pyyd‰n, ‰lk‰‰ en‰‰ turmelko puita piirt‰m‰ll‰ niiden kuoreen
+lemmenlaulujanne.
+
+ORLANDO.
+Pyyd‰n, ‰lk‰‰ en‰‰ turmelko runojani lukemalla niit‰ kˆmpelˆsti.
+
+JAQUES.
+Rosalindako on lemmittynne nimi?
+
+ORLANDO.
+On oikein.
+
+JAQUES.
+Se nimi ei ole minulle mieleen.
+
+ORLANDO.
+Ei tultu ajatelleeksi teid‰n mielt‰nne, kun h‰net ristittiin.
+
+JAQUES.
+Millainen on h‰nell‰ vartalo?
+
+ORLANDO.
+Yht‰ uljas kuin minun syd‰mmeni.
+
+JAQUES.
+Teill‰ on runsas varasto kohteliaita vastauksia. Oletteko ollut
+tuttavuudessa kultasepp‰in vaimojen kanssa ja ker‰nnyt niit‰
+sormuksista?
+
+ORLANDO.
+En niink‰‰n; mutta vastaan teille niinkuin tapettikuvat,[9] joiden
+suusta te olette oppinut kysymyksenne.
+
+JAQUES.
+Teill‰ on sukkela ‰ly, lienee tehty Atalantan kantap‰ist‰. Tahdotteko
+istua t‰h‰n viereeni, niin alamme yhdess‰ sadatella haltijatartamme,
+maailmaa, ja koko t‰t‰ kurjuuttamme.
+
+ORLANDO.
+Min‰ en tahdo soimata muuta el‰v‰‰ olentoa maailmassa kuin itse‰ni,
+jossa enimmin tunnen vikoja.
+
+JAQUES.
+Pahin vikanne on se, ett‰ olette rakastunut.
+
+ORLANDO.
+Sit‰ vikaa en vaihtaisi teid‰n parhaaseen hyveeseenne. Olen v‰synyt
+teihin.
+
+JAQUES.
+Tosiaankin, olin juuri hakemassa narria, kun lˆysin teid‰t.
+
+ORLANDO.
+H‰n on hukkunut tuonne puroon; kurkistakaa sinne, niin n‰ette h‰net.
+
+JAQUES.
+N‰en siin‰ oman itseni.
+
+ORLANDO.
+Joka minusta on joko narri tai nolla.
+
+JAQUES.
+En tahdo kauemmin seurassanne viivytell‰. Hyv‰sti, hyv‰ Signior Amoroso!
+
+ORLANDO.
+Iloitsen l‰hdˆst‰nne. Hyv‰sti, hyv‰ monsieur Melancholie!
+
+    (Jaques menee. Rosalinda ja Celia astuvat esiin.)
+
+ROSALINDA (syrj‰‰n Celialle).
+Tahdon puhutella h‰nt‰ nen‰kk‰‰n‰ lakeijana, ja semmoisena tehd‰ h‰nest‰
+pient‰ pilaa. -- Kuuletteko, mets‰st‰j‰?
+
+ORLANDO.
+Aivan hyvin; mit‰ tahdotte?
+
+ROSALINDA.
+Sanokaa, olkaa hyv‰, mit‰ kello on?
+
+ORLANDO.
+Kysyitte, mik‰ aika p‰iv‰st‰ on: t‰‰ll‰ ei ole kelloa t‰‰ll‰ mets‰ss‰.
+
+ROSALINDA.
+Siis t‰‰ll‰ ei ole uskollista rakastajaa t‰‰ll‰ mets‰ss‰; muuten huokaus
+joka minuutti ja voihkaus joka tunti ilmaisisi ajan hidasta kulkua yht‰
+hyvin kuin kello.
+
+ORLANDO.
+Miks ei ajan nopeata kulkua? Eikˆ se olisi sopinut yht‰ hyvin?
+
+ROSALINDA.
+Ei mitenk‰‰n, herraseni! Aika kulkee erilaista vauhtia erilaisten
+henkilˆiden kanssa. Sanon teille, kenen kanssa aika k‰y tasak‰ynti‰,
+kenen kanssa ravia, kenen kanssa karkua, ja kenen kanssa se seisoo
+paikallaan.
+
+ORLANDO.
+No, sanokaa, kenen kanssa se menee ravia.
+
+ROSALINDA.
+Ah, se menee raskasta ravia nuoren tytˆn kanssa kihlauksen ja h‰‰p‰iv‰n
+v‰lill‰. Vaikk'ei olisi muuta kuin seitsem‰n p‰iv‰‰ v‰li‰, niin on ajan
+kulku niin raskasta, ett‰ se tuntuu seitsem‰lt‰ vuodelta.
+
+ORLANDO.
+Ja kenen kanssa k‰y se tasak‰ynti‰?
+
+ROSALINDA.
+Papin kanssa, joka ei osaa latinaa, ja rikkaan miehen kanssa, jolla ei
+ole jalkaleini‰; toinen nukkuu hyvin, kun ei voi lukea, ja toinen el‰‰
+hauskasti, kun ei tunne vaivaa; toista ei paina kuivan ja kuluttavan
+opin kuorma, ja toinen ei tunne raskaan, vaivalloisen puutteen taakkaa.
+N‰iden kanssa aika k‰y tasak‰ynti‰.
+
+ORLANDO.
+Kenen kanssa se menee karkua?
+
+ROSALINDA.
+Varkaan kanssa hirsipuuhun, sill‰ vaikka h‰n kulkisi niin hitaasti kuin
+askel askeleelta, niin tulee h‰n kuitenkin mielest‰‰n liian aikaisin
+perille.
+
+ORLANDO.
+Kenen kanssa se pysyy paikallaan?
+
+ROSALINDA.
+Asianajajain kanssa loma-aikoina; sill‰ he makaavat k‰r‰jist‰ k‰r‰jiin,
+eiv‰tk‰ huomaa kuinka aika kuluu.
+
+ORLANDO.
+Miss‰ asutte, siev‰ nuorukainen?
+
+ROSALINDA.
+Sisareni, t‰m‰n paimenettaren luona: tuolla mets‰n liepeess‰, niinkuin
+reunus hameessa.
+
+ORLANDO.
+Oletteko t‰m‰n paikan synnynn‰isi‰?
+
+ROSALINDA.
+Niinkuin kaniini, joka, kuten tied‰tte, aina tapaa asustaa siell‰, miss‰
+on syntynyt.
+
+ORLANDO.
+Teid‰n ‰‰nt‰mistapanne on hiukan hienompaa, kuin mit‰ n‰in syrj‰isell‰
+paikkakunnalla voi saavuttaa.
+
+ROSALINDA.
+Sit‰ on moni sanonut; mutta seikka on se, ett‰ minut on puhumaan
+opettanut vanha pappis-set‰, joka nuorempana oli asunut kaupungissa ja
+vallan hyvin tunsi hienot tavat, sill‰ h‰n sattui siell‰ rakastumaan.
+Olen kuullut h‰nen pit‰v‰n monta saarnaa rakkautta vastaan; ja kiit‰n
+Jumalaa, etten min‰ ole nainen ja ettei minun tarvitse omistaa kaikkia
+niit‰ tyhmi‰ paheita, joista h‰n ylimalkaan koko naissukua syytti.
+
+ORLANDO.
+Muistatteko mit‰‰n erinomaisimpia paheita, joita h‰n pani naisen syyksi.
+
+ROSALINDA.
+Niiss‰ ei ollut mit‰‰n erinomaisimpia: olivat kaikki toistensa kaltaisia
+niinkuin pennin rahat; jokainen vika n‰ytti hirvitt‰v‰lt‰, kunnes toinen
+pahe asettui samanvertaisena sen rinnalle.
+
+ORLANDO.
+Olkaa hyv‰, mainitkaa muutamia.
+
+ROSALINDA.
+En, min‰ en tuhlaa l‰‰kett‰ni muihin kuin sairaisiin. T‰‰ll‰ kuljeksii
+joku mets‰ss‰ ja t‰rvelee nuoria puitamme leikkaamalla niiden
+kuoreen "Rosalinda", ripustaa oodeja orapihlajiin ja elegioja
+sinivatukkapensaisiin, ja kaiken tuon h‰n tekee -- aatelkaapas! --
+jumaloidakseen Rosalindan nime‰. Jos tapaisin tuon houresaksan, niin
+antaisin h‰nelle hyv‰n neuvon, sill‰ h‰nt‰ n‰ytt‰‰ vaivaavan
+jokap‰iv‰inen lemmenhorkka.
+
+ORLANDO.
+Min‰ se olen, jota lempi noin puistattaa; pyyd‰n, neuvokaa minulle
+l‰‰kkeenne.
+
+ROSALINDA.
+Teiss‰ en n‰e yht‰k‰‰n set‰ni tunnusmerkki‰. H‰n opetti minulle, mist‰
+rakastajan tuntisin; ja siin‰ linnunh‰kiss‰ te ette ole vankina, sen
+tied‰n varmaan.
+
+ORLANDO.
+Mitk‰ olivat h‰nen tunnusmerkkins‰?
+
+ROSALINDA.
+Laihat posket, joita teill‰ ei ole; silm‰t painuneet, ymp‰rys sininen,
+jota teill‰ ei ole; harvapuheinen luonne, jota teill‰ ei ole;
+siistim‰tˆn parta, jota teill‰ ei ole, -- mutta sen annan teille
+anteeksi, sill‰, totta puhuen, mit‰ partaan tulee, olette te j‰‰nyt
+nuoremman veljen osuudelle. -- Lis‰ksi pit‰isi sukat olla siteettˆm‰t,
+lakki nauhaton, hihat napittomat, keng‰t paulattomat, ja koko pukunne
+pit‰isi osottaa v‰linpit‰m‰tˆnt‰ toivottomuutta. Mutta sellainen te ette
+ole; olette pikemmin turhantarkka vaatetuksessanne, ja n‰yt‰tte pikemmin
+olevan rakastunut omaan itseenne kuin kehenk‰‰n muuhun.
+
+ORLANDO.
+Kaunis nuorukainen, oi, jospa saisin sinut uskomaan ett‰ rakastan!
+
+ROSALINDA.
+Minutko uskomaan? Yht‰ hyvin voisitte saada lemmittynne sit‰ uskomaan,
+joka onkin, sen min‰ takaan, herkempi uskomaan kuin sit‰ tunnustamaan:
+se on yksi niit‰ kohtia, joissa nainen aina saa omantuntonsa kiinni
+valheesta. Mutta tekˆ todellakin olette puihin ripustanut nuo runot,
+joissa Rosalindaa niin ihaillaan?
+
+ORLANDO.
+Vannon, nuori mies, Rosalindan valkok‰den kautta, ett‰ min‰ se olen,
+min‰ se onneton.
+
+ROSALINDA.
+Mutta oletteko todellakin siihen m‰‰r‰‰n lemmen pauloissa, kuin nuo
+runonne kielii?
+
+ORLANDO.
+Ei kieli eik‰ mieli voi sanoa lempeni m‰‰r‰‰.
+
+ROSALINDA.
+Lempi on pelkk‰‰ hulluutta ja ansaitsee, sen sanon teille, yht‰ hyvin
+pime‰t‰ koppia ja piiskaa kuin muutkin hullut; ja syy, mink‰ t‰hden sit‰
+ei niin kuriteta ja paranneta, on se, ett‰ se tauti on niin yleinen,
+ett‰ kurittajat itse ovat lemmen pauloissa. Lupaan kuitenkin sen
+parantaa hyv‰ll‰ neuvolla.
+
+ORLANDO.
+Oletteko milloinkaan ket‰‰n sill‰ parantanut?
+
+ROSALINDA.
+Olen, yhden, ja seuraavalla tavalla. H‰nen tuli kuvitella, ett‰ min‰
+olin h‰nen lemmittyns‰, h‰nen haltijattarensa, ja min‰ panin h‰net joka
+p‰iv‰ minua kosimaan. Min‰, joka olen huikentelevainen nuorukainen,
+tuskastuin, olin naisen tapainen, vaihtelevainen, k‰rty, armollinen,
+ylpe‰, haaveileva, lapsimainen, typer‰, oikullinen, toisaikainen,
+milloin kyyneleet silmiss‰, milloin nauru suussa, v‰h‰n kutakin
+intohimoa, mutta mit‰‰n en oikein todenper‰st‰, niinkuin narrit ja
+lapset enimm‰kseen ovat karvaltaan; milloin h‰nt‰ suvaitsin, milloin
+h‰nt‰ inhosin; milloin puhuttelin h‰nt‰, milloin tyˆnsin h‰net luotani;
+milloin itkin h‰nen t‰htens‰, milloin nyrpistelin nen‰‰ni; ja n‰in sain
+ihailijani hullusta rakkauden raivosta oikean hulluuden raivoon, niin
+ett‰ h‰n luopui maailman melusta el‰‰kseen erakkona luostarin sopessa.
+N‰in min‰ h‰net paransin, ja t‰ll‰ tavalla lupaan pest‰ teid‰nkin
+maksanne niin puhtaaksi kuin terve lampaansyd‰n, niin ett‰ siin‰ ei n‰e
+rakkauden pilkkuakaan.
+
+ORLANDO.
+Mutta, nuorukainen, min‰ en tahdo parantua.
+
+ROSALINDA.
+Min‰ teid‰t parantaisin, jos te vain tahtoisitte kutsua minua
+Rosalindaksi ja joka p‰iv‰ tulla mˆkkiini minua kosimaan.
+
+ORLANDO.
+Uskollisen rakkauteni nimess‰, sen lupaan tehd‰; sanokaa, miss‰ se on.
+
+ROSALINDA.
+Tulkaa mukaani, niin n‰yt‰n sen teille; ja matkalla teid‰n pit‰‰ sanoa
+minulle, miss‰ te t‰‰ll‰ mets‰ss‰ asutte. Tuletteko?
+
+ORLANDO.
+Vallan mielell‰ni, hyv‰ nuorukainen.
+
+ROSALINDA.
+Ei, Rosalindaksi teid‰n pit‰‰ sanoa minua. -- Tule, sisar, l‰htek‰‰mme.
+
+    (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    Toinen kulma samaa mets‰‰.
+    (Siera ja Kaisa tulevat; Jaques et‰‰mp‰n‰ tarkkaa heit‰.)
+
+SIERA.
+Tule joutuin, Kaisuseni; min‰ kokoon vohlasi, Kaisu. Sano, Kaisu,
+viel‰kˆ minusta pid‰t? Miellytt‰‰kˆ sinua halpa olentoni?
+
+KAISA.
+Olentonne? Herra varjelkoon! Mik‰ olento?
+
+SIERA.
+Min‰ elostelen t‰‰ll‰ sinun ja kuttujen kanssa, niinkuin tuo
+runoilijoista paras kipakoitsija, tuo kunnon Ovidius, eleli gˆˆttien
+parissa.
+
+JAQUES (syrj‰‰n).
+Mik‰ huonosti majoitettu oppitieto! Huonompi kuin Jupiter olkikaton
+alla!
+
+SIERA.
+Kun toisen runoja ei ymm‰rret‰, kun toisen ‰lynlentoa ei s‰est‰ tuo
+n‰pp‰r‰ lapsi Ymm‰rrys, niin t‰m‰ on ihmiselle pahempi kolaus kuin suuri
+lasku pieness‰ kapakassa. -- Soisin tosiaankin, ett‰ jumalat olisivat
+sinun luoneet runolliseksi.
+
+KAISA.
+En tied‰ mit‰ runollinen on. Onko se jotakin kunniallista sanoissa ja
+tˆiss‰? Onko se jotakin todellista?
+
+SIERA.
+Ei, totta totisesti; sill‰ todellisimmat runoilijat ovat suurimpia
+sepustelijoita; ja rakastajat ne ovat runollisuuteen taipuvaisia, ja
+mit‰ he runoksi vannovat, sit‰ voi sanoa heid‰n rakastajina
+sepustelevan.
+
+KAISA.
+Soisitteko kuitenkin, ett‰ jumalat olisivat minun luoneet runolliseksi.
+
+SIERA.
+Soisin tottakin, sill‰ sin‰ vannot minulle olevasi sive‰; jos nyt olisit
+runoilija, niin olisi minulla v‰h‰n toiveita siit‰, ett‰ sepustelet.
+
+KAISA.
+Ettekˆ siis soisi ett‰ olisin sive‰?
+
+SIERA.
+En tottakaan, paitsi jos olisit ruma; sill‰ siveys kauneuteen yhtyneen‰
+on niinkuin hunaja sokerin kastimena.
+
+JAQUES (syrj‰‰n).
+Kekseli‰s narri!
+
+KAISA.
+Niin, min‰ en ole kaunis, ja siksi rukoilen jumalia antamaan minulle
+siveytt‰.
+
+SIERA.
+Niin, mutta tuhlata siveytt‰ rumaan ruokottomaan on yht‰ kuin panna
+hyvi‰ ruokia likaisiin astioihin.
+
+KAISA.
+Min‰ en ole mik‰‰n ruokoton, vaikka kiit‰n jumalia siit‰, ett‰ olen ruma.
+
+SIERA.
+Hyv‰, jumalille kiitos rumuudestasi! Ruokottomuus tulkoon per‰st‰. Mutta
+oli miten oli, min‰ sinut nain, ja olen sit‰ varten puhutellut pastori
+Olivarius V‰‰r‰l‰ist‰ t‰st‰ l‰hikyl‰st‰, ja h‰n on luvannut kohdata
+minua t‰ll‰ kohtaa mets‰ss‰ ja vihki‰ meid‰t yhteen.
+
+JAQUES (syrj‰‰n).
+Sit‰ kohtausta haluaisin min‰ n‰hd‰.
+
+KAISA.
+No, jumalat meille iloa suokoot!
+
+SIERA.
+Aamen! Se joka nyt olisi pelkuri luonnostaan, s‰ps‰ht‰isi t‰mmˆist‰
+vaaran koetta; sill‰ t‰‰ll‰ ei ole meill‰ muuta temppeli‰ kuin mets‰,
+eik‰ muuta seurakuntaa kuin sarvikarja. Mutta v‰h‰t siit‰! Rohkeutta
+vain! Sarvet ovat inhottavat, mutta ne ovat v‰ltt‰m‰ttˆm‰t. Sanotaan:
+moni ei tunne tavarainsa per‰‰; aivan oikein: monella on hyv‰t sarvet,
+eik‰ tunne niiden per‰‰. Niin ne on vaimon myˆt‰j‰isi‰, ne eiv‰t ole
+omaa hankkimaa. -- Sarvetko? -- Niin kyll‰! -- Kˆyh‰nkˆ kansan
+yksinomaan? -- Ei, ei! Jaloimmilla valtael‰imill‰ on ne yht‰ suuret kuin
+huonommillakin. Onko siis naimaton mies onnellinen? Ei; niinkuin
+linnoitettu kaupunki on parempi kuin kyl‰, niin on naineen miehen otsa
+kunniakkaampi kuin poikamiehen alastomat aivenat; ja niinkuin turva on
+parempi kuin turvattomuus, niin on sarvikin kallisarvoisempi kuin
+sarvettomuus. Tuossahan tulee pastori Olivarius.
+
+    (Pastori Olivarius V‰‰r‰l‰inen tulee.)
+
+Tervetullut, pastori Olivarius V‰‰r‰l‰inen! Tahdotteko tehd‰ toimituksen
+t‰ss‰ t‰m‰n puun alla, vai pit‰‰kˆ meid‰n seurata teit‰ kappeliinne?
+
+P. OLIVARIUS.
+Eikˆ ole t‰‰ll‰ ket‰‰n, joka antaisi teille morsiamenne?
+
+SIERA.
+Min‰ en tahdo h‰nt‰ kenelt‰k‰‰n lahjaksi.
+
+P. OLIVARIUS.
+Mutta jonkun pit‰‰ antaa h‰net, muuten avioliitto ei ole laillinen.
+
+JAQUES (tulee esiin).
+Toimeen, toimeen! Kyll‰ min‰ rupean antajaksi.
+
+SIERA.
+Hyv‰‰ iltaa, hyv‰ herra "Mik‰ liette"! Mit‰ kuuluu? Tervetullut! Kiitos
+viimeisist‰, kost'jumala! Hauska n‰hd‰ teit‰. -- T‰ss‰ on tekeill‰ pieni
+joutava asia. -- Ei, olkaa hyv‰, lakki p‰‰h‰n!
+
+JAQUES.
+Aiotteko te, kirjonarri, menn‰ naimisiin?
+
+SIERA.
+Niinkuin h‰r‰ll‰ on ikeens‰ ja hevoisella turpavyˆns‰ ja haukalla
+tiukunsa, niin on ihmisell‰kin halunsa; ja niinkuin kyyhkyset
+nokittelevat, niin tahtoo se avios‰‰tykin v‰h‰n persotella.
+
+JAQUES.
+Ja tekˆ, noin sivistynyt mies, naisitte pensaan juurella niinkuin
+kerj‰l‰inen? Menk‰‰ kirkkoon, hankkikaa hyv‰ pappi, joka voi sanoa
+teille, mit‰ avioliitto on; tuo mies liitt‰‰ teid‰t vain yhteen niinkuin
+vuorilautoja liitet‰‰n toisiinsa: pian toinen teist‰ rupeaa kutistumaan
+ja k‰y kieroksi, niinkuin tuore puu, kieroksi.
+
+SIERA (syrj‰‰n).
+Mutta min‰ vain olen sit‰ mielt‰, ett‰ olisi parempi, jos t‰m‰ minut
+vihkisi, kuin joku muu; h‰n n‰ytt‰‰ minusta silt‰, kuin h‰n ei vihkisi
+oikein; ja jos en ole oikein vihitty, on minulla vastedes hyv‰ tekosyy
+j‰tt‰‰ vaimoni.
+
+JAQUES.
+Tule kanssani ja kuule neuvoani.
+
+SIERA.
+Tule, armas Kaisuseni:
+Jos en sua vaimoks saa, niin otan tytˆkseni.
+Hyv‰sti, pastori Olivarius!
+
+Ei n‰in: "Oi, rakas Oliver!
+         Oi, uljas Oliver!
+         Sin' et mua j‰tt‰‰ saa."
+
+Vaan n‰in: Pois, korjaa luusi
+           Ja pid‰ suusi!
+           Sin' et mua naittaa saa.
+
+    (Jaques, Siera ja Kaisa menev‰t)
+
+P. OLIVARIUS.
+Se ei tee mit‰‰n! Ei yksik‰‰n kaikista noista haaveellisista veitikoista
+voi minua houkutella pois ammatistani.
+
+    (Menee.)
+
+
+Nelj‰s kohtaus.
+
+    Sama mets‰. Mˆkin edusta.
+    (Rosalinda ja Celia tulevat.)
+
+ROSALINDA.
+ƒl‰ puhu en‰‰! Min‰ tahdon Itke‰.
+
+CELIA.
+Itke sitte, mutta suvaitse kuitenkin muistaa, ett‰ kyyneleet eiv‰t sovi
+miehelle.
+
+ROSALINDA.
+Mutta eikˆ minulla ole syyt‰ itke‰?
+
+CELIA.
+Niin hyv‰ syy kuin kukaan suinkin voi toivoa. Siis itke!
+
+ROSALINDA.
+Jo h‰nen tukkansa v‰rikin on petollinen.
+
+CELIA.
+Hiukan ruskeampi kuin Juudaksen; niin, h‰nen suutelonsakin ovat oikeita
+Juudaksen lapsia.
+
+ROSALINDA.
+Mutta h‰nen tukallaan on sittenkin kaunis v‰ri.
+
+CELIA.
+Vallan erinomainen v‰ri: kastanjan-ruskea on aina ollut sinun v‰risi.
+
+ROSALINDA.
+Ja h‰nen suutelemisensa on niin pyh‰‰ kuin rippileiv‰n koskettaminen.
+
+CELIA.
+H‰n on ostanut parin Dianan vanhoja huulia; talven nunnakunnan sisar ei
+suutele hengellisemmin; niiss‰ on sit‰ oikeata siveyden j‰‰t‰.
+
+ROSALINDA.
+Mutta miksi vannoi h‰n tulevansa t‰n‰ aamuna, eik‰ tule?
+
+CELIA.
+Ei todellakaan siin‰ miehess‰ ole mit‰‰n totuutta.
+
+ROSALINDA.
+Niinkˆ luulet?
+
+CELIA.
+Niin; en tosin luule, ett‰ h‰n on mik‰‰n taskuvaras tai hevoshuijari;
+mutta mit‰ tulee h‰nen rakkautensa vilpittˆmyyteen, niin luulen, ett‰ se
+on yht‰ ontto kuin kumoon k‰‰nnetty pikari tai madon syˆm‰ p‰hkin‰.
+
+ROSALINDA.
+Eikˆ vilpitˆn rakkaudessa?
+
+CELIA.
+Kyll‰ vain, kun h‰n on rakastunut; mutta luulen ett‰ h‰n ei ole.
+
+ROSALINDA.
+Kuulithan h‰nen pyh‰sti vakuuttavan, ett‰ oli.
+
+CELIA.
+Oli ei ole on: sit‰ paitsi rakastajan vala ei ole sen taatumpi kuin
+krouvarin sana: kumpikin ne oikeiksi vakuuttavat v‰‰ri‰ laskuja. H‰n
+seuraa t‰‰ll‰ mets‰ss‰ is‰‰si, herttuata.
+
+ROSALINDA.
+Tapasin herttuan eilen, ja h‰n pani minut v‰h‰n kovalle. H‰n kysyi, mit‰
+olin sukua; vastasin: yht‰ hyv‰‰ kuin h‰n; silloin h‰n naurahti ja
+p‰‰sti minut menem‰‰n. Mut mit‰ puhumme isist‰, kun t‰‰ll‰ on semmoinen
+mies kuin Orlando?
+
+CELIA.
+Oi, se on uljas mies! Kirjoittaa uljaita runoja, puhuu uljaita sanoja,
+vannoo uljaita valoja, ja rikkoo ne uljaasti, pitkin ja poikin ja syrjin
+rakastettunsa syd‰mmeen, niinkuin taitamaton turnaaja, joka iskee
+kannuksensa ratsunsa toiseen kylkeen ja taittaa peitsens‰ perin
+typer‰sti. Mutta kaikki on uljasta, kun nuoruus on satulassa ja tyhmyys
+ohjaksissa. -- Kuka tuossa tulee?
+
+    (Corinnus tulee.)
+
+CORINUS.
+Mult' usein, herrasv‰ki, utelitte
+Paimenta tuota, tuota lemmen ruikkaa,
+Jok' istui vierell‰ni nurmella
+Ja kehui lemmityist‰‰n, ylv‰‰, korskaa
+Naispaimenta.
+
+CELIA.
+              Niin, mit‰ h‰nest‰?
+
+CORINUS.
+Jos mieli n‰hd‰ tosi n‰ytelm‰‰,
+Miss' uskollisen lemmen kalvas haamu
+Ja korskan ivan punahehku toimii,
+Niin tulkaa mukaan, teid‰t sinne vien,
+Jos n‰hd‰ mieli.
+
+ROSALINDA.
+                 Tule; menn‰‰n t‰st‰:
+Lemmekk‰‰t el‰‰ lemmen n‰kem‰st‰. --
+Vie meid‰t sinne; jos on onni hyv‰,
+N‰ytelm‰ss' olen min‰i esiintyv‰.
+
+                       (Menev‰t.)
+
+
+Viides kohtaus.
+
+    Toinen kulma samaa mets‰‰.
+    (Silvius ja Phebe tulevat.)
+
+SILVIUS.
+Mua ‰l‰ ilku, rakas Phebe, ‰l‰!
+Sano, ett'et lemmi, vaan sit' ‰l‰ sano
+Noin vihlovasti. Pyˆvelik‰‰n, jonka
+On surman tuttu n‰kˆ paaduttanut,
+Ei nˆyr‰‰n niskaan iske pilluaan,
+Anteeksi pyyt‰m‰tt‰. Julmemp' olet
+Kuin h‰n, jok' el‰‰, kuolee veriss‰.
+
+    (Rosalinda, Celia ja Corinnus tulevat et‰‰ll‰.)
+
+PEBE.
+En aio sinun pyˆvelisi olla;
+Sua pakenen, ett'en sua loukkaisi.
+Mun silmiss‰ni asuu murha, sanot;
+Sep' oivaa! Luultavaakin, ett‰ silm‰t, --
+Nuo heikon heikot, hennot kappaleet,
+jotk' itse p‰iv‰n hiuteilt' ovens' sulkee, --
+Sais murhaajan ja teurastajan nimen!
+Nyt syd‰mmest‰ni sua karsastan:
+Jos silm‰ni voi tappaa, niin nyt kuole!
+No, ole pyˆrtyvin‰s, kaadu maahan!
+Jos sit' et voi, hyi! h‰pee valehdella
+Ja v‰itt‰‰ silmi‰ni murhaajiksi
+Miss' on se silmieni lyˆm‰ haava?
+Jos neula sua raapaisee, niin siit‰
+J‰‰ toki naarmu; kaislaan jos sa nojaat,
+J‰‰ hetkeks siit‰ j‰lki k‰mmeneesi;
+Mut silm‰nip‰, jotka sinuun tulta
+Nyt iskev‰t, ei sua vahingoita,
+Eik' oisi silmiss' ik‰n‰ns‰ voimaa
+Ket‰k‰‰n vahingoittaa.
+
+SILVIUS.
+                       Rakas Phebe,
+Jos koskaan -- ja se "koskaan" tulee pian
+Sa koet terveen posken lemmen voimaa,
+Saat viel‰ tuta lemmen tuiman nuolen
+Salaiset haavat.
+
+PHEBE.
+                 Siihen asti ‰l‰
+Mua l‰hesty; ja kun se aika tulee,
+Niin ilkkuillen mua kiusaa, ‰l‰ s‰‰st‰;
+Sua siihen saakka min‰k‰‰n en s‰‰st‰.
+
+ROSALINDA (astuen esiin).
+Ja miksi? Mit‰? Ken lie ‰itinne,
+Kun tuota onnetonta voittoriemuin
+Noin ilkutte? Jos teilt‰ kauneus puuttuu --
+Eik' enemp‰‰ sit' olekaan, kuin ett‰
+Voi hyvin kynttil‰tt‰ menn‰ maata --
+Pit‰‰kˆ sen vuoks olla tyly, h‰ijy?
+Mik' aikeenne? Miks noin mua tarkkaatte?
+Teiss' en n‰e enemp‰‰, kuin mit‰ luonnoll'
+On aina kaupan. Totta totisesti!
+H‰n multakin kai aikoo silm‰t k‰‰nt‰‰?
+Ei, korska neitiseni, turha toivo!
+Nuo mustat kulmat, tumma silkkitukka,
+Nuo kermaposket ja nuo hehkusilm‰t
+Mua ei vois saada teit‰ palvomaan. --
+Miks, hupsu paimen, h‰nt‰ seuraatte,
+Kuin m‰rk‰ kaakko, vett‰, tuulta t‰ynn‰?
+Te tuhat kertaa sievemp' ootte mies
+Kuin h‰n on nainen; teid‰nlaiset hupsut
+Ne mailman t‰ytt‰‰ ep‰luomilta.
+Te h‰nt‰ imarratte, eik‰ peili;
+Teiss' itsens‰ h‰n n‰kee kauniimpana
+Kuin mit‰ omat kasvot n‰ytt‰v‰t. --
+Mut, neiti, itse‰nne tutkikaa;
+Polville maahan, paastoin kiitt‰k‰‰
+Jumalaa hyv‰n miehen rakkaudesta;
+Sill' yst‰v‰n‰ kuiskaan teille korvaan:
+Kun voitte, myyk‰‰; markkinoit' ei aina.
+Rukoilkaa anteeks; ottakaa, kun pyyt‰‰;
+Rumuus on rumin, kun se ivaa syyt‰‰.
+No, paimen, ota h‰net! -- Hyv‰sti!
+
+PHEBE.
+Oi, armas poika, toru vuosi umpeen:
+Sun toras hauskemmat tuon kosintaa.
+
+ROSALINDA.
+Poika on rakastunut teid‰n rumuuteenne, ja tyttˆ rakastuu minun vihaani.
+Jos niin on laita, niin kyll‰ min‰ h‰nt‰ hˆyst‰n karvailla sanoilla yht‰
+sukkelaan kuin h‰n sinulle vastaa otsan rypistyksill‰. -- Mit‰ te niin
+minuun katsotte?
+
+PHEBE.
+En sill‰ pahaa tarkoita.
+
+ROSALINDA.
+Ma pyyd‰n, ‰lk‰‰ rakastuko minuun:
+En taatump' ole humalaisen valaa.
+Pait sit‰ teist' en pid‰. Asuntoni
+Jos tiet‰‰ tahdotte, se t‰ss‰ l‰hell'
+On ˆljymetsikˆss‰. -- Menn‰‰n, sisko! --
+H‰nt' ‰l‰ p‰‰st‰, paimen! -- Tule, sisko! --
+H‰nelle taivu, tyttˆ! Ylpeys pois!
+Jos koko mailma teid‰t n‰hd‰ voisi.
+Noin soaistu kuin h‰n, ei kukaan oisi.
+Pois karjalaumojemme luo.
+
+    (Rosalinda, Celia ja Corinnus menev‰t.)
+
+PHEBE.
+K‰y sanas, runoilija, toteen t‰ss‰:
+"Ens lempi syttyy ensi n‰kem‰ss‰."[10]
+
+SILVIUS.
+Oi, rakas Phebe, --
+
+PHEBE.
+                     Mit‰ tahdot, Silvius?
+
+SILVIUS.
+Oi, rakas Phebe, mua surkutelkaa.
+
+PHEBE.
+Sun t‰htes, hyv‰ Silvius, murehdin.
+
+SILVIUS.
+Jos miss‰ murhe, siin‰ apukin.
+Jos lemmentuskiani murehditte,
+Minulle suokaa lempenne, niin haihtuu
+Molemmat, murhe niinkuin tuskakin.
+
+PHEBE.
+Saat lempeni: sit' ihmisrakkaus vaatii.
+
+SILVIUS.
+Ma teid‰t tahdon.
+
+PHEBE.
+                  Se on ahnautta.
+Ol' aika, jolloin sua vihasin,
+Eik' aika nytk‰‰n, ett‰ sua lemmin.
+Mut kun niin hyvin puhut lemmest‰,
+Niin seuraasi, jot' ennen vihasin,
+Nyt sied‰n. Palvelusta sulta pyyd‰n;
+Mut sinulle en muuta palkkaa lupaa
+Kuin ilon, ett‰ palvella mua saat.
+
+SILVIUS.
+Niin pyh‰ ja niin t‰ys on lempeni,
+Ja niin ma olen kˆyh‰ suosiosta,
+Ett' osani ma katson runsaaksi,
+Jos t‰hki‰ saan poimia sen j‰lkeen,
+Jok' elon t‰yden korjaa. Suokaa joskus
+Pikainen hymy, siit‰ min‰ el‰n.
+
+PHEBE.
+Tuon ‰skeisen sa nuorukaisen tunnet?
+
+SILVIUS.
+En likemmin, mut usein h‰net tapaan.
+H‰n ostanut on laitumet ja mˆkin,
+Joit' ennen Carlot-vanhus omisti.
+
+PHEBE.
+En h‰nt‰ silti lemmi, vaikka kysyn.
+Toraisa poika, -- mutta puhuu hyvin; --
+Viis sanoista! -- mut sanat tekee hyv‰‰,
+Kun puhuja on kuulijalle mieleen.
+H‰n siev‰ poika on, -- ei varsin siev‰; --
+Mut ylv‰ on; ja ylvyys sopii h‰lle:
+H‰nest‰ tulee hieno mies. Mut paras
+H‰ness' on muoto; pikemmin, kuin kieli
+Puraisee haavan, parantaa sen silm‰.
+Ei kookas juur', mut kookas ik‰isekseen;
+On s‰‰ret niin ja n‰in, mut sent‰‰n kauniit;
+Suloinen puna oli huulilla,
+T‰ydempi hiukan vain ja mehev‰mpi
+Kuin poskilla: juur' sama erotus
+Kuin nelj‰n ruusun v‰lill' on ja tumman.
+On, Silvius, naisia, jotk', erikohdin
+Jos h‰nt‰ tarkkaisivat niinkuin min‰,
+H‰nehen rakastuisivat; mut min‰
+En lemmi h‰nt‰, enk‰ vihaa h‰nt‰,
+Vaikk' enemp' ois, kuin lempeen, syyt‰ vihaan.
+Mik' oikeus h‰ll‰ mua soimata?
+On silm‰t, hiukset mulla mustat, sanoi,
+Ja, nyt sen muistan, mua ilkkuikin.
+On kummaa, ett'en h‰lle vastannut.
+Vaan toistaiseks jos j‰i, ei sikseen j‰‰nyt.
+Purevan kirjeen h‰lle kirjoitan,
+Ja sin‰ saat sen vied‰; vietkˆ, Silvius?
+
+SILVIUS.
+Kernaasti, Phebe.
+
+PHEBE.
+                  Kirjoitan sen heti.
+P‰‰ss' on ja syd‰mmess‰ aine mulla:
+Lyhyt ja pist‰v‰ se t‰ytyy tulla.
+No, tule, Silvius.
+
+          (Menev‰t.)
+
+
+
+
+NELJƒS NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Ardennien mets‰.
+    (Rosalinda, Celia ja Jaques tulevat.)
+
+JAQUES.
+Kuules, soma nuorukainen, saanko sinuun l‰hemmin tutustua?
+
+ROSALINDA.
+Sanovat, ett‰ olette synkk‰mielinen herra.
+
+JAQUES.
+Niin olenkin; se on enemm‰n mieleist‰ni kuin nauraminen.
+
+ROSALINDA.
+Ne, jotka toisessa tai toisessa liioittelevat, ovat inhottavia r‰ivi‰ ja
+joutuvat kaikenlaisen moitteen alaisiksi pahemmin kuin juomarit.
+
+JAQUES.
+Mutta hyv‰ on olla juro ja puhumaton.
+
+ROSALINDA.
+Siis on hyv‰ olla pˆlkky.
+
+JAQUES.
+Minussa ei ole oppineen synkk‰mielisyytt‰, joka on kilvoittelua; eik‰
+soittotaiteilijan, joka on haaveilua; eik‰ hovimiehen, joka on ylpeytt‰;
+eik‰ soturin, joka on kunnianhimoa; eik‰ lakimiehen, joka on oveluutta;
+eik‰ naisen, joka on turhamaisuutta; eik‰ rakastajan, joka on kaikkia
+n‰it‰ yhteens‰; vaan minun raskasmielisyyteni on minun omaani,
+monenmoisista aineksista valmisteltua, monenmoisista sekoituksista
+kiehitetty‰, ja itse asiassa kokonaistutkistelemus matkoistani, joiden
+tuhkatihe‰ jauheleminen sotkee minut sangen lystilliseen
+surunvoittoisuuteen.
+
+ROSALINDA.
+Vai matkailija! Toden totta, teill‰ on suuri syy olla surunvoittoinen.
+Varon ett‰ olette myynyt omat maanne, katsellaksenne muiden maita. Ken on
+paljon n‰hnyt eik‰ mit‰‰n omista, sill‰ on silm‰t rikkaat ja k‰det
+kˆyh‰t.
+
+JAQUES.
+Mutta min‰ olen saanut kokemusta.
+
+ROSALINDA.
+Ja kokemuksenne tekee teid‰t surunvoittoiseksi. Ennemmin min‰ pit‰isin
+narria, joka tekee minut iloiseksi, kuin kokemusta, joka tekee minut
+surulliseksi. Ja sitten viel‰ matkustella mokoman takia!
+
+    (Orlando tulee.)
+
+ORLANDO.
+Iloa, rauhaa, rakas Rosalinda!
+
+JAQUES.
+J‰‰k‰‰ Jumalan haltuun, jos aiotte puhua runoa.
+
+    (Menee.)
+
+ROSALINDA.
+Hyv‰sti, herra matkailija! Muistakaa vain sammaltaa ja k‰yd‰ ulkomaan
+vaatteissa, halventaa kaikkia oman maan hyvi‰ puolia, olla riidoin
+syntyper‰nne kanssa, ja morkata Jumalaa siit‰, ett‰ on tehnyt teid‰t
+semmoiseksi kuin olette; muuten tuskin uskon, ett‰ olette gondolissa
+uinut.[11] -- No, Orlando, miss‰ te olette ollut koko t‰m‰n ajan? Tekˆ
+rakastaja? -- Jos viel‰ kerran teette minulle t‰llaiset kepposet, niin
+‰lk‰‰ en‰‰ koskaan tulko silm‰ini eteen.
+
+ORLANDO.
+Rakas Rosalinda, enh‰n tule tuntiakaan myˆhemmin kuin lupasin.
+
+ROSALINDA.
+Rakastajako unohtaa lupauksensa kokonaisen tunnin! Joka jakaa minuutin
+tuhanteen osaan ja laiminlyˆ vain yhden tuhannesosan osankaan minuutista
+lemmenseikoissa, h‰nest‰ voi sanoa, ett‰ Cupido on h‰nt‰ olalle
+taputellut, mutta syd‰n on ehe‰, siit‰ vastaan.
+
+ORLANDO.
+Anteeksi, rakas Rosalinda!
+
+ROSALINDA.
+Jos olette n‰in myˆh‰stelev‰, niin ‰lk‰‰ en‰‰ tulko silmieni eteen; yht‰
+hyvin n‰kisin, ett‰ raakku minua kosisi.
+
+ORLANDO.
+Raakku?
+
+ROSALINDA.
+Niin, raakku; sill‰ vaikka se tulee hitaasti, niin se kantaa p‰‰ns‰
+p‰‰ll‰ kotansa, joka luullakseni on parempi leskenel‰ke, kuin mink‰ te
+voitte vaimollenne antaa. Sit‰ paitsi se tuo kohtalonsa mukanaan.
+
+ORLANDO.
+Mik‰ se?
+
+ROSALINDA.
+He, sarvet; joista mokomista te muuten saatte kiitt‰‰ vaimojanne; mutta
+sill‰ on onnenosansa valmiiksi varustettuna, ja se torjuu sill‰
+parjaukset vaimostaan.
+
+ORLANDO.
+Siveys ei ole mik‰‰n sarvisepp‰, ja minun Rosalindani on sive‰.
+
+ROSALINDA.
+Ja min‰ olen se teid‰n Rosalindanne.
+
+ORLANDO.
+H‰n suvaitsee sinua siksi kutsua; mutta h‰nell‰ on toinen Rosalinda,
+joka on paremmann‰kˆinen kuin sin‰.
+
+ROSALINDA.
+Tulkaa, kosikaa minua, kosikaa minua; olen nyt pyh‰p‰iv‰ tuulella ja
+voisin ehk‰ antaa lupauksen. -- Mit‰ sanoisitte minulle nyt, jos min‰
+olisin teid‰n oikea, oikea Rosalindanne?
+
+ORLANDO.
+Suutelisin teit‰, ennenkuin mit‰‰n sanoisin.
+
+ROSALINDA.
+Ei, parempi olisi ensin puhua; ja kun joudutte neuvottomaksi aineen
+puutteesta, silloin sopisi suudella. Oikein hyv‰t puhujat, kun joutuvat
+h‰mille, rupeavat rykim‰‰n; ja kun rakastajilta puuttuu -- josta Jumala
+varjelkoon! -- puheenaihetta, niin on sopivin keino suudella.
+
+ORLANDO.
+Ent‰ jos suudelma kiellet‰‰n?
+
+ROSALINDA.
+Silloin on pakko sit‰ pyyt‰‰, ja n‰in syntyy uutta puheenainetta.
+
+ORLANDO.
+Kukapa voisi h‰mille joutua oman rakastettunsa edess‰?
+
+ROSALINDA.
+Varmaan tekin, jos min‰ olisin rakastettunne; muuten voisin luulla, ett‰
+siveyteni on vahvempi kuin ‰lyni. Enkˆ min‰ ole teid‰n Rosalindanne?
+
+ORLANDO.
+Minua huvittaa kutsua teit‰ siksi, koska mielell‰ni tahdon h‰nest‰
+puhua.
+
+ROSALINDA.
+Hyv‰, h‰nen persoonassaan min‰ sanon: en huoli teist‰.
+
+ORLANDO.
+Silloin min‰ omassa persoonassani kuolen.
+
+ROSALINDA.
+ƒlk‰‰ mill‰‰n muotoa; tehk‰‰ se asiamiehen kautta. T‰m‰ poloinen maailma
+on jo l‰hes kuusituhatta vuotta vanha, ja koko sill‰ ajalla ei ole viel‰
+kukaan kuollut omassa persoonassaan, _videlicet_ rakkaudesta.
+Troilukselta murskasi kreikkalainen nuija aivot; kuitenkin h‰n teki mit‰
+voi, kuollakseen jo edelt‰p‰in, ja h‰n on yksi niit‰ rakkauden esikuvia.
+Leander, h‰n olisi el‰nyt monta herran vuotta, vaikka Hero olikin mennyt
+luostariin, jos ei olisi tullut kuuma juhannusyˆ, sill‰ poika-parka meni
+vain kylpem‰‰n Hellespontiin, sai suonenvedon ja hukkui; ja senaikuiset
+tyhm‰t kronikoitsijat p‰‰ttiv‰t, ett‰ syyn‰ oli -- Hero Sestolainen.
+Mutta kaikki t‰m‰ on pelkk‰‰ valetta; ihmisi‰ on kuollut v‰h‰n p‰‰st‰,
+ja madot ovat heid‰t syˆneet, vaan ei rakkaudesta.
+
+ORLANDO.
+Min‰ en soisi, ett‰ se oikea Rosalindani olisi samaa mielt‰, sill‰
+vannon, ett‰ h‰nen otsansa rypistyskin tappaisi minut.
+
+ROSALINDA.
+Kautta t‰m‰n k‰den! Se ei tappaisi k‰rp‰st‰k‰‰n. Mutta kuulkaa, nyt
+tahdon olla teid‰n Rosalindanne suopeampi-tuulisena; pyyt‰k‰‰ mit‰
+tahdotte, min‰ suostun.
+
+ORLANDO.
+No, rakasta minua, Rosalinda.
+
+ROSALINDA.
+Rakastan oikein: perjantaina ja lauantaina ja joka p‰iv‰.
+
+ORLANDO.
+Tahdotko minut?
+
+ROSALINDA.
+Tahdon, ja kaksikymment‰ samanlaista lis‰ksi.
+
+ORLANDO.
+Mit‰ sanot?
+
+ROSALINDA.
+Ettekˆ te ole hyv‰?
+
+ORLANDO.
+Toivoakseni olen.
+
+ROSALINDA.
+No niin, voiko ihminen saada liiaksi hyv‰‰? -- Kuule, sisko, sin‰ saat
+ruveta papiksi ja vihki‰ meid‰t. -- Antakaa minulle k‰tenne, Orlando. --
+No, mit‰ sanot, sisko?
+
+ORLANDO.
+Olkaa hyv‰, vihkik‰‰ meid‰t.
+
+CELIA.
+En osaa sanoja.
+
+ROSALINDA.
+Ala n‰in: "Min‰ kysyn sinulta, Orlando", --
+
+CELIA.
+Hyv‰, hyv‰! -- Min‰ kysyn sinulta, Orlando, tahdotkos ottaa t‰m‰n
+Rosalindan aviovaimoksesi?
+
+ORLANDO.
+Tahdon.
+
+ROSALINDA.
+Niin, mutta koska?
+
+ORLANDO.
+He, heti nyt, niin pian kuin h‰n meid‰t on vihkinyt.
+
+ROSALINDA.
+Siis pit‰‰ teid‰n sanoa: "min‰ otan sinut, Rosalinda, nyt
+aviovaimokseni".
+
+ORLANDO.
+Min‰ otan sinut, Rosalinda, nyt aviovaimokseni.
+
+ROSALINDA.
+Minun pit‰isi kysy‰ lupakirjaanne, mutta yht‰ hyv‰, -- min‰ otan sinut,
+Orlando, nyt aviomiehekseni. N‰in ehtii tyttˆ ennen pappia, ja, todella,
+naisen ajatukset rient‰v‰t aina h‰nen tekojensa edelle.
+
+ORLANDO.
+Niin on kaikkien ajatusten laita: niill‰ on siivet.
+
+ROSALINDA.
+Mutta sanokaa, kuinka kauan aiotte h‰net pit‰‰, kun olette h‰net saanut.
+
+ORLANDO.
+Iankaiken ja p‰iv‰n.
+
+ROSALINDA.
+Sanokaa p‰iv‰n, ja j‰tt‰k‰‰ pois iankaiken. Ei, ei, Orlando! Miehet ovat
+huhtikuuta, kun kosivat, mutta joulukuuta, kun ovat aviossa; tytˆt ovat
+toukokuuta, kun ovat tyttˆj‰, mutta taivas muuttuu heti, kun tulevat
+vaimoiksi. Min‰ tulen sinua ep‰ilem‰‰n enemm‰n kuin toukomettinen
+naarastaan, olen kirkuvampi kuin papukaija ennen sadetta, uutispersompi
+kuin apina ja halukkaampi kuin marakatti; itken tyhj‰‰ niinkuin Diana
+suihkukaivolla,[12] ja teen sen silloin, kun sin‰ olet iloisella
+tuulella; ja nauran kuin hyeena aina, kun sin‰ olet nukkumap‰‰ll‰.
+
+ORLANDO.
+Mutta tekeekˆ minun Rosalindani noin?
+
+ROSALINDA.
+Kautta henkeni! H‰n tekee niinkuin min‰ teen.
+
+ORLANDO.
+Oo, mutta h‰n on ‰lyk‰s.
+
+ROSALINDA.
+Ei h‰nell‰ muuten olisikaan ‰ly‰ tehd‰ niin. Jota ‰lykk‰‰mpi, sit‰
+oikullisempi. Lukitse ovet naisen ‰lylt‰, niin se menee ulos ikkunasta;
+sulje se, niin se menee avaimen rei‰st‰; tuki se, niin se lent‰‰ savun
+kanssa takantorvesta.
+
+ORLANDO.
+Mies, jolla olisi noin ‰lymielinen vaimo, voisi sanoa: "Ymm‰rrys, hoi!
+ƒly, ‰l‰ j‰t‰!"
+
+ROSALINDA.
+Tuon huudahduksen voisitte s‰‰st‰‰ siksi, kuin tapaatte vaimonne menossa
+naapurinne makuukamariin.
+
+ORLANDO.
+Ja mik‰ ‰ly olisi kyllin ‰lyk‰s moista puolustamaan?
+
+ROSALINDA.
+Sanoisi esimerkiksi, ett‰ meni teit‰ sielt‰ etsim‰‰n. Te ette ik‰n‰
+tapaa h‰nt‰ sanattomana, jos ette tapaa h‰nt‰ kielettˆm‰n‰. Oo, se
+vaimo, joka ei voi ajaa vikojaan miehens‰ p‰‰h‰n, ‰lkˆˆn koskaan itse
+imett‰kˆ lastaan, sill‰ h‰n tekee siit‰ hˆlmˆn.
+
+ORLANDO.
+Nyt, Rosalinda, j‰t‰n sinut kahdeksi tunniksi.
+
+ROSALINDA.
+Ah, rakas kultaseni! Kahta tuntia en voi olla ilman sinua.
+
+ORLANDO.
+Minun t‰ytyy palvella herttuata p‰iv‰llispˆyd‰ss‰; mutta kello kaksi
+tulen taas luoksesi.
+
+ROSALINDA.
+Niin, niin, mene, mene! -- Tiesinh‰n ennakolta mit‰ tekisitte; yst‰v‰ni
+mua varoittivat, ja itsekin ajattelin samaa, -- tuo lipoinen kielenne
+lumosi minut, -- olen vain yksi hyl‰tty lis‰‰, ja sitten -- tule,
+kuolema! Kello kaksi, niinkˆ?
+
+ORLANDO.
+Niin, rakas Rosalinda.
+
+ROSALINDA.
+Kautta kunniani, ja toden per‰st‰, ja niin totta kuin Jumala minua
+auttakoon, ja kaikkien sievien valojen kautta, jotka eiv‰t ole
+vaarallisia: jos rikotte rahdunkaan lupauksestanne tai tulette
+minuuttiakaan myˆhemmin, niin pid‰n teit‰ t‰ydellisimp‰n‰ valapattona,
+petollisimpana rakastajana ja h‰nt‰, jota Rosalindaksi sanotte, v‰himmin
+ansainneena, mit‰ voisi uskottomien suuresta joukkiosta etsim‰ll‰k‰‰n
+lˆyt‰‰. Siis, varokaa tuomiotani ja pit‰k‰‰ sananne.
+
+ORLANDO.
+Yht‰ pyh‰sti, kun jos todellakin olisit Rosalindani. Hyv‰sti vain!
+
+ROSALINDA.
+Hyv‰, aika on se vanha tuomari, joka tutkii kaikki mokomat
+rikoksentekij‰t; ja aika sen siis n‰ytt‰kˆˆn. Hyv‰sti!
+
+    (Orlando menee.)
+
+CELIA.
+Sin‰ olet lemmenloruillasi kohdastaan halventanut meid‰n sukupuolta.
+Sinulta pit‰‰ riisua takki ja housut p‰‰n kautta pois, jotta maailma saa
+n‰hd‰, mit‰ lintu on tehnyt omaan pes‰‰ns‰.
+
+ROSALINDA.
+Oi, serkku, serkku, serkku, pikku siev‰ serkkuseni! Jos tiet‰isit,
+kuinka monta sylt‰ syv‰‰n min‰ olen lempeen vajonnut! Sit‰ syvyytt‰ ei
+voi mitata; minun rakkauteni pohja on tutkimaton niinkuin Portugalin
+lahden.
+
+CELIA.
+Tai pikemmin pohjaton: jota enemm‰n siihen rakkautta ajat, sit‰ enemm‰n
+sit‰ juoksee pois.
+
+ROSALINDA.
+Ei, tuo h‰ijy Venuksen ‰p‰r‰, joka on haaveista tehty, houreista siinnyt
+ja hullutuksista syntynyt, tuo sokea poikaveitikka, joka k‰‰nt‰‰
+kaikkien ihmisten silm‰t, siksi ett‰ h‰nell‰ itsell‰‰n niit‰ ei ole, h‰n
+arvioitkoon, kuinka syv‰‰n olen lempeen vajonnut. -- Tied‰pp‰s, Aliena,
+en en‰‰ voi olla Orlandoa n‰kem‰tt‰. Menen varjoa etsim‰‰n ja
+huokailemaan siksi, kunnes h‰n tulee.
+
+CELIA.
+Ja min‰ menen nukkumaan.
+
+    (Menev‰t.)
+
+
+Toinen kohtaus.
+
+    Toinen kulma samaa mets‰‰.
+    (Jaques ja herttuan hovilaisia tulee mets‰styspuvussa.)
+
+JAQUES.
+Kuka se hirven kaatoi?
+
+1 HOVILAINEN.
+Min‰, hyv‰ herra.
+
+JAQUES.
+Esitt‰k‰‰mme h‰net herttualle roomalaisena valloittajana; ja hyvin
+sopivaa olisi panna hirven sarvet h‰nen p‰‰h‰ns‰ voittoseppeleen sijaan.
+-- Ettekˆ osaa, mets‰st‰j‰, mit‰‰n tilaisuuteen sopivaa laulua?
+
+2 HOVILAINEN.
+Osaan kyll‰.
+
+JAQUES.
+Laulakaa sitten; sill‰ ei v‰li‰, kuinka se sointuu, kunhan vain syntyy
+tarpeeksi melua.
+
+        Laulu.
+
+    1 ‰‰ni. Mik' osa hirvenhiiht‰j‰lle?
+    2 ‰‰ni. J‰‰ talja sek‰ sarvet h‰lle.
+    1 ‰‰ni. H‰net kotiin laulakaa.
+            ƒl' ‰imisty, jos sarvet saat:
+            Ne vanhastaan on arvokkaat.
+    Kaikki. ƒl' ‰imisty, jos sarvet saat:
+            Ne vanhastaan on arvokkaat.
+    1 ‰‰ni. Niiss' isois‰s kulki.
+    2 ‰‰ni. Ja is‰sikin julki.
+    Kaikki. Se sarvi, se sarvi, se hauska sarvi,
+            Suott' ei sit‰ kanna miesten parvi.
+
+    (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    Toinen kulma samaa mets‰‰.
+    (Rosalinda ja Celia tulevat.)
+
+ROSALINDA.
+Mit‰ sanot nyt? Eikˆ kello jo ole yli kahden? Ja ket‰‰n Orlandoa ei n‰y!
+
+CELIA.
+Takaan ett‰ h‰n sulasta lemmest‰ ja aivojen h‰mmennyksest‰ on ottanut
+jousensa ja nuolensa ja mennyt pois -- nukkumaan. -- Kas, kuka tuossa
+tulee?
+
+    (Silvius tulee.)
+
+SILVIUS.
+Teit' etsin, kaunis nuorukainen.
+    (Antaa h‰nelle kirjeen.)
+T‰‰n k‰ski hyv‰ Phebe antaa teille.
+En tunne sis‰llyst‰, mutta arvaan
+Suun v‰‰nteist‰ ja otsan rypyist‰,
+Joit' ilmaisi h‰n tuota kirjoittaissaan,
+Ett' on se pureva. Mut anteeks suokaa,
+Min' olen syytˆn sanantuoja vain.
+
+ROSALINDA.
+Jo t‰st‰ kirjeest' itse malttamuskin
+Vois raivoon ylty‰ ja riitaa haastaa.
+Ken t‰m‰n siet‰‰, siet‰‰ kaikki. Sanoo,
+Ett' olen ruma, kaltoin kasvatettu,
+Ja ylpe‰, ja ettei mua lemmi,
+Vaikk' oisi miehet yht‰ harvinaiset
+Kuin Phoenix. Lempo vie! Ei Pheben lempi
+Se j‰nis ole, jota min‰ ajan.
+Miks kirjoittaa n‰in mulle? -- Kuules, paimen,
+T‰‰n kirjeen olet itse pannut kokoon.
+
+SILVIUS.
+En, vannon sen, en tunne sis‰llyst‰;
+Sen Phebe kirjoitti.
+
+ROSALINDA.
+                     Sin' olet narri,
+Ja lempi sun on vienyt suunniltas.
+N‰in h‰nen k‰tens‰: se on kuin nahkaa.
+Juur' hiekkakiven karvainen; ma luulin,
+Ett' oli h‰ll‰ hansikkaat, mut k‰si
+Se oli, oikein kyˆkkikarhun k‰si.
+Mut yht‰kaikki! Sanon, ettei h‰n
+T‰t' ole keksinyt; se jonkun miehen
+On keksintˆ‰ sek‰ k‰sialaa.
+
+SILVIUS.
+Se ihan varmaan h‰nen on.
+
+ROSALINDA.
+Tuo pˆyhke‰ ja julma kieliasu
+Omans' on miekkaajalle; h‰n mua uhkaa
+Kuin Turkki kristitty‰. Naisen aivoist'
+Ei l‰htisi noin kolhomaisen raakaa,
+Moist' Aithiopin kielt‰, jonk' on sisus
+Mustempi kuorta. -- Mielitkˆ sa kuulla?
+
+SILVIUS.
+Jos tahdotte; en kirjett' ole kuullut,
+Mut Pheben julmuudesta liikaakin.
+
+ROSALINDA.
+Mua ilkkuu h‰n. N‰in kirjoittaa se julmus:
+    "Jumal' ihmishahmossa,
+    Tytˆn mielen hurmoit aivan"; --
+Voiko nainen noin herjata?
+
+SILVIUS.
+Sanotteko tuota herjaukseksi?
+
+ROSALINDA.
+    "Miks toit lainahaamussa
+    Naisen poveen lemmenvaivan?"
+Oletko milloinkaan kuullut moista ivaa? --
+    "Mies on minuun katseen luonut,
+    Mut ei moista tuskaa tuonut."
+Niinkuin min‰ olisin mik‰‰n peto!
+    "Jos sun kirkkaan silm‰s iva
+    Moisen lemmen nostattaa,
+    Mit' ei katsees maireksiva
+    Silloin minuss' aikaan saa?
+    Lemmen nosti soima syv‰;
+    Mit' ei tekis sana hyv‰?
+    H‰n, jonk' annan t‰m‰n vied‰,
+    H‰n ei lemmest‰ni tied‰.
+    Vastaa h‰lle k‰den lomaan,
+    Otatko sa vastahan
+    Mink‰ sulle tarjoan:
+    Itseni ja mit‰ omaan.
+    Mut jos h‰n sulta kiellon tuo,
+    Niin hauta mulle levon suo."
+
+SILVIUS.
+Tuotako sanotte soimaukseksi?
+
+CELIA.
+Ah, paimen-parka!
+
+ROSALINDA.
+S‰‰litkˆ sin‰ h‰nt‰? Ei, h‰nt‰ ei kannata s‰‰li‰. -- Voitko sin‰
+tuommoista naista rakastaa? Mit‰? Pit‰‰ sinua vain koneenaan, jolla
+soittelee v‰‰ri‰ s‰veli‰! Siet‰m‰tˆnt‰! -- Mene takaisin h‰nen luokseen,
+-- sill‰ huomaan, ett‰ rakkaus on sinusta tehnyt aljo-hanhen -- ja sano
+h‰nelle, ett‰ jos h‰n rakastaa minua, niin min‰ vaadin h‰nt‰ rakastamaan
+sinua; jos h‰n ei siihen suostu, niin min‰ en aio h‰nest‰ v‰h‰‰k‰‰n
+v‰litt‰‰, paitsi jos sin‰ rukoilet h‰nen puolestaan. -- Jos vilpittˆm‰sti
+rakastat, niin mene tiehesi, -- ja sanaakaan ei en‰‰, sill‰ t‰ss‰ tulee
+muita ihmisi‰.
+
+    (Silvius menee.)
+    (Oliver tulee.)
+
+OLIVER.
+Huomenta, kauniit lapset! Sanokaa,
+Miss' onkaan t‰‰ll‰ mets‰ss‰ se mˆkki,
+Jot' ylt‰ ymp‰rˆitsee ˆljypuut.
+
+CELIA.
+P‰in l‰ntt‰ t‰st‰, l‰hilaaksoss' aivan;
+Halavakuja pitkin puron vartta,
+Jok' oikealle j‰‰, vie teid‰t sinne.
+Mut talo itse‰‰n nyt vartioi,
+Kotona siell' ei t‰ll‰ haavaa ket‰‰n.
+
+OLIVER.
+Jos kieli silm‰n opas on, niin pit‰is
+Sen neuvosta mun teid‰t tuntea.
+Niin, puku, ik‰: "poika vaaleahko,
+Naismainen n‰kˆ, k‰ytˆs niinkuin oisi
+T‰yskasvuinen h‰n sisar; tyttˆ lyhyt
+Ja tummempi kuin veli." Teh‰n olette
+Sen mˆkin omistajat, jota etsin?
+
+CELIA.
+Ei korskaa lie, jos vastaan, ett' ollaan.
+
+OLIVER.
+Orlando teit‰ tervehtii, ja sille,
+Jota kutsuu Rosalindaksi, h‰n t‰m‰n
+Verisen nen‰liinan l‰hett‰‰.
+Tekˆ se?
+
+ROSALINDA.
+         Min‰. Mit‰ tiet‰‰ t‰‰?
+
+OLIVER.
+Mun h‰pe‰‰ni vain, kun kuulla saatte.
+Mik' olen mies, ja kuinka, miksi, miss‰
+T‰‰ liina tuli veriin.
+
+CELIA.
+                       Kertokaa!
+
+OLIVER.
+Kun nuor' Orlando teist‰ eros ‰sken,
+Lupasi kahden tunnin kuluessa
+Palata. Mets‰‰ astui, m‰rehtien
+Makean-katkerata lempe‰‰n.
+Mutta mit‰ tapahtui? H‰n katsoi syrj‰‰n;
+Kas, mik‰ n‰ky! Vanhan tammen alla,
+Jonk' oksat ik‰ oli sammaloinut
+Ja lakkalatvan vanhuus kuivannut,
+Mies ryysyinen ja aivan karvoittunut
+Sel‰ll‰‰n nukkui; kaulan ymp‰rille
+Viher‰ kultak‰‰rme kiert‰ytyi,
+Ja p‰‰ jo uhitellen l‰henteli
+Makaajan avosuuta; mutta ‰kist',
+Orlandon n‰hdess‰‰n, se p‰‰sti irti
+Ja hiipi luikerrellen pensaikkoon.
+Sen varjossapa naaras-leijona,
+Utaret kuiviks imettyin‰, makas.
+P‰‰ maassa, vaaniskellen niinkuin kissa,
+Siks ett‰ liikahtaisi nukkuja:
+Tuon pedon kuninkaallinen on luonne,
+N‰et, j‰tt‰‰ rauhaan, miss' ei eloa.
+Nyt miest' Orlando l‰hestyi ja n‰ki,
+Ett' oli veli se, niin, vanhin veli.
+
+CELIA.
+Oo, puhunut h‰n tuost' on veljest‰‰n,
+Kuvaten h‰nt‰ luonnottomimmaksi
+Maan p‰‰ll‰ el‰vist‰.
+
+OLIVER.
+                      Syyst‰kin;
+H‰n oli luonnoton, sen hyvin tied‰n.
+
+ROSALINDA.
+Mut Orlando? H‰n veljen j‰ttikˆ
+Saaliiksi n‰littyneen jalopeuran?
+
+OLIVER.
+Pois k‰‰ntyi kahdesti ja j‰tt‰‰ aikoi;
+Mut laupeus, ylev‰mpi kostoa,
+Ja luonto, v‰kev‰mpi kiusausta,
+H‰nt' ajoi ahdistamaan leijonaa,
+Jok' urhon eteen heti kaatui. Meluun
+Her‰sin onnettomast' unestani.
+
+CELIA.
+Te veljens‰kˆ?
+
+ROSALINDA.
+               Pelastiko teid‰t?
+
+CELIA.
+Te h‰nen henkens‰kˆ vainooja?
+
+OLIVER.
+Se olin, vaan en ole; h‰pe‰n
+Sanoa mik‰ olin, nyt kun tuntuu
+Niin suloiselta, muuttunut kun olen.
+
+ROSALINDA.
+Mut verinen tuo liina?
+
+OLIVER.
+                       Heti, heti.
+Kun kahden puolen sulokyyneliss‰
+On koko ajan uineet kertomukset,
+Etenkin miten t‰h‰n korpeen jouduin,
+H‰n minut saattoi jalon herttuan luo,
+Jok' antoi mulle vaatetta ja ruokaa
+Ja uskoi minut veljen hellyyteen.
+T‰‰ heti vei mun luolaansa; ja siell‰
+Kun riisuutui, niin, n‰hk‰‰s, jalopeura
+K‰sivarrest' oli purrut v‰h‰n lihaa,
+Jost' yh‰ vuosi verta. Nyt h‰n pyˆrtyi
+Ja huusi pyˆrtyess‰‰n Rosalindaa.
+Ma h‰nt‰ virvoitin ja sidoin haavan;
+Ja hetken p‰‰st‰, tointunut kun oli,
+H‰n laittoi t‰nne mun, vaikk' olen outo,
+Asiaa kertomaan, jott' anteeks saisi
+Sanansa rikon, ja t‰‰n liinan tuomaan,
+Verell‰‰n tahrattuna, paimenelle,
+Jot' ilonp‰in h‰n Rosalindaks sanoi.
+
+    (Rosalinda pyˆrtyy.)
+
+CELIA.
+Voi, Ganymedes! Rakas Ganymedes!
+
+OLIVER.
+Niin, moni pyˆrtyy verta n‰hdess‰‰n.
+
+CELIA.
+T‰‰ pahempaa on. -- Serkku! -- Ganymedes!
+
+OLIVER.
+Kah, h‰n jo virkoo!
+
+ROSALINDA.
+                    Kotona jos oisin!
+
+CELIA.
+Me viemme sinut sinne. -- Olkaa hyv‰
+Ja h‰nt‰ k‰sivarrest' auttakaa.
+
+OLIVER.
+Rohkeutta, nuorukainen! -- Oletteko te mies?
+Teill‰ ei ole miehen mielt‰.
+
+ROSALINDA.
+Ei ole, sen myˆnn‰n. Ah, herraseni, joku voisi luulla, ett‰ t‰m‰ on
+taito-teeskely‰. Olkaa hyv‰, kertokaa veljellenne, kuinka taiten min‰
+teeskelen. Ho hei!
+
+OLIVER.
+Tuo ei ollut teeskely‰; kalpeutenne on liian hyv‰ todistus siit‰, ett‰
+mielenliikutuksenne oli t‰ytt‰ totta.
+
+ROSALINDA.
+Teeskely‰, uskokaa pois!
+
+OLIVER.
+No, hyv‰, rohkaiskaa siis mielenne ja teeskelk‰‰ olevanne mies.
+
+ROSALINDA.
+Niin teenkin; mutta, toden totta, oikeastaan minun pit‰isi olla nainen.
+
+CELIA.
+Tule pois! Sin‰ kalpenet kalpenemistasi. Tule, menn‰‰n kotiin. -- Hyv‰
+herra, tulkaa mukaan.
+
+OLIVER.
+Sen teen; n‰et, veljeni on saapa tiedon,
+Kuink' anteeks h‰lle antaa Rosalinda.
+
+ROSALINDA.
+Tahdon keksi‰ jotakin. Mutta, olkaa hyv‰, kehukaa h‰nelle minun
+teeskelytaitoani. -- Tulkaa!
+
+    (Menev‰t.)
+
+
+
+
+VIIDES NƒYT÷S.
+
+
+Ensimm‰inen kohtaus.
+
+    Ardennien mets‰.
+    (Siera ja Kaisa tulevat.)
+
+SIERA.
+Ei h‰t‰‰, Kaisu, kyll‰ viel‰ on aikaa; malta vain mielesi, hyv‰
+Kaisuseni.
+
+KAISA.
+Kyll‰ maar pappi oli tarpeeksi hyv‰, sanokoon tuo vanha herra mit‰
+sanoo.
+
+SIERA.
+Se hirve‰ pastori Olivarius, se pahanp‰iv‰inen V‰‰r‰l‰inen! Mutta,
+Kaisu, t‰‰ll‰ on er‰s nuorukainen t‰‰ll‰ mets‰ss‰, joka vaatii sinua
+omakseen.
+
+KAISA.
+Tied‰n kyll‰, kuka se on; h‰nell‰ ei ole mit‰‰n tekemist‰ minun
+kanssani. Mut tuossa se tuleekin se mies.
+
+    (William tulee.)
+
+SIERA.
+Voisin p‰iv‰n syˆm‰tt‰ katsella mokomaa tolvanaa. Meid‰n, joilla on hyv‰
+‰ly, meid‰n on, totta totisesti, paljosta vastattava; meid‰n t‰ytyy
+ilkastella, siit‰ emme p‰‰se.
+
+WILLIAM.
+Hyv‰‰ iltaa, Kaisa.
+
+KAISA.
+Iltaa, iltaa, William.
+
+WILLIAM.
+Hyv‰‰ iltaa teillekin, herra.
+
+SIERA.
+Hyv‰‰ iltaa, yst‰v‰. Lakki p‰‰h‰n! Lakki p‰‰h‰n! Kas niin, lakki p‰‰h‰n!
+Kuinka vanha olette, yst‰v‰?
+
+WILLIAM.
+Viidenkolmatta, hyv‰ herra.
+
+SIERA.
+Vakaa ik‰. Williamko nimenne?
+
+WILLIAM.
+William, hyv‰ herra.
+
+SIERA.
+Kaunis nimi. Ja t‰‰ll‰ mets‰ss‰kˆ syntynyt?
+
+WILLIAM.
+T‰‰ll‰, herra, Jumalan kiitos.
+
+SIERA.
+"Jumalan kiitos" -- hyv‰ vastaus. Oletko rikas?
+
+WILLIAM.
+No niin, hyv‰ herra, niin ja n‰in.
+
+SIERA.
+"Niin ja n‰in" on hyv‰, oikein hyv‰, oikein verrattoman hyv‰, eik‰
+kuitenkaan: onhan vain niin ja n‰in. Oletko ‰lyk‰s?
+
+WILLIAM.
+No, onhan sit‰ ‰ly‰ siev‰nlaisesti.
+
+SIERA.
+No, sen sanot oikein. Muistan nyt er‰‰n sananlaskun: "tyhm‰ luulee
+olevansa viisas, mutta viisas tiet‰‰ olevansa tyhm‰". Pakanallinen
+filosohvi, kun sai halun syˆd‰ viiniryp‰leen, avasi huulensa samassa
+kuin pisti sen suuhunsa, sill‰ osoittaen, ett‰ viiniryp‰leet on luotu
+syˆt‰viksi ja huulet avattaviksi. Rakastatko tuota tyttˆ‰?
+
+WILLIAM.
+Rakastan, hyv‰ herra.
+
+SIERA.
+Anna t‰nne k‰tesi. Oletko oppinut?
+
+WILLIAM.
+En, hyv‰ herra.
+
+SIERA.
+Siis ota minulta oppia. Jolla on, sill‰ on; sill‰ retoriikassa on
+lausemuoto, joka sanoo, ett‰ kun kaadat juotavaa kupista lasiin, niin
+toinen tyhjentyy ja toinen t‰yttyy; sill‰ kaikki meid‰n kirjailijat ovat
+yht‰ mielt‰ siin‰, ett‰ _ipse_ on h‰n; mutta sin‰ et ole _ipse_,
+sill‰ min‰ olen h‰n.
+
+WILLIAM.
+Mik‰ h‰n, hyv‰ herra?
+
+SIERA.
+Se h‰n, hyv‰ herra, joka nai t‰m‰n tytˆn. Siis, sin‰ tolvana, herke‰ --
+joka on arkikielell‰ samaa kuin: lakkaa -- seurustelusta -- joka moukkain
+kielell‰ on: yhteydest‰ -- t‰m‰n neitsyen -- tai tavallisella kielell‰:
+tytˆn -- kanssa; tai kaikki yhteen laskettuna: herke‰ seurustelusta
+t‰m‰n neitsyen kanssa, muuten sin‰, tolvana, olet mennytt‰ kalua, tai,
+paremmin ymm‰rt‰‰ksesi, kuolet; nimitt‰in, min‰ tapan sinut, toimitan
+sinut pois maailmasta, muutan el‰m‰si kuolemaksi, vapautesi orjuudeksi;
+kauppaan sinulle myrkky‰ tai selk‰saunaa tai puukkoa; nujerran sinut
+politiikalla; tapan sinut sadalla viidell‰kymmenell‰ tavalla; siis
+vapise ja mene!
+
+KAISA.
+Tee se, hyv‰ William.
+
+WILLIAM.
+Jumala teid‰n ‰ly‰nne varjelkoon, herra!
+
+    (Menet.)
+    (Corinnus tulee.)
+
+CORINUS.
+Herra ja neiti hakevat teit‰. Tulkaa joutuin, joutuin!
+
+SIERA.
+Juokse, Kaisu, juokse, Kaisu! -- Min‰ tulen per‰ss‰, min‰ tulen per‰ss‰.
+
+    (Menev‰t.)
+
+
+Toinen kohtaus.
+
+    Toinen kulma samaa mets‰‰.
+    (Orlando ja Oliver tulevat.)
+
+ORLANDO.
+Onko mahdollista ett‰ n‰in lyhytaikaisesta tuttavuudesta voi synty‰.
+mieltymys? Tuskin n‰itte h‰net, niin jo rakastitte h‰nt‰; tuskin
+rakastitte, niin jo kositte; tuskin olitte kosinut, niin jo saitte
+lupauksen. Ja aiotteko pysy‰ p‰‰tˆksess‰nne?
+
+OLIVER.
+ƒlkˆˆn teit‰ arveluttako t‰m‰ kiireisyys eik‰ h‰nen kˆyhyytens‰, eik‰
+lyhyt tuttavuus, eik‰ pikainen kosiminen, eik‰ h‰nen pikainen
+suostumuksensa, vaan sanokaa minun kanssani, ett‰ min‰ rakastan Alienaa;
+sanokaa h‰nen kanssaan, ett‰ h‰n rakastaa minua; olkaa molempain kanssa
+yksimieliset siit‰, ett‰ meid‰n t‰ytyy saada toisemme. Siit‰ on teille
+vain hyˆty‰, sill‰ is‰ni talon ja kaikki vanhan sir Rolandin tulot
+luovutan teille, itse t‰‰ll‰ el‰‰kseni ja kuollakseni paimenena.
+
+ORLANDO.
+Suostumukseni saatte. Pit‰k‰‰ huomenna h‰‰nne; kutsun niihin herttuan ja
+koko h‰nen iloisen seurueensa. Menk‰‰ ja valmistelkaa Alienaa, sill‰,
+n‰hk‰‰s, tuossa tulee minun Rosalindani.
+
+    (Rosalinda tulee.)
+
+ROSALINDA.
+Jumalan rauha, veliseni!
+
+OLIVER.
+Samaa, kaunis siskoseni!
+
+ROSALINDA.
+Oi, rakas Orlando, kovin on haikeata n‰hd‰, ett‰ syd‰mmesi on siteiss‰.
+
+ORLANDO.
+Ei, vain k‰sivarteni.
+
+ROSALINDA.
+Min‰ kun luulin, ett‰ syd‰mmesi oli saanut haavan jalopeuran kynsist‰.
+
+ORLANDO.
+Haavan se on saanut, mutta naisen silmist‰.
+
+ROSALINDA.
+Onko veljenne teille kertonut, kuinka olin pyˆrtyvin‰ni, kun h‰n n‰ytti
+minulle teid‰n nen‰liinaanne?
+
+ORLANDO.
+On, viel‰p‰ suurempiakin ihmeit‰.
+
+ROSALINDA.
+Oh, kyll‰ tied‰n, mit‰ tarkoitatte. -- Niin, se on totta: se k‰vi yht‰
+sukkelaan kuin kahden j‰‰r‰n tappelu ja Caesarin thrasonilainen kerska:
+"tulin, n‰in ja voitin"; sill‰ veljenne ja sisareni heti kun kohtasivat
+toisensa, n‰kiv‰t; heti kun n‰kiv‰t, rakastuivat; heti kun rakastuivat,
+huokailivat; heti kun huokailivat, kysyiv‰t toinen toiseltaan syyt‰;
+heti kun saivat syyn tiet‰‰, etsiv‰t apukeinoa; ja n‰in askelittain
+rakensivat itselleen portaat avioliittoon, joita nyt ‰kkipikaa nousevat,
+jott'eiv‰t sit‰ ennen joutuisi ‰kkipikaiseen tekoon. He ovat oikein
+lemmenraivossa ja pyrkiv‰t yhteen; heit‰ ei voisi kurikoillakaan
+erottaa.
+
+ORLANDO.
+He menev‰t huomenna naimisiin; ja min‰ aion pyyt‰‰ herttuaa h‰ihin.
+Mutta, voi, kuinka haikeata on katsella onnellisuutta toisen silmill‰!
+Sit‰ l‰hemp‰n‰ min‰ huomenna olen alakuloisuuden huippua, jota
+onnellisemmaksi katson velje‰ni, kun on saanut mit‰ on toivonut.
+
+ROSALINDA.
+Mutta mit‰? Enkˆ min‰ huomenna kelpaisi teille Rosalindan asemesta?
+
+ORLANDO.
+En voi kauemmin el‰‰ turhista luuloista.
+
+ROSALINDA.
+En min‰k‰‰n siis kauemmin tahdo teit‰ vaivata turhilla puheilla.
+Tiet‰k‰‰ siis -- sill‰ puhun nyt vakaassa tarkoituksessa -- ett‰ tied‰n
+teid‰t ylimykseksi, jossa on paljon hyv‰‰. En sano t‰t‰ siksi, ett‰
+luulisitte suuria minun tiedoistani, kun sanon ett‰ tied‰n teid‰t
+sellaiseksi; enk‰ tavoittele sen suurempaa arvoa, kuin ett‰ sill‰
+voisin, vaikka v‰h‰isenk‰‰n, saada teit‰ uskomaan, ett‰ tarkoitan teid‰n
+parastanne enk‰ omaa kiitostani. Uskokaa, jos tahdotte, ett‰ min‰ voin
+saada aikaan kummia. Olen kolmivuotiaasta seurustellut velhomiehen
+kanssa, jolla oli syv‰lliset tiedot ammatissaan, silti olematta
+kadotuksen oma. Jos Rosalindaa rakastatte niin syd‰mmenne pohjasta, kuin
+k‰ytˆksenne julki huutaa, niin saatte naida h‰net samalla kuin veljenne
+nai Alienan. Tied‰n, miss‰ tukalassa tilassa h‰n on; eik‰ minulle ole
+mahdotonta, jos se ei teille ole vastenmielist‰, loihtia h‰net silmienne
+eteen ilmiel‰v‰n‰ ihmisen‰ ja mit‰‰n vaarallisia keinoja k‰ytt‰m‰tt‰.
+
+ORLANDO.
+Onko se vakaata t‰ytt‰ totta?
+
+ROSALINDA.
+On, kautta henkeni, joka on rakas minulle, vaikka sanonkin, ett‰ olen
+taikuri. Siis pukekaa parasta p‰‰llenne ja kutsukaa yst‰v‰nne, sill‰,
+jos haluatte, saatte pit‰‰ huomenna h‰it‰ Rosalindan kanssa, jos
+haluatte. Kas, tuossa tyttˆ, joka rakastaa minua, ja poika, joka
+rakastaa h‰nt‰.
+
+    (Silvius ja Phebe tulevat.)
+
+PHEBE.
+Tylysti teitte, nuori mies, kuin muille
+N‰ytitte kirjeen, jonka teille laitoin.
+
+ROSALINDA.
+En sit‰ sure: onkin aikeeni
+Tylyytt‰ teille osoittaa ja vihaa.
+Tuoss' uskollinen paimen teit‰ seuraa;
+H‰nt' armahtakaa, h‰neen katse luokaa,
+H‰n teit‰ jumaloitsee.
+
+PHEBE.
+                       Rakas paimen,
+H‰nelle sano, mit' on rakkaus.
+
+SILVIUS.
+Se sulaa kyynelt' on ja huokausta,
+Kuin minun rakkauteni Phebeen.
+
+PHEBE.
+Ja minun Ganymedeeseen.
+
+ORLANDO.
+Ja minun Rosalindaan.
+
+ROSALINDA.
+Ja minun kehenk‰‰n ei naiseen.
+
+SILVIUS.
+Se sulaa hellyytt' on ja hartautta,
+Kuin minun rakkauteni Phebeen.
+
+PHEBE.
+Ja minun Ganymedeeseen.
+
+ORLANDO.
+Ja minun Rosalindaan.
+
+ROSALINDA.
+Ja minun kehenk‰‰n ei naiseen.
+
+SILVIUS.
+Se sulaa, sulaa haaveilua on
+Ja sulaa hehkaa, sulaa toivomusta,
+Ja sulaa palvelua, alttiutta,
+Nˆyryytt‰, maltitonta malttamusta,
+Puhtautta, hartautt', ihka alttiutta,
+Kuin minun rakkauteni Phebeen.
+
+PHEBE.
+Ja minun Ganymedeeseen.
+
+ORLANDO.
+Ja minun Rosalindaan.
+
+ROSALINDA.
+Ja minun kehenk‰‰n ei naiseen.
+
+PHEBE (Rosalindalle).
+Jos niin on, miksi rakkauttani piikkaat?
+
+SILVIUS (Phebelle).
+Jos niin on, miksi rakkauttani pilkkaat?
+
+ORLANDO.
+Jos niin on, miksi rakkauttani pilkkaat?
+
+ROSALINDA.
+Kenelle tuo: "miks rakkauttani pilkkaat?"
+
+ORLANDO.
+H‰n t‰‰ll' ei ole eik‰ sit‰ kuule.
+
+ROSALINDA.
+Mutta, hyv‰t ihmiset, ei enemp‰‰ t‰t‰ lajia: se on niinkuin sudet
+ulvoisivat kuuta. -- (Silviukselle.) Teit‰ autan, jos vain voin. --
+(Phebelle.) Teit‰ rakastaisin, jos vain voisin. -- Huomenna yhdyt‰‰n
+kaikki. -- (Phebelle.) Teid‰t nain, jos koskaan tytˆn nain, ja huomenna
+pid‰mme h‰‰t. -- (Orlandolle.) Teid‰t tyydyt‰n, jos koskaan olen ket‰‰n
+tyydytt‰nyt, ja huomenna saatte pit‰‰ h‰‰nne. -- (Silviukselle.) Teid‰n
+mielenne hyvit‰n, jos se, mit‰ haluatte, voi mielt‰nne hyvitt‰‰, ja
+huomenna saatte pit‰‰ h‰‰nne. -- (Orlandolle.) Niin totta kuin
+Rosalindaa rakastatte, niin saapukaa. -- (Silviukselle.) Niin totta kuin
+Phebe‰ rakastatte, niin saapukaa; -- ja niin totta kuin min‰ en ket‰k‰‰n
+naista rakasta, niin totta saavun min‰kin. -- Hyv‰sti vain! Olen antanut
+teille m‰‰r‰ykset.
+
+SILVIUS.
+Min‰ en j‰‰ tulematta, jos vain el‰n.
+
+PHEBE.
+Enk‰ min‰.
+
+ORLANDO.
+Enk‰ min‰.
+
+    (Menev‰t.)
+
+
+Kolmas kohtaus.
+
+    Toinen kohta samaa mets‰‰.
+    (Siera Ja Kaisa tulevat.)
+
+SIERA.
+Huomenna on se ilon p‰iv‰, Kaisu; huomenna pid‰mme h‰‰t.
+
+KAISA.
+Sit‰ halaan koko syd‰mmest‰ni; ja toivon, ett‰ se ei ole mik‰‰n
+h‰pe‰llinen halu halata naimisiin niinkuin kaikki muutkin ihmiset.
+Tuossa tulee kaksi karkoitetun herttuan hovipoikaa.
+
+    (Kaksi hovipoikaa tulee.)
+
+1 HOVIPOIKA.
+Hauska tavata, hyv‰ herra.
+
+SIERA.
+Niin maarin, hauska tavata. Tulkaa, istukaa; istukaa ja pankaa lauluksi.
+
+2 HOVIPOIKA.
+Niinkuin tahdotte; istukaa te t‰h‰n keskellemme.
+
+1 HOVIPOIKA.
+Annammeko tulla suoraa p‰‰t‰, rykim‰tt‰, sylkem‰tt‰ ja valittamatta
+k‰heytt‰, joka on huonon ‰‰nen tavallinen esipuhe?
+
+2 HOVIPOIKA.
+Tietysti, tietysti; ja molemmat samaa ‰‰nt‰, niinkuin kaksi
+mustalais-akkaa samassa hevosessa.
+
+        Laulu.
+
+    Ja sulhaispoika se tyttˆineen,
+    Hih, hei vaan, hei, tilu, tilu, tilu, lei,
+    Ruisvainion kulkivat siimekseen.
+    Kev‰t-aika nyt on, niin, kihla-aika nyt on,
+    Kun mets‰t soi, soi soiseli soi,
+    Kev‰t lemmen aika on, oi!
+
+    Ja nurmelle t‰hkien heilint‰‰n,
+    Hih, hei vaan, hei, tilu, tilu, tilu, lei,
+    Ne nuoret laskivat lep‰‰m‰‰n.
+    Kev‰t-aika nyt on, niin, kihla-aika nyt on,
+    Kun mets‰t soi, soi soiseli soi,
+    Kev‰t lemmen aika on, oi!
+
+    Siell' laulavat tyttˆ ja sulhainen,
+    Hih, hei vaan, hei, tilu, tilu, tilu, lei,
+    "El‰m‰mme on niinkuin kukkainen".
+    Kev‰t-aika nyt on, niin, kihla-aika nyt on,
+    Kun mets‰t soi, soi soiseli soi,
+    Kev‰t lemmen aika on, oi!
+
+    Nykyhetki se hetki on herttaisin,
+    Hih, hei vaan, hei, tilu, tilu, tilu, lei,
+    Kev‰t kukkima-aika on lemmenkin.
+    Kev‰t-aika nyt on, niin, kihla-aika nyt on,
+    Kun mets‰t soi, soi soiseli soi,
+    Kev‰t lemmen aika on, oi!
+
+SIERA.
+Toden totta, nuoret herrat, vaikk'ei laulussa ollut sanottavaa
+sis‰llyst‰, niin oli s‰vel kuitenkin sangen ep‰sointuisa.
+
+1 HOVIPOIKA.
+Erehdytte, hyv‰ herra; pysyimme nuotissa ja pidimme v‰lit.
+
+SIERA.
+Niin kyll‰; mutta, totisesti, min‰ en pid‰ v‰li‰ kuunnella mokomia
+typeri‰ lauluja. Jumalan haltuun, ja Jumala parantakoon ‰‰nenne! --
+Tule, Kaisu!
+
+    (Menev‰t.)
+
+
+Nelj‰s kohtaus.
+
+    Toinen kulma samaa mets‰‰.
+    (Herttua Amiens, Jaques, Orlando, Oliver ja Celia tulevat.)
+
+HERTTUA.
+Orlando, uskotko s‰, ett‰ voi
+Tuo poika tehd‰ kaikki mit‰ lupaa?
+
+ORLANDO.
+V‰list‰ uskon, v‰list‰ en usko,
+Kuin ep‰ilij‰ toivoo ep‰illess‰‰n.
+
+    (Rosalinda, Silvius ja Phebe tulevat.)
+
+ROSALINDA.
+Vain hetki, niin on kaikki valmista. --
+    (Herttualle.)
+Jos Rosalindan t‰nne tuon, niin h‰net
+Lupaatte antaa Orlandolle?
+
+HERTTUA.
+                           Lupaan,
+Ja myˆt‰j‰isiks vaikka valtakunnat.
+
+ROSALINDA (Orlandolle).
+Te h‰net otatte, jos saapuu?
+
+ORLANDO.
+                             Otan,
+Vaikk' oisin valtakuntain valtias.
+
+ROSALINDA (Phebelle).
+Te minut otatte, jos suostun?
+
+PHEBE.
+                              Otan,
+Vaikk' ensi hetkess‰ jo kuolisin.
+
+ROSALINDA.
+Mut mua jos ette suostu ottamaan,
+Niin otatteko t‰m‰n paimenen?
+
+PHEBE.
+Niin on jo sovittu.
+
+ROSALINDA (Silviukselle).
+Phebenkˆ otatte, jos h‰n niin tahtoo?
+
+SILVIUS.
+Sen teen, vaikk' olisi se surmakseni.
+
+ROSALINDA.
+T‰‰n kaiken min‰ lupaan j‰rjest‰‰.
+Sananne nyt vain kaikki pit‰k‰‰.
+Te, herttua, annatte siis tytt‰renne; --
+Ja te, Orlando, h‰net otatte; --
+Te, Phebe, mulle k‰ytte puolisoksi,
+Tai, jos en kelpaa, tuolle paimenelle; --
+Te, Silvius, h‰net naida lupaatte,
+Jos mun h‰n hylk‰‰; -- ja nyt t‰‰lt‰ l‰hden
+N‰‰ kaikki ep‰ilykset ratkomaan.
+
+    (Rosalinda ja Celia menev‰t.)
+
+HERTTUA.
+Tuon paimenpojan kasvoiss' el‰v‰sti
+N‰en oman tytt‰reni piirteit‰.
+
+ORLANDO.
+Niin, ensi hetkest‰ kun h‰net n‰in,
+Ma tytt‰renne veljeks h‰nt‰ luulin.
+Mut t‰‰ll‰ mets‰ss' on h‰n kasvanut
+Ja moness' arveluttavassa tieteess'
+On oppia h‰n saanut sed‰lt‰‰n,
+Jot' osaavaksi kehuu taikuriksi
+Ja joka t‰‰ll‰ mets‰n piiloss' asuu.
+
+JAQUES.
+On varmaankin tulossa toinen vedenpaisumus, ja n‰m‰ parikunnat t‰ss‰
+ovat menossa arkkiin. Mutta tuossapa tulee oikein eriskummainen
+el‰inpari, jota kaikilla kielill‰ sanotaan narreiksi.
+
+    (Siera ja Kaisa tulevat.)
+
+SIERA.
+Terveiset ja tervehdykset teille kaikille!
+
+JAQUES.
+Hyv‰ herttua, sanokaa h‰net tervetulleeksi. Se on se kirjava sielu,
+jonka niin usein olen tavannut t‰‰ll‰ mets‰ss‰. H‰n vannoo olleensa
+hovimies.
+
+SIERA.
+Jos kukaan sit‰ ep‰ilee, niin pankoon minut koetukselle. Olen tanssinut
+minuettia; olen imarrellut naisia; olen ollut ovela yst‰villeni ja
+siloinen vihamiehilleni; olen vienyt kolme r‰‰t‰li‰ h‰viˆˆn; olen ollut
+nelj‰ss‰ riita-asiassa osallisena ja yhdess‰ jo joutua tappeluunkin.
+
+JAQUES.
+Ja mitenk‰ se sovittiin?
+
+SIERA.
+He, tulimme yhteen ja huomasimme, ett‰ riita-asiamme oli seitsem‰nnen
+asteen asia.
+
+JAQUES.
+Mit‰? Seitsem‰nnen asteen? -- Hyv‰ herttua, mieleisenne mies, niinh‰n?
+
+HERTTUA.
+Sangen paljon h‰nest‰ pid‰n.
+
+SIERA.
+Kost'jumala, herra hyv‰! Pyyt‰isin samaa teilt‰. Min‰kin tunkeudun t‰nne
+muiden maalaisparien joukkoon tekem‰‰n valan oikean ja v‰‰r‰n, aina
+miten avios‰‰ty velvoittaa ja liha ja veri helpoittaa. -- Kˆyh‰ tyttˆ,
+herraseni, rumann‰kˆinen kapine, vaan minun omani: pahainen p‰‰h‰npisto,
+herraseni, ottaa mik‰ ei muille kelpaa. Vahva siveys, herraseni, asuu
+niinkuin saituri huonossa hˆkkeliss‰, samoin kuin helmi rumassa
+simpukassa.
+
+HERTTUA.
+H‰n on, totta viekˆˆn, oikein sukkela ja kekseli‰s.
+
+SIERA.
+Aina sen mukaan, miten narrin varat riitt‰‰ n‰in ihanassa taudin
+puuskauksessa.
+
+JAQUES.
+Mutta se seitsem‰s aste! Miten se riita-asianne oli seitsem‰nnen asteen
+asia?
+
+SIERA.
+Se oli seitsem‰sti torjuttu valhe. -- Selk‰ suoraksi, Kaisu! -- N‰in,
+n‰hk‰‰s. Min‰ en pit‰nyt muutaman hoviherran parran kuosista; h‰n
+laittoi minulle sanan ett‰, jos min‰ olin sanonut ett‰ h‰nen partansa ei
+ollut hyvin leikattu, h‰n oli siin‰ asiassa toista mielt‰; t‰t‰ sanotaan
+"kohteliaaksi kumoamiseksi". Kun min‰ nyt l‰hetin takaisin sanan, ettei
+se ollut hyvin leikattu, niin h‰n l‰hetti taas sanan, ett‰ h‰n
+leikkautti partansa oman mielens‰ mukaan; sit‰ sanotaan "siivoksi
+huomautukseksi". Jos min‰ taas laitoin sanan, ettei se ollut hyvin
+leikattu, niin vastasi h‰n, ett‰ minulla ei ollut arvostelukyky‰; sit‰
+sanotaan "tˆrke‰ksi vastaukseksi". Jos viel‰kin sanoin ettei se ollut
+hyvin leikattu, vastasi h‰n, ett'en puhunut totta; sit‰ sanotaan
+"miehuulliseksi ojennukseksi". Jos taaskin sanoin ettei se ollut hyvin
+leikattu, ja h‰n vastasi ett‰ valehtelen, niin se on "uhitteleva
+vastav‰ite"; ja sitten tulee "ehdollinen valhe" ja sitten "suora valhe".
+
+JAQUES.
+Ja kuinka usein sanoitte, ett‰ h‰nen partansa ei ollut hyvin leikattu?
+
+SIERA.
+En tohtinut menn‰ kauemmaksi kuin ehdolliseen valheeseen, eik‰ h‰nk‰‰n
+tohtinut minua syytt‰‰ suorasta valheesta; ja sitte mittelimme
+miekkojamme ja l‰ksimme tiehemme.
+
+JAQUES.
+Voitteko nyt uudestaan j‰rjestyksess‰ nimitell‰ nuo valheen asteet?
+
+SIERA.
+Kyll‰, herra, me taistelemme pr‰nt‰tyn mukaan, kirjan mukaan, niinkuin
+niit‰ on kirjoja hyvi‰ tapojakin varten. Luettelen teille asteet.
+Ensimm‰inen: kohtelias kumoaminen; toinen: siivo huomautus; kolmas:
+tˆrke‰ vastaus; nelj‰s: miehuullinen ojennus; viides: uhitteleva
+vastav‰ite; kuudes: ehdollinen valhe; seitsem‰s: suora valhe. Kaikista
+n‰ist‰ voitte selviyty‰, paitse suorasta valheesta, ja siit‰kin voi
+teit‰ auttaa pieni _jos_. Olen n‰hnyt, ett‰ seitsem‰n valamiest‰ ei
+voinut sovittaa pient‰ riitaa, mutta kun riitapuolet tulivat yhteen,
+niin toinen niist‰ keksi tuon sanan jos; esimerkiksi: "jos te sanoitte
+niin, niin sanoin min‰ niin"; ja he paiskasivat k‰tt‰ ja tulivat
+veljiksi. Se jos se on se oikea rauhanrakentaja; harvinainen voima siin‰
+_jos_-sanassa.
+
+JAQUES.
+Eikˆ t‰m‰ ole harvinainen mies, hyv‰ herttua? Ymm‰rt‰‰ niin hyvin
+kaikkia asioita, ja on kuitenkin vain narri.
+
+HERTTUA.
+H‰n k‰ytt‰‰ narriuttaan kuvahevosena,[13] jonka piilosta ampuu nuoliaan.
+
+    (Hymen, Rosalinda naisen puvussa, ja Celia tulevat.)
+    (Hiljaista soittoa.)
+
+HYMEN.
+
+    On taivahassa riemu,
+    Kun maassa vihan liemu
+    Rakkaudeks muuttuu.
+    T‰ss' sulle Hymen kantaa
+    Ja taivas lapses antaa.
+    Siis nyt vain puuttuu,
+    Ett' yhd‰t k‰det liittohon,
+    Kun syd‰mmet jo yht‰ on.
+
+ROSALINDA (herttualle).
+Ma teid‰n olen, teille antaun.
+    (Orlandolle.)
+Ma teid‰n olen, teille antaun.
+
+HERTTUA.
+Olet tytt‰reni, jos ei pet‰ n‰kˆ.
+
+ORLANDO.
+Olet Rosalinda, jos ei pet‰ n‰kˆ.
+
+PHEBE.
+Jos totta n‰kˆ t‰‰,
+Hyv‰sti, lempi, j‰‰!
+
+ROSALINDA (herttualle).
+En toista is‰‰ halua kuin teid‰t.
+    (Orlandolle.)
+En toista miest‰ halua kuin teid‰t.
+    (Phebelle.)
+En koskaan toista naista nai kuin teid‰t.
+
+HYMEN.
+
+    Seis! Kaikki kummat n‰‰
+    Nyt Hymen selvitt‰‰
+    Ja hyv‰‰n loppuun vie.
+    Kahdeksan k‰sikk‰in
+    K‰y lemmen liittoon n‰in,
+    Jos tosi totta lie.
+(Orlandolle ja Rosalindalle.)
+    Teit' ei erota nyt mik‰‰n.
+(Oliverille ja Celialle.)
+    Yksi ootte te niin ik‰‰n.
+(Phebelle.)
+    Paimeneen te suostukaatte,
+    Muuten naisen naida saatte.
+(Sieralle ja Kaisalle.)
+    Tekin yhteen liittyk‰‰
+    Niinkuin talveen ruma s‰‰. --
+    H‰‰virsi‰ nyt viritelk‰‰;
+    Sill' aikaa pulmaa selvitelk‰‰,
+    Niin ett‰ n‰m‰ kummat s‰‰ntyy
+    Ja kaikki tolalleen taas k‰‰ntyy.
+
+        Laulu.
+
+    H‰‰t Junolle on kunniaa,
+    Siis vihkis‰‰ty viihtykˆˆn!
+    Maan piirit Hymen kansoittaa,
+    Suur' Hymen kauan el‰kˆˆn!
+    Ylint‰ ylistyst‰ saa
+    Suur' Hymen, maat kun kansoittaa.
+
+HERTTUA.
+Oi, Celia, sylini ma avaan sulle!
+Tyt‰rt‰ halvempi et ole mulle.
+
+PHEBE (Silviukselle).
+Sin' olet minun: sana velvoittaa;
+Mua hellyytesi liittoon pakottaa.
+
+    (Jaques de Bois tulee.)
+
+JAQUES de BOIS.
+Sanoa minun suokaa pari sanaa.
+Ma Roland-vanhuksen oon toinen poika
+Ja sanan t‰h‰n jaloon seuraan tuon.
+Kun Fredrik-herttua kuuli, ett‰ t‰nne
+L‰ks arvomiest‰ monta joka p‰iv‰,
+Niin sotajoukon ker‰si, joll' aikoi,
+H‰n itse johtajana, vangiks ottaa
+Nyt veljens‰ ja tappaa miekalla.
+Mut t‰m‰n mets‰maan kun laitaan tuli,
+Tapasi h‰net vanha, hurskas mies,
+Jok' otti h‰net erikseen ja k‰‰nsi
+Pois hankkeistaan ja koko maailmasta.
+Saa karkoitettu veli kruunun j‰lleen,
+Ja muutkin karkoitetut omat maansa
+Takaisin saavat. Hengell‰ni vastaan,
+Ett' on se totta.
+
+HERTTUA.
+                  Terve, nuorukainen!
+H‰‰lahjan kauniin veljillesi tuot:
+Takaisin toinen maansa saa, ja toinen
+Maan mahtavan ja laajan herttuakunnan.
+Mut t‰‰ll‰ mets‰ss' ensin p‰‰tt‰k‰‰mme
+Mit' alettu ja hankittu on t‰‰ll‰.
+T‰‰ hauska parvi sitten, joka monet
+Tukalat yˆt ja p‰iv‰t kanssain eli,
+Osansa uudest' onnestani saa,
+Jokainen ansion ja arvon mukaan.
+Siks unhoon j‰‰kˆˆn t‰m‰ loisto uus
+Ja vallass' olkoon maalaishupaisuus. --
+Nyt soitto soimaan! K‰ym‰‰n karkelot!
+Ja tanssiin kaikki, sulhot, morsiot!
+
+JAQUES.
+Suvaitkaa, herra: -- jos ma oikein kuulin,
+On herttua hengen mieheks ruvennut
+Ja hovin prameuden heitt‰nyt.
+
+JAQUES de BOIS.
+Niin on.
+
+JAQUES.
+                Niin aion tehd‰ min‰kin:
+N‰ist' ‰sken-k‰‰ntyneist‰ paljonkin
+On meill‰ kuultavaa ja opittavaa. --
+    (Herttualle.)
+Suon teille uuden arvonne: sen hyvin
+Hyveenne kannattaa ja k‰rsint‰nne; --
+    (Orlandolle.)
+Ja teille armaan, ani ansaitun; --
+    (Oliverille.)
+Ja teille armaan, maat ja mahtiseurat; --
+    (Silviukselle.)
+Ja teille vaivoin saadun vihkivuoteen; --
+    (Sieralle.)
+Ja teille toranne; h‰‰matkaa varten
+Teill' ev‰it' on vain kahdeks kuukaudeksi. --
+Pit‰k‰‰ hauskaa: mulla parempaa
+On teht‰v‰‰ kuin muita tanssittaa.
+
+HERTTUA.
+J‰‰, Jaques, j‰‰ t‰nne.
+
+JAQUES.
+Jos mit‰ tahdotte, mun lˆyd‰tten:
+Ma j‰tt‰m‰‰nne luolaan pakenen.
+Huvinpitoon en.
+
+    (Menee.)
+
+HERTTUA.
+Niin juhlamenomme nyt alkakaamme,
+Ett' tosi-ilon ikivieraaks saamme.
+
+    (Tanssi.)
+
+
+
+EPILOGI.
+
+ROSALINDA.
+Ei ole tavallista n‰hd‰ sankaritarta epiloogina, mutta se ei ole sen
+sopimattomampaa kuin n‰hd‰ sankaria proloogina. Niinkuin hyv‰ viini ei
+kaipaa kehaisua, niin hyv‰ n‰ytelm‰k‰‰n ei kaipaa epiloogia; mutta hyv‰‰
+viini‰ auttaa hyv‰ kehaisu, ja hyv‰t n‰ytelm‰t paranevat hyv‰st‰
+epiloogista. Mutta miss‰ asemassa olen sitten min‰, kun en ole hyv‰
+epiloogi, enk‰ voi teille hyv‰‰ kappalettakaan suositella? Min‰ en ole
+kerj‰l‰isen pukimessa, siis ei sovi minulle kerj‰‰minen; ainoa neuvo on
+ruveta loihtimaan, ja alotan naisista. Manaan teit‰, hyv‰t naiset, niin
+totta kuin miehi‰ rakastatte, ett‰ miellytte t‰h‰n kujeiluun sen verran
+kuin haluatte; ja teit‰ manaan, hyv‰t miehet, niin totta kuin naisia
+rakastatte -- ja typer‰ naurunne osoittaa, ett'ei kukaan teist‰ heit‰
+vihaa -- ett‰ yhdess‰ naisten kanssa kujeilu teit‰ miellytt‰isi. Jos
+min‰ olisin nainen,[14] niin suutelisin teit‰ kaikkia, joilla on parta,
+mik‰ minua miellytt‰‰, kasvot, joita suvaitsen, ja henki, joka ei
+tymp‰ise; ja varmaankin nyt kaikki, joilla on hyv‰ parta tai hyv‰t
+kasvot tai suloinen henki, kun t‰ss‰ teen kumarrukseni, suopeaan
+tarjoukseeni sanovat j‰‰hyv‰iset.
+
+    (Menev‰t.)
+
+
+
+
+SELITYKSIƒ:
+
+
+[1] _Ardennien mets‰_, Ranskan Flandriassa Charlemontin ja Rocroyn
+rajamailla. Sh:n kuvauksesta luulisi sen olevan kuuman vyˆhykkeen
+maassa, jossa on jalopeuroja ja palmupuita.
+
+[2] _Robin Hood_, balladeissa ylistetty rosvo ja salamets‰st‰j‰, joka
+iloisten kumppaniensa kanssa elosteli Englannin metsiss‰.
+
+[3] _Kuin h‰ijy, myrkyllinen rupikonna_. Kansantarinan mukaan oli
+rupikonnan p‰‰ss‰ kivi, joka hienonnettuna ja l‰mpim‰‰n viiniin
+sekoitettuna voi ruumiista poistaa myrkkyj‰.
+
+[4] _Herneenpalko_. Avonaisia herneenpalkoja k‰yttiv‰t naiset hiusten
+koristuksena. Ylh‰isill‰ ne oli kullasta ja herneet helmi‰.
+
+[5] _Kaikkia Egyptin esikoisia_ s.o. kaikkia korkeasukuisia; tarkoittaa
+luultavasti herttuaa.
+
+[6] _Ihmetell‰ seitsem‰n p‰iv‰‰ yhdeks‰st‰_. Viittaa englantilaiseen
+sananlaskuun: ei ihme kest‰ yhdeks‰‰ p‰iv‰‰ kauemmin.
+
+[7] _Pythagoraan ajoista asti, jolloin olin irlantilainen rotta_.
+Viittaa Pythagoraan sielunvaellus-oppiin. Irlannissa k‰ytettiin
+riimillisi‰ loitsulukuja rottien h‰vitt‰miseksi.
+
+[8] _Gargantua_ oli j‰ttil‰inen, joka yhdell‰ siemauksella nielaisi
+kuusi pyhiinvaeltajaa, jotka osuivat h‰nen lautaselleen.
+
+[9] _Tapettikuvat_. Vanhoihin kuviin oli tapana kuvattavien suun viereen
+asettaa kaikenmoisia mielilauseita.
+
+[10] _Ens lempi syttyy ensi n‰kem‰ss‰_. Marlowen runoelmasta Hero ja
+Leander, jota siihen aikaan paljo luettiin ja ihailtiin.
+
+[11] _Muuten tuskin uskon, ett‰ olette gondolissa uinut_, s.o. ollut
+Venetiassa, joka oli silloisten rikkaiden ja joutilaiden englantilaisten
+mielipaikka.
+
+[12] _Diana suihkukaivolla_. Dianan kuva, jonka silmist‰, rinnoista y.m.
+suihkui vett‰, oli siihen aikaan suihkukaivojen koristeena.
+
+[13] _Kuvahevonen_. El‰v‰ tai palttinasta t.m.s. tehty hevonen, jonka
+takaa linnustaja v‰ijyi mets‰lintuja.
+
+[14] _Jos min‰ olisin nainen_. Tulee muistaa, ett‰ Sh:n aikana nuoret
+pojat n‰ytteliv‰t naisten osia.
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Miten haluatte, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK MITEN HALUATTE ***
+
+***** This file should be named 43532-8.txt or 43532-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/3/5/3/43532/
+
+Produced by Tapio Riikonen
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
